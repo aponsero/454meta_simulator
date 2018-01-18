@@ -36,7 +36,7 @@ foreach my $key (keys %profile){
    $realTotal=$realTotal+$rounded;
    print $fhe "$key.fa\t$value\t$rounded\n";
 }
-print $fhe "Real_total\t$realTotal\n";
+print "In total, the simulator will produce Real_total=$realTotal reads\n";
 
 }else {die "could not find $profileLog";}
 }else {die "could not create $fileexport";}
