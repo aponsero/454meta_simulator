@@ -34,7 +34,7 @@ foreach my $key (keys %profile){
    my $value = ($profile{$key}/$total)*$nbReads;
    my $rounded = int($value + 0.5);
    $realTotal=$realTotal+$rounded;
-   print $fhe "$key.fa\t$value\t$rounded\n";
+   print $fhe "$key.fna;$value;$rounded\n";
 }
 print "In total, the simulator will produce Real_total=$realTotal reads\n";
 

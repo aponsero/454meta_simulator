@@ -1,0 +1,16 @@
+test array launch nb 2
+abc.fna;146.666666666667;147
+nb of sequences found = 2481
+name = abc.fna
+nb_reads= 147
+nb_seq= 2481
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/abc.fna contains 2481 and I want to generate 147
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=0b
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:00 for 1 cpus.
+You previously had 0.  You now have 0 remaining for the queue oc_standard

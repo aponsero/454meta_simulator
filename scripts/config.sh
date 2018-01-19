@@ -2,9 +2,10 @@ export CWD=$PWD
 # where programs are
 export BIN_DIR="/rsgrps/bhurwitz/hurwitzlab/bin"
 # user configs
-export OUT_DIR="/rsgrps/bhurwitz/alise/my_scripts/metagenomes_simulator/test_pipeline"
+export OUT_DIR="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline"
 export NB_READ=1000
-export PROFILE="/rsgrps/bhurwitz/alise/my_scripts/metagenomes_simulator/test_pipeline/profile.txt"
+export PROFILE="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/profile.txt"
+export DB_DIR="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref"
 # scripts configs
 export SCRIPT_DIR="$PWD/scripts"
 export WORKER_DIR="$SCRIPT_DIR/workers"

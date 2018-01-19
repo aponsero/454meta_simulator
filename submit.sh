@@ -11,6 +11,11 @@ if [[ ! -f "$PROFILE" ]]; then
     exit 1
 fi
 
+if [[ ! -d "$DB_DIR" ]]; then
+    echo "$DB_DIR does not exist. Please provide the path for the folder containing the reference genomes. Job terminated."
+    exit 1
+fi
+
 if [[ ! -d "$OUT_DIR" ]]; then
     echo "$OUT_DIR does not exist. The folder was created."
     mkdir $OUT_DIR
@@ -44,5 +49,48 @@ if [ "${JOB_ID}x" != "x" ]; then
        echo Problem submitting job. Job terminated.
        exit 1
     fi
+#
+## 02- run simulator
+#
+
+PROG2="02-simulator"
+export STDERR_DIR2="$SCRIPT_DIR/err/$PROG2"
+export STDOUT_DIR2="$SCRIPT_DIR/out/$PROG2"
+
+
+init_dir "$STDERR_DIR2" "$STDOUT_DIR2"
+
+export REPORT="$OUT_DIR/report.log"
+export NUM_JOBS=$(lc $PROFILE)
+
+if [ $NUM_JOBS -gt 1 ]; then
+
+    echo " launching $SCRIPT_DIR/run_simulator.sh as an array job : $NUM_JOBS jobs are launched"
+    echo "previous job ID $PREV_JOB_ID"
+
+    JOB_ID=`qsub $ARGS -v WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" -W depend=afterok:$PREV_JOB_ID -J 1-$NUM_JOBS $SCRIPT_DIR/run_simulator.sh`
+
+    if [ "${JOB_ID}x" != "x" ]; then
+        echo Job: \"$JOB_ID\"
+        PREV_JOB_ID=$JOB_ID
+    else
+        echo Problem submitting job. Job terminated.
+        exit 1
+   fi
+
+else
+        echo "launching $SCRIPT_DIR/run_simulator.sh as unique job."
+
+        JOB_ID=`qsub $ARGS -v WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" -W depend=afterok:$PREV_JOB_ID $SCRIPT_DIR/run_simulator.sh`
+
+        if [ "${JOB_ID}x" != "x" ]; then
+             echo Job: \"$JOB_ID\"
+             PREV_JOB_ID=$JOB_ID
+        else
+             echo Problem submitting job. Job terminated.
+             exit 1
+        fi
+fi
+
 
 
