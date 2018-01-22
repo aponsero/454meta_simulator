@@ -5,6 +5,12 @@
 #PBS -l place=free:shared
 
 cd $OUT_DIR
-RUN="$WORKER_DIR/calculator.pl"
 
-perl $RUN $NB_READ $PROFILE 
+module load perl
+module load python
+
+RUN="$WORKER_DIR/calculator.pl"
+perl $RUN $NB_READ $PROFILE
+
+RUN2="$WORKER_DIR/gaussian.py"
+python $RUN2 -n $NB_READ -o $OUT_DIR

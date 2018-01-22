@@ -1,0 +1,109 @@
+test array launch nb 1
+ghi.fna;6.66666666666667;7;0
+nb of sequences found = 31
+name = ghi.fna
+nb_reads= 7
+nb_seq= 31
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 0
+gauss size List :
+258
+324
+269
+398
+420
+348
+346
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/ghi.fna contains 31 and I want to generate 7
+random contig pick : 8
+random contig pick : 19
+random contig pick : 8
+random contig pick : 15
+random contig pick : 27
+random contig pick : 24
+random contig pick : 27
+############checking hash##############
+Contig n°19 --> 1 reads to generates
+Contig n°27 --> 2 reads to generates
+Contig n°24 --> 1 reads to generates
+Contig n°8 --> 2 reads to generates
+Contig n°15 --> 1 reads to generates
+###########random reads generation##############
+this is record n°1
+this contig won't be use for read generation
+this is record n°2
+this contig won't be use for read generation
+this is record n°3
+this contig won't be use for read generation
+this is record n°4
+this contig won't be use for read generation
+this is record n°5
+this contig won't be use for read generation
+this is record n°6
+this contig won't be use for read generation
+this is record n°7
+this contig won't be use for read generation
+this is record n°8
+I need 2 reads in that contig
+gaussian read size = 258 / contig_size = 3038 / start=2417 finish= 2675
+gaussian read size = 324 / contig_size = 3038 / start=620 finish= 944
+this is record n°9
+this contig won't be use for read generation
+this is record n°10
+this contig won't be use for read generation
+this is record n°11
+this contig won't be use for read generation
+this is record n°12
+this contig won't be use for read generation
+this is record n°13
+this contig won't be use for read generation
+this is record n°14
+this contig won't be use for read generation
+this is record n°15
+I need 1 reads in that contig
+gaussian read size = 269 / contig_size = 19030 / start=12487 finish= 12756
+this is record n°16
+this contig won't be use for read generation
+this is record n°17
+this contig won't be use for read generation
+this is record n°18
+this contig won't be use for read generation
+this is record n°19
+I need 1 reads in that contig
+gaussian read size = 398 / contig_size = 6946 / start=5741 finish= 6139
+this is record n°20
+this contig won't be use for read generation
+this is record n°21
+this contig won't be use for read generation
+this is record n°22
+this contig won't be use for read generation
+this is record n°23
+this contig won't be use for read generation
+this is record n°24
+I need 1 reads in that contig
+gaussian read size = 420 / contig_size = 2048 / start=1602 finish= 2022
+this is record n°25
+this contig won't be use for read generation
+this is record n°26
+this contig won't be use for read generation
+this is record n°27
+I need 2 reads in that contig
+gaussian read size = 348 / contig_size = 1304 / start=655 finish= 1003
+gaussian read size = 346 / contig_size = 1304 / start=189 finish= 535
+this is record n°28
+this contig won't be use for read generation
+this is record n°29
+this contig won't be use for read generation
+this is record n°30
+this contig won't be use for read generation
+this is record n°31
+this contig won't be use for read generation
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=0b
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:02 for 1 cpus.
+You previously had 100999:43:44.  You now have 100999:43:42 remaining for the queue oc_standard

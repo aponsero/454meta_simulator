@@ -11,7 +11,6 @@ my $profileLog=$ARGV[1];
 my %profile;
 my $fileexport="report.log";
 my $total=0;
-my $realTotal=0;
 
 if (open(my $fhe, '>', $fileexport)) { 
 
@@ -30,13 +29,15 @@ if (open(my $fh, '<', $profileLog)) {
    
 print "in total, $total reads where found in the profile\n";
 
+my $offset=0;
 foreach my $key (keys %profile){
    my $value = ($profile{$key}/$total)*$nbReads;
    my $rounded = int($value + 0.5);
-   $realTotal=$realTotal+$rounded;
-   print $fhe "$key.fna;$value;$rounded\n";
+   
+   print $fhe "$key.fna;$value;$rounded;$offset\n";
+   $offset=$offset+$rounded;
 }
-print "In total, the simulator will produce Real_total=$realTotal reads\n";
+print "In total, the simulator will produce Real_total=$offset reads\n";
 
 }else {die "could not find $profileLog";}
 }else {die "could not create $fileexport";}
