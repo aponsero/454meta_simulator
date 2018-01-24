@@ -1,0 +1,11 @@
+in total, 900 reads where found in the profile
+In total, the simulator will produce Real_total=1001 reads
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=0b
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:02 for 1 cpus.
+You previously had 100842:40:19.  You now have 100842:40:17 remaining for the queue oc_standard
