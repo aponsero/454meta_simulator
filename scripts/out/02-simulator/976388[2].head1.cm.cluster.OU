@@ -1,0 +1,524 @@
+test array launch nb 2
+def.fna;96.6666666666667;97;147
+nb of sequences found = 2
+name = def.fna
+nb_reads= 97
+nb_seq= 2
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 147
+gauss size List :
+390
+340
+298
+357
+319
+351
+353
+256
+306
+372
+381
+332
+286
+256
+370
+405
+361
+424
+320
+373
+314
+370
+406
+380
+272
+346
+459
+334
+366
+367
+318
+378
+360
+385
+269
+333
+269
+360
+258
+321
+352
+318
+425
+449
+321
+312
+405
+450
+396
+415
+294
+309
+322
+416
+283
+343
+347
+408
+378
+299
+305
+398
+337
+397
+299
+377
+323
+357
+303
+315
+348
+428
+331
+310
+262
+399
+264
+298
+306
+440
+318
+299
+327
+317
+352
+317
+384
+384
+349
+385
+305
+322
+257
+279
+376
+456
+292
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/def.fna contains 2 and I want to generate 97
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+random contig pick : 1
+############checking hash##############
+Contig n°1 --> 48 reads to generates
+Contig n°2 --> 49 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 48 reads in that contig
+gaussian read size = 390 / contig_size = 2364981 / start=2183646 finish= 2184036
+insertion
+insertion
+mutation
+deletion
+gaussian read size = 340 / contig_size = 2364981 / start=1178565 finish= 1178905
+insertion
+gaussian read size = 298 / contig_size = 2364981 / start=1219066 finish= 1219364
+insertion
+deletion
+insertion
+gaussian read size = 357 / contig_size = 2364981 / start=1037115 finish= 1037472
+insertion
+deletion
+gaussian read size = 319 / contig_size = 2364981 / start=1149238 finish= 1149557
+insertion
+deletion
+gaussian read size = 351 / contig_size = 2364981 / start=571977 finish= 572328
+mutation
+deletion
+insertion
+insertion
+gaussian read size = 353 / contig_size = 2364981 / start=1554731 finish= 1555084
+mutation
+gaussian read size = 256 / contig_size = 2364981 / start=735297 finish= 735553
+insertion
+deletion
+gaussian read size = 306 / contig_size = 2364981 / start=1303918 finish= 1304224
+mutation
+deletion
+deletion
+gaussian read size = 372 / contig_size = 2364981 / start=947098 finish= 947470
+deletion
+deletion
+mutation
+deletion
+gaussian read size = 381 / contig_size = 2364981 / start=2180724 finish= 2181105
+insertion
+gaussian read size = 332 / contig_size = 2364981 / start=1837506 finish= 1837838
+deletion
+deletion
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 286 / contig_size = 2364981 / start=673477 finish= 673763
+deletion
+insertion
+gaussian read size = 256 / contig_size = 2364981 / start=147881 finish= 148137
+gaussian read size = 370 / contig_size = 2364981 / start=1940412 finish= 1940782
+gaussian read size = 405 / contig_size = 2364981 / start=1855699 finish= 1856104
+insertion
+gaussian read size = 361 / contig_size = 2364981 / start=715235 finish= 715596
+insertion
+insertion
+mutation
+gaussian read size = 424 / contig_size = 2364981 / start=1953334 finish= 1953758
+insertion
+insertion
+gaussian read size = 320 / contig_size = 2364981 / start=1678960 finish= 1679280
+insertion
+deletion
+gaussian read size = 373 / contig_size = 2364981 / start=386077 finish= 386450
+insertion
+gaussian read size = 314 / contig_size = 2364981 / start=570628 finish= 570942
+mutation
+deletion
+gaussian read size = 370 / contig_size = 2364981 / start=1470030 finish= 1470400
+deletion
+gaussian read size = 406 / contig_size = 2364981 / start=1827498 finish= 1827904
+deletion
+deletion
+gaussian read size = 380 / contig_size = 2364981 / start=1198358 finish= 1198738
+deletion
+insertion
+gaussian read size = 272 / contig_size = 2364981 / start=2148578 finish= 2148850
+mutation
+insertion
+deletion
+deletion
+gaussian read size = 346 / contig_size = 2364981 / start=1535868 finish= 1536214
+gaussian read size = 459 / contig_size = 2364981 / start=1044238 finish= 1044697
+gaussian read size = 334 / contig_size = 2364981 / start=1895398 finish= 1895732
+insertion
+insertion
+deletion
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 366 / contig_size = 2364981 / start=2046257 finish= 2046623
+deletion
+insertion
+gaussian read size = 367 / contig_size = 2364981 / start=1056839 finish= 1057206
+mutation
+insertion
+gaussian read size = 318 / contig_size = 2364981 / start=839724 finish= 840042
+insertion
+insertion
+insertion
+gaussian read size = 378 / contig_size = 2364981 / start=1368048 finish= 1368426
+deletion
+deletion
+mutation
+deletion
+gaussian read size = 360 / contig_size = 2364981 / start=1864628 finish= 1864988
+gaussian read size = 385 / contig_size = 2364981 / start=820887 finish= 821272
+deletion
+deletion
+gaussian read size = 269 / contig_size = 2364981 / start=2201042 finish= 2201311
+insertion
+deletion
+gaussian read size = 333 / contig_size = 2364981 / start=550813 finish= 551146
+insertion
+gaussian read size = 269 / contig_size = 2364981 / start=1073534 finish= 1073803
+mutation
+gaussian read size = 360 / contig_size = 2364981 / start=1314900 finish= 1315260
+mutation
+gaussian read size = 258 / contig_size = 2364981 / start=2272635 finish= 2272893
+gaussian read size = 321 / contig_size = 2364981 / start=142497 finish= 142818
+insertion
+deletion
+deletion
+gaussian read size = 352 / contig_size = 2364981 / start=993322 finish= 993674
+insertion
+deletion
+gaussian read size = 318 / contig_size = 2364981 / start=2328487 finish= 2328805
+insertion
+mutation
+gaussian read size = 425 / contig_size = 2364981 / start=1738813 finish= 1739238
+insertion
+gaussian read size = 449 / contig_size = 2364981 / start=1800873 finish= 1801322
+insertion
+deletion
+insertion
+deletion
+insertion
+mutation
+insertion
+gaussian read size = 321 / contig_size = 2364981 / start=1022379 finish= 1022700
+deletion
+deletion
+mutation
+gaussian read size = 312 / contig_size = 2364981 / start=2117139 finish= 2117451
+gaussian read size = 405 / contig_size = 2364981 / start=554852 finish= 555257
+insertion
+deletion
+insertion
+deletion
+gaussian read size = 450 / contig_size = 2364981 / start=1463497 finish= 1463947
+insertion
+deletion
+insertion
+this is record n°2
+I need 49 reads in that contig
+gaussian read size = 396 / contig_size = 4308966 / start=2566895 finish= 2567291
+insertion
+insertion
+insertion
+mutation
+mutation
+deletion
+gaussian read size = 415 / contig_size = 4308966 / start=1182989 finish= 1183404
+deletion
+gaussian read size = 294 / contig_size = 4308966 / start=3220177 finish= 3220471
+insertion
+insertion
+gaussian read size = 309 / contig_size = 4308966 / start=2418291 finish= 2418600
+deletion
+insertion
+insertion
+gaussian read size = 322 / contig_size = 4308966 / start=3591984 finish= 3592306
+mutation
+gaussian read size = 416 / contig_size = 4308966 / start=1438996 finish= 1439412
+insertion
+deletion
+deletion
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 283 / contig_size = 4308966 / start=3440105 finish= 3440388
+deletion
+gaussian read size = 343 / contig_size = 4308966 / start=3967110 finish= 3967453
+gaussian read size = 347 / contig_size = 4308966 / start=1971548 finish= 1971895
+insertion
+insertion
+gaussian read size = 408 / contig_size = 4308966 / start=1578938 finish= 1579346
+insertion
+insertion
+deletion
+deletion
+gaussian read size = 378 / contig_size = 4308966 / start=2634262 finish= 2634640
+insertion
+deletion
+insertion
+gaussian read size = 299 / contig_size = 4308966 / start=3397683 finish= 3397982
+deletion
+deletion
+deletion
+gaussian read size = 305 / contig_size = 4308966 / start=4129047 finish= 4129352
+insertion
+deletion
+deletion
+deletion
+gaussian read size = 398 / contig_size = 4308966 / start=3004791 finish= 3005189
+insertion
+insertion
+deletion
+gaussian read size = 337 / contig_size = 4308966 / start=537145 finish= 537482
+mutation
+deletion
+deletion
+gaussian read size = 397 / contig_size = 4308966 / start=973016 finish= 973413
+insertion
+deletion
+insertion
+gaussian read size = 299 / contig_size = 4308966 / start=4221320 finish= 4221619
+gaussian read size = 377 / contig_size = 4308966 / start=394718 finish= 395095
+insertion
+insertion
+gaussian read size = 323 / contig_size = 4308966 / start=2410142 finish= 2410465
+deletion
+insertion
+gaussian read size = 357 / contig_size = 4308966 / start=4269632 finish= 4269989
+insertion
+deletion
+deletion
+mutation
+gaussian read size = 303 / contig_size = 4308966 / start=1508841 finish= 1509144
+deletion
+deletion
+deletion
+deletion
+gaussian read size = 315 / contig_size = 4308966 / start=918765 finish= 919080
+deletion
+gaussian read size = 348 / contig_size = 4308966 / start=3027235 finish= 3027583
+insertion
+gaussian read size = 428 / contig_size = 4308966 / start=550002 finish= 550430
+insertion
+gaussian read size = 331 / contig_size = 4308966 / start=2483078 finish= 2483409
+deletion
+gaussian read size = 310 / contig_size = 4308966 / start=1565963 finish= 1566273
+insertion
+gaussian read size = 262 / contig_size = 4308966 / start=1795682 finish= 1795944
+deletion
+deletion
+deletion
+insertion
+insertion
+gaussian read size = 399 / contig_size = 4308966 / start=3345783 finish= 3346182
+deletion
+insertion
+gaussian read size = 264 / contig_size = 4308966 / start=4095394 finish= 4095658
+deletion
+gaussian read size = 298 / contig_size = 4308966 / start=4019263 finish= 4019561
+deletion
+gaussian read size = 306 / contig_size = 4308966 / start=3216636 finish= 3216942
+deletion
+gaussian read size = 440 / contig_size = 4308966 / start=1912192 finish= 1912632
+deletion
+gaussian read size = 318 / contig_size = 4308966 / start=2212887 finish= 2213205
+deletion
+gaussian read size = 299 / contig_size = 4308966 / start=1343587 finish= 1343886
+deletion
+gaussian read size = 327 / contig_size = 4308966 / start=970984 finish= 971311
+insertion
+insertion
+deletion
+gaussian read size = 317 / contig_size = 4308966 / start=3657042 finish= 3657359
+insertion
+insertion
+insertion
+gaussian read size = 352 / contig_size = 4308966 / start=636522 finish= 636874
+deletion
+gaussian read size = 317 / contig_size = 4308966 / start=1517117 finish= 1517434
+insertion
+gaussian read size = 384 / contig_size = 4308966 / start=1234728 finish= 1235112
+gaussian read size = 384 / contig_size = 4308966 / start=3409592 finish= 3409976
+deletion
+gaussian read size = 349 / contig_size = 4308966 / start=250198 finish= 250547
+insertion
+deletion
+insertion
+gaussian read size = 385 / contig_size = 4308966 / start=1009478 finish= 1009863
+insertion
+deletion
+deletion
+gaussian read size = 305 / contig_size = 4308966 / start=3977545 finish= 3977850
+gaussian read size = 322 / contig_size = 4308966 / start=1817781 finish= 1818103
+insertion
+insertion
+gaussian read size = 257 / contig_size = 4308966 / start=4023557 finish= 4023814
+deletion
+insertion
+gaussian read size = 279 / contig_size = 4308966 / start=976011 finish= 976290
+insertion
+gaussian read size = 376 / contig_size = 4308966 / start=863036 finish= 863412
+insertion
+deletion
+gaussian read size = 456 / contig_size = 4308966 / start=872363 finish= 872819
+insertion
+insertion
+gaussian read size = 292 / contig_size = 4308966 / start=2153502 finish= 2153794
+mutation
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=0b
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:01 for 1 cpus.
+You previously had 100449:56:18.  You now have 100449:56:17 remaining for the queue oc_standard

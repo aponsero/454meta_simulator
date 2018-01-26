@@ -62,13 +62,14 @@ init_dir "$STDERR_DIR2" "$STDOUT_DIR2"
 
 export REPORT="$OUT_DIR/report.log"
 export NUM_JOBS=$(lc $PROFILE)
+    echo "Error model choice : $MODEL_CHOICE"
 
 if [ $NUM_JOBS -gt 1 ]; then
 
     echo " launching $SCRIPT_DIR/run_simulator.sh as an array job : $NUM_JOBS jobs are launched"
     echo "previous job ID $PREV_JOB_ID"
 
-    JOB_ID=`qsub $ARGS -v OUT_DIR,WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" -W depend=afterok:$PREV_JOB_ID -J 1-$NUM_JOBS $SCRIPT_DIR/run_simulator.sh`
+    JOB_ID=`qsub $ARGS -v MODEL_CHOICE,OUT_DIR,WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" -W depend=afterok:$PREV_JOB_ID -J 1-$NUM_JOBS $SCRIPT_DIR/run_simulator.sh`
 
     if [ "${JOB_ID}x" != "x" ]; then
         echo Job: \"$JOB_ID\"
@@ -81,7 +82,7 @@ if [ $NUM_JOBS -gt 1 ]; then
 else
         echo "launching $SCRIPT_DIR/run_simulator.sh as unique job."
 
-        JOB_ID=`qsub $ARGS -v WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" -W depend=afterok:$PREV_JOB_ID $SCRIPT_DIR/run_simulator.sh`
+        JOB_ID=`qsub $ARGS -v MODEL_CHOICE,WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" -W depend=afterok:$PREV_JOB_ID $SCRIPT_DIR/run_simulator.sh`
 
         if [ "${JOB_ID}x" != "x" ]; then
              echo Job: \"$JOB_ID\"

@@ -6,6 +6,7 @@ export OUT_DIR="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipelin
 export NB_READ=1000
 export PROFILE="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/profile.txt"
 export DB_DIR="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref"
+export MODEL_CHOICE=1 #Choose error model 1 or 2
 # scripts configs
 export SCRIPT_DIR="$PWD/scripts"
 export WORKER_DIR="$SCRIPT_DIR/workers"

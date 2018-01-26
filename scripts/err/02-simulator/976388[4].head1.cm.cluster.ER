@@ -1,0 +1,11 @@
+Use of uninitialized value $row in scalar chomp at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 147, <$gf> line 1000.
+Use of uninitialized value $_ in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 157, <$gf> line 1000.
+Use of uninitialized value $mut_read in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 117, <GEN0> line 9.
+Use of uninitialized value $mut_read in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 117, <GEN0> line 13.
+Use of uninitialized value $mut_read in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 117, <GEN0> line 25.
+Use of uninitialized value $mut_read in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 117, <GEN0> line 42.
+Use of uninitialized value $readSize in subtraction (-) at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 213, <GEN0> line 61.
+Use of uninitialized value $readSize in addition (+) at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 216, <GEN0> line 61.
+Use of uninitialized value $readSize in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 218, <GEN0> line 61.
+Use of uninitialized value $readSize in substr at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 221, <GEN0> line 61.
+Use of uninitialized value $read_error in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/model1_simulator.pl line 227, <GEN0> line 61.

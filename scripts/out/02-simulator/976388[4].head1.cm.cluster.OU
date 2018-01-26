@@ -1,0 +1,4034 @@
+test array launch nb 4
+klm.fna;750;750;251
+nb of sequences found = 61
+name = klm.fna
+nb_reads= 750
+nb_seq= 61
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 251
+gauss size List :
+366
+297
+371
+272
+322
+364
+264
+341
+358
+319
+324
+331
+294
+320
+299
+295
+298
+400
+358
+342
+393
+345
+352
+269
+424
+345
+358
+383
+326
+460
+418
+420
+261
+368
+378
+356
+405
+309
+366
+236
+348
+346
+300
+367
+277
+389
+347
+395
+352
+342
+380
+409
+345
+326
+336
+425
+297
+341
+488
+249
+364
+377
+375
+263
+329
+393
+334
+312
+292
+329
+355
+342
+372
+382
+403
+468
+359
+338
+385
+361
+341
+370
+342
+265
+284
+411
+315
+362
+370
+339
+346
+476
+407
+341
+275
+449
+284
+300
+401
+381
+342
+286
+385
+292
+259
+307
+349
+303
+338
+455
+459
+358
+411
+459
+298
+348
+286
+362
+342
+332
+385
+267
+340
+315
+376
+406
+310
+333
+441
+407
+319
+347
+290
+386
+387
+444
+374
+337
+331
+327
+268
+396
+247
+398
+361
+364
+315
+402
+347
+337
+307
+286
+328
+394
+335
+394
+317
+316
+318
+368
+325
+346
+314
+382
+434
+368
+349
+350
+381
+311
+389
+266
+344
+212
+325
+300
+325
+416
+377
+362
+300
+311
+249
+284
+288
+279
+345
+367
+370
+348
+339
+432
+255
+409
+493
+308
+286
+325
+337
+279
+380
+433
+347
+459
+309
+378
+380
+304
+263
+279
+382
+349
+373
+274
+376
+338
+403
+364
+355
+320
+362
+335
+403
+311
+335
+392
+335
+318
+303
+295
+408
+381
+366
+384
+415
+253
+412
+328
+278
+341
+245
+383
+421
+413
+359
+440
+382
+353
+263
+342
+371
+350
+337
+265
+371
+346
+337
+410
+349
+435
+305
+448
+318
+370
+257
+319
+370
+259
+356
+336
+341
+304
+306
+412
+354
+378
+339
+414
+374
+343
+364
+345
+320
+353
+319
+418
+303
+331
+355
+365
+305
+404
+348
+354
+372
+354
+308
+347
+333
+347
+318
+371
+267
+378
+382
+410
+349
+431
+305
+361
+289
+348
+406
+361
+296
+296
+296
+352
+366
+286
+360
+300
+375
+368
+379
+307
+306
+345
+459
+300
+321
+215
+322
+329
+329
+317
+318
+327
+370
+277
+376
+355
+377
+300
+300
+351
+415
+351
+284
+349
+310
+340
+364
+369
+350
+332
+316
+407
+322
+348
+320
+346
+293
+316
+369
+288
+302
+389
+303
+342
+303
+412
+372
+425
+237
+399
+404
+411
+281
+323
+398
+288
+408
+353
+211
+397
+335
+375
+275
+357
+298
+310
+530
+353
+370
+350
+285
+377
+360
+344
+267
+317
+367
+334
+369
+302
+307
+300
+347
+344
+310
+401
+338
+300
+360
+360
+447
+340
+293
+304
+260
+265
+397
+305
+359
+353
+334
+382
+407
+362
+409
+323
+342
+332
+343
+259
+321
+256
+279
+300
+380
+351
+325
+389
+361
+386
+330
+329
+346
+379
+362
+386
+322
+374
+356
+298
+288
+263
+326
+363
+329
+395
+431
+295
+341
+275
+389
+411
+241
+345
+381
+296
+262
+364
+298
+437
+223
+377
+407
+305
+369
+320
+337
+473
+327
+309
+394
+431
+445
+322
+422
+316
+426
+393
+448
+343
+368
+359
+353
+340
+265
+341
+318
+373
+355
+386
+331
+365
+342
+307
+381
+375
+394
+389
+296
+366
+409
+356
+369
+297
+372
+439
+429
+332
+366
+313
+346
+458
+322
+237
+345
+331
+398
+331
+367
+386
+437
+329
+219
+427
+323
+404
+337
+443
+360
+415
+357
+302
+407
+299
+346
+284
+310
+369
+432
+388
+407
+266
+326
+363
+352
+414
+438
+312
+389
+338
+335
+235
+356
+318
+286
+330
+262
+378
+396
+347
+239
+454
+357
+369
+382
+432
+281
+302
+343
+295
+351
+343
+331
+388
+343
+317
+361
+459
+329
+329
+437
+293
+426
+355
+368
+295
+307
+397
+363
+343
+306
+313
+363
+337
+302
+309
+311
+271
+384
+376
+252
+347
+260
+395
+326
+220
+343
+317
+311
+362
+391
+443
+281
+395
+399
+447
+391
+357
+365
+427
+311
+447
+406
+386
+335
+297
+356
+283
+306
+306
+385
+297
+325
+337
+302
+320
+413
+416
+387
+415
+413
+360
+348
+344
+373
+330
+221
+322
+360
+293
+406
+467
+324
+367
+347
+364
+350
+233
+313
+459
+269
+272
+309
+320
+349
+385
+284
+343
+308
+377
+322
+267
+320
+286
+273
+409
+385
+334
+369
+394
+255
+285
+325
+383
+344
+366
+333
+370
+394
+324
+456
+279
+286
+417
+355
+430
+388
+319
+345
+380
+387
+373
+425
+370
+371
+319
+371
+348
+378
+442
+307
+301
+371
+344
+333
+340
+337
+388
+290
+340
+367
+389
+447
+339
+361
+300
+308
+309
+319
+399
+328
+434
+409
+
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/klm.fna contains 61 and I want to generate 750
+random contig pick : 29
+random contig pick : 29
+random contig pick : 56
+random contig pick : 38
+random contig pick : 25
+random contig pick : 17
+random contig pick : 25
+random contig pick : 53
+random contig pick : 38
+random contig pick : 32
+random contig pick : 17
+random contig pick : 48
+random contig pick : 50
+random contig pick : 54
+random contig pick : 10
+random contig pick : 10
+random contig pick : 21
+random contig pick : 53
+random contig pick : 43
+random contig pick : 2
+random contig pick : 41
+random contig pick : 11
+random contig pick : 19
+random contig pick : 59
+random contig pick : 15
+random contig pick : 1
+random contig pick : 51
+random contig pick : 23
+random contig pick : 39
+random contig pick : 47
+random contig pick : 56
+random contig pick : 46
+random contig pick : 61
+random contig pick : 42
+random contig pick : 35
+random contig pick : 48
+random contig pick : 5
+random contig pick : 59
+random contig pick : 31
+random contig pick : 11
+random contig pick : 61
+random contig pick : 36
+random contig pick : 25
+random contig pick : 36
+random contig pick : 56
+random contig pick : 57
+random contig pick : 55
+random contig pick : 33
+random contig pick : 4
+random contig pick : 30
+random contig pick : 43
+random contig pick : 8
+random contig pick : 52
+random contig pick : 42
+random contig pick : 23
+random contig pick : 8
+random contig pick : 52
+random contig pick : 30
+random contig pick : 50
+random contig pick : 1
+random contig pick : 16
+random contig pick : 60
+random contig pick : 40
+random contig pick : 44
+random contig pick : 42
+random contig pick : 33
+random contig pick : 18
+random contig pick : 10
+random contig pick : 2
+random contig pick : 57
+random contig pick : 9
+random contig pick : 57
+random contig pick : 25
+random contig pick : 32
+random contig pick : 59
+random contig pick : 55
+random contig pick : 50
+random contig pick : 26
+random contig pick : 27
+random contig pick : 15
+random contig pick : 50
+random contig pick : 11
+random contig pick : 50
+random contig pick : 39
+random contig pick : 40
+random contig pick : 8
+random contig pick : 1
+random contig pick : 34
+random contig pick : 3
+random contig pick : 20
+random contig pick : 37
+random contig pick : 4
+random contig pick : 26
+random contig pick : 31
+random contig pick : 37
+random contig pick : 41
+random contig pick : 20
+random contig pick : 60
+random contig pick : 10
+random contig pick : 46
+random contig pick : 35
+random contig pick : 52
+random contig pick : 41
+random contig pick : 32
+random contig pick : 12
+random contig pick : 50
+random contig pick : 50
+random contig pick : 21
+random contig pick : 40
+random contig pick : 53
+random contig pick : 60
+random contig pick : 41
+random contig pick : 18
+random contig pick : 6
+random contig pick : 60
+random contig pick : 26
+random contig pick : 51
+random contig pick : 13
+random contig pick : 58
+random contig pick : 49
+random contig pick : 61
+random contig pick : 42
+random contig pick : 25
+random contig pick : 29
+random contig pick : 21
+random contig pick : 11
+random contig pick : 27
+random contig pick : 59
+random contig pick : 56
+random contig pick : 2
+random contig pick : 19
+random contig pick : 35
+random contig pick : 2
+random contig pick : 56
+random contig pick : 54
+random contig pick : 15
+random contig pick : 58
+random contig pick : 53
+random contig pick : 17
+random contig pick : 38
+random contig pick : 47
+random contig pick : 34
+random contig pick : 37
+random contig pick : 10
+random contig pick : 27
+random contig pick : 25
+random contig pick : 60
+random contig pick : 17
+random contig pick : 55
+random contig pick : 31
+random contig pick : 8
+random contig pick : 37
+random contig pick : 29
+random contig pick : 11
+random contig pick : 36
+random contig pick : 59
+random contig pick : 11
+random contig pick : 31
+random contig pick : 12
+random contig pick : 50
+random contig pick : 35
+random contig pick : 61
+random contig pick : 27
+random contig pick : 43
+random contig pick : 61
+random contig pick : 9
+random contig pick : 31
+random contig pick : 4
+random contig pick : 2
+random contig pick : 6
+random contig pick : 29
+random contig pick : 5
+random contig pick : 25
+random contig pick : 27
+random contig pick : 41
+random contig pick : 34
+random contig pick : 54
+random contig pick : 45
+random contig pick : 8
+random contig pick : 29
+random contig pick : 32
+random contig pick : 39
+random contig pick : 18
+random contig pick : 1
+random contig pick : 46
+random contig pick : 52
+random contig pick : 21
+random contig pick : 5
+random contig pick : 57
+random contig pick : 10
+random contig pick : 58
+random contig pick : 13
+random contig pick : 14
+random contig pick : 30
+random contig pick : 16
+random contig pick : 32
+random contig pick : 24
+random contig pick : 41
+random contig pick : 22
+random contig pick : 12
+random contig pick : 25
+random contig pick : 18
+random contig pick : 6
+random contig pick : 36
+random contig pick : 18
+random contig pick : 5
+random contig pick : 32
+random contig pick : 28
+random contig pick : 30
+random contig pick : 57
+random contig pick : 60
+random contig pick : 55
+random contig pick : 8
+random contig pick : 42
+random contig pick : 23
+random contig pick : 41
+random contig pick : 9
+random contig pick : 44
+random contig pick : 2
+random contig pick : 8
+random contig pick : 11
+random contig pick : 35
+random contig pick : 10
+random contig pick : 57
+random contig pick : 38
+random contig pick : 49
+random contig pick : 6
+random contig pick : 52
+random contig pick : 18
+random contig pick : 26
+random contig pick : 40
+random contig pick : 8
+random contig pick : 34
+random contig pick : 9
+random contig pick : 58
+random contig pick : 31
+random contig pick : 12
+random contig pick : 13
+random contig pick : 59
+random contig pick : 16
+random contig pick : 25
+random contig pick : 16
+random contig pick : 40
+random contig pick : 15
+random contig pick : 26
+random contig pick : 23
+random contig pick : 18
+random contig pick : 36
+random contig pick : 44
+random contig pick : 51
+random contig pick : 48
+random contig pick : 11
+random contig pick : 18
+random contig pick : 28
+random contig pick : 50
+random contig pick : 25
+random contig pick : 61
+random contig pick : 14
+random contig pick : 27
+random contig pick : 16
+random contig pick : 48
+random contig pick : 46
+random contig pick : 50
+random contig pick : 25
+random contig pick : 36
+random contig pick : 6
+random contig pick : 5
+random contig pick : 52
+random contig pick : 25
+random contig pick : 16
+random contig pick : 56
+random contig pick : 57
+random contig pick : 10
+random contig pick : 54
+random contig pick : 1
+random contig pick : 41
+random contig pick : 16
+random contig pick : 21
+random contig pick : 28
+random contig pick : 8
+random contig pick : 36
+random contig pick : 44
+random contig pick : 42
+random contig pick : 40
+random contig pick : 40
+random contig pick : 35
+random contig pick : 19
+random contig pick : 42
+random contig pick : 9
+random contig pick : 43
+random contig pick : 42
+random contig pick : 19
+random contig pick : 25
+random contig pick : 38
+random contig pick : 34
+random contig pick : 49
+random contig pick : 23
+random contig pick : 28
+random contig pick : 48
+random contig pick : 35
+random contig pick : 19
+random contig pick : 34
+random contig pick : 46
+random contig pick : 22
+random contig pick : 10
+random contig pick : 50
+random contig pick : 44
+random contig pick : 35
+random contig pick : 17
+random contig pick : 7
+random contig pick : 58
+random contig pick : 30
+random contig pick : 23
+random contig pick : 28
+random contig pick : 10
+random contig pick : 15
+random contig pick : 15
+random contig pick : 24
+random contig pick : 59
+random contig pick : 19
+random contig pick : 11
+random contig pick : 22
+random contig pick : 45
+random contig pick : 57
+random contig pick : 40
+random contig pick : 32
+random contig pick : 24
+random contig pick : 22
+random contig pick : 2
+random contig pick : 40
+random contig pick : 2
+random contig pick : 4
+random contig pick : 41
+random contig pick : 33
+random contig pick : 7
+random contig pick : 39
+random contig pick : 24
+random contig pick : 13
+random contig pick : 60
+random contig pick : 52
+random contig pick : 53
+random contig pick : 20
+random contig pick : 11
+random contig pick : 23
+random contig pick : 25
+random contig pick : 13
+random contig pick : 7
+random contig pick : 19
+random contig pick : 17
+random contig pick : 4
+random contig pick : 28
+random contig pick : 9
+random contig pick : 37
+random contig pick : 27
+random contig pick : 52
+random contig pick : 42
+random contig pick : 6
+random contig pick : 60
+random contig pick : 28
+random contig pick : 42
+random contig pick : 18
+random contig pick : 60
+random contig pick : 46
+random contig pick : 44
+random contig pick : 12
+random contig pick : 32
+random contig pick : 9
+random contig pick : 53
+random contig pick : 28
+random contig pick : 5
+random contig pick : 7
+random contig pick : 14
+random contig pick : 5
+random contig pick : 37
+random contig pick : 15
+random contig pick : 8
+random contig pick : 58
+random contig pick : 15
+random contig pick : 5
+random contig pick : 38
+random contig pick : 17
+random contig pick : 7
+random contig pick : 50
+random contig pick : 12
+random contig pick : 5
+random contig pick : 7
+random contig pick : 25
+random contig pick : 15
+random contig pick : 33
+random contig pick : 3
+random contig pick : 48
+random contig pick : 16
+random contig pick : 18
+random contig pick : 15
+random contig pick : 42
+random contig pick : 50
+random contig pick : 44
+random contig pick : 33
+random contig pick : 13
+random contig pick : 55
+random contig pick : 46
+random contig pick : 11
+random contig pick : 6
+random contig pick : 3
+random contig pick : 45
+random contig pick : 38
+random contig pick : 56
+random contig pick : 11
+random contig pick : 4
+random contig pick : 26
+random contig pick : 14
+random contig pick : 33
+random contig pick : 61
+random contig pick : 32
+random contig pick : 15
+random contig pick : 28
+random contig pick : 34
+random contig pick : 39
+random contig pick : 47
+random contig pick : 45
+random contig pick : 51
+random contig pick : 1
+random contig pick : 44
+random contig pick : 54
+random contig pick : 15
+random contig pick : 6
+random contig pick : 2
+random contig pick : 21
+random contig pick : 38
+random contig pick : 51
+random contig pick : 13
+random contig pick : 34
+random contig pick : 8
+random contig pick : 43
+random contig pick : 32
+random contig pick : 11
+random contig pick : 24
+random contig pick : 54
+random contig pick : 11
+random contig pick : 52
+random contig pick : 46
+random contig pick : 22
+random contig pick : 28
+random contig pick : 38
+random contig pick : 2
+random contig pick : 40
+random contig pick : 47
+random contig pick : 37
+random contig pick : 5
+random contig pick : 26
+random contig pick : 11
+random contig pick : 17
+random contig pick : 41
+random contig pick : 23
+random contig pick : 6
+random contig pick : 11
+random contig pick : 28
+random contig pick : 11
+random contig pick : 40
+random contig pick : 15
+random contig pick : 60
+random contig pick : 16
+random contig pick : 15
+random contig pick : 49
+random contig pick : 35
+random contig pick : 50
+random contig pick : 53
+random contig pick : 28
+random contig pick : 47
+random contig pick : 39
+random contig pick : 24
+random contig pick : 27
+random contig pick : 35
+random contig pick : 53
+random contig pick : 7
+random contig pick : 37
+random contig pick : 5
+random contig pick : 28
+random contig pick : 19
+random contig pick : 51
+random contig pick : 2
+random contig pick : 28
+random contig pick : 48
+random contig pick : 23
+random contig pick : 3
+random contig pick : 55
+random contig pick : 17
+random contig pick : 14
+random contig pick : 23
+random contig pick : 53
+random contig pick : 60
+random contig pick : 35
+random contig pick : 58
+random contig pick : 23
+random contig pick : 54
+random contig pick : 28
+random contig pick : 24
+random contig pick : 7
+random contig pick : 2
+random contig pick : 6
+random contig pick : 50
+random contig pick : 36
+random contig pick : 7
+random contig pick : 49
+random contig pick : 35
+random contig pick : 3
+random contig pick : 61
+random contig pick : 49
+random contig pick : 57
+random contig pick : 27
+random contig pick : 59
+random contig pick : 29
+random contig pick : 54
+random contig pick : 40
+random contig pick : 34
+random contig pick : 34
+random contig pick : 45
+random contig pick : 57
+random contig pick : 3
+random contig pick : 20
+random contig pick : 53
+random contig pick : 5
+random contig pick : 40
+random contig pick : 60
+random contig pick : 44
+random contig pick : 35
+random contig pick : 50
+random contig pick : 49
+random contig pick : 27
+random contig pick : 57
+random contig pick : 9
+random contig pick : 42
+random contig pick : 13
+random contig pick : 42
+random contig pick : 33
+random contig pick : 3
+random contig pick : 41
+random contig pick : 49
+random contig pick : 60
+random contig pick : 61
+random contig pick : 20
+random contig pick : 5
+random contig pick : 34
+random contig pick : 46
+random contig pick : 27
+random contig pick : 31
+random contig pick : 28
+random contig pick : 51
+random contig pick : 29
+random contig pick : 59
+random contig pick : 28
+random contig pick : 48
+random contig pick : 33
+random contig pick : 26
+random contig pick : 50
+random contig pick : 17
+random contig pick : 50
+random contig pick : 44
+random contig pick : 9
+random contig pick : 40
+random contig pick : 54
+random contig pick : 30
+random contig pick : 51
+random contig pick : 13
+random contig pick : 45
+random contig pick : 39
+random contig pick : 25
+random contig pick : 55
+random contig pick : 24
+random contig pick : 60
+random contig pick : 48
+random contig pick : 35
+random contig pick : 8
+random contig pick : 55
+random contig pick : 18
+random contig pick : 25
+random contig pick : 47
+random contig pick : 44
+random contig pick : 25
+random contig pick : 26
+random contig pick : 2
+random contig pick : 14
+random contig pick : 21
+random contig pick : 47
+random contig pick : 17
+random contig pick : 32
+random contig pick : 1
+random contig pick : 13
+random contig pick : 7
+random contig pick : 58
+random contig pick : 55
+random contig pick : 35
+random contig pick : 55
+random contig pick : 7
+random contig pick : 32
+random contig pick : 35
+random contig pick : 54
+random contig pick : 44
+random contig pick : 47
+random contig pick : 4
+random contig pick : 6
+random contig pick : 52
+random contig pick : 32
+random contig pick : 14
+random contig pick : 44
+random contig pick : 61
+random contig pick : 53
+random contig pick : 23
+random contig pick : 26
+random contig pick : 5
+random contig pick : 40
+random contig pick : 13
+random contig pick : 61
+random contig pick : 39
+random contig pick : 60
+random contig pick : 32
+random contig pick : 55
+random contig pick : 45
+random contig pick : 53
+random contig pick : 18
+random contig pick : 56
+random contig pick : 58
+random contig pick : 27
+random contig pick : 17
+random contig pick : 1
+random contig pick : 61
+random contig pick : 20
+random contig pick : 15
+random contig pick : 23
+random contig pick : 5
+random contig pick : 9
+random contig pick : 14
+random contig pick : 25
+random contig pick : 12
+random contig pick : 16
+random contig pick : 60
+random contig pick : 38
+random contig pick : 22
+random contig pick : 35
+random contig pick : 19
+random contig pick : 21
+random contig pick : 23
+random contig pick : 46
+random contig pick : 38
+random contig pick : 43
+random contig pick : 49
+random contig pick : 18
+random contig pick : 14
+random contig pick : 61
+random contig pick : 54
+random contig pick : 21
+random contig pick : 2
+random contig pick : 55
+random contig pick : 25
+random contig pick : 53
+random contig pick : 15
+random contig pick : 20
+random contig pick : 13
+random contig pick : 60
+random contig pick : 21
+random contig pick : 58
+random contig pick : 26
+random contig pick : 27
+random contig pick : 10
+random contig pick : 16
+random contig pick : 54
+random contig pick : 26
+random contig pick : 41
+random contig pick : 12
+random contig pick : 21
+random contig pick : 56
+random contig pick : 16
+random contig pick : 11
+random contig pick : 34
+random contig pick : 3
+random contig pick : 8
+random contig pick : 30
+random contig pick : 23
+random contig pick : 15
+random contig pick : 25
+random contig pick : 50
+random contig pick : 34
+random contig pick : 48
+random contig pick : 58
+random contig pick : 10
+random contig pick : 53
+random contig pick : 24
+random contig pick : 45
+random contig pick : 26
+random contig pick : 17
+random contig pick : 19
+random contig pick : 48
+random contig pick : 2
+random contig pick : 15
+random contig pick : 20
+random contig pick : 30
+random contig pick : 10
+random contig pick : 60
+random contig pick : 18
+random contig pick : 48
+random contig pick : 45
+random contig pick : 17
+random contig pick : 7
+random contig pick : 10
+random contig pick : 18
+random contig pick : 48
+random contig pick : 50
+random contig pick : 10
+random contig pick : 24
+random contig pick : 26
+random contig pick : 46
+random contig pick : 9
+random contig pick : 30
+random contig pick : 21
+random contig pick : 32
+random contig pick : 10
+random contig pick : 2
+random contig pick : 49
+random contig pick : 47
+random contig pick : 43
+random contig pick : 9
+random contig pick : 54
+random contig pick : 45
+random contig pick : 2
+random contig pick : 45
+random contig pick : 24
+random contig pick : 30
+random contig pick : 20
+random contig pick : 61
+random contig pick : 13
+random contig pick : 9
+random contig pick : 48
+random contig pick : 37
+random contig pick : 1
+random contig pick : 16
+random contig pick : 24
+random contig pick : 59
+random contig pick : 2
+random contig pick : 49
+random contig pick : 44
+random contig pick : 4
+random contig pick : 7
+random contig pick : 51
+random contig pick : 34
+random contig pick : 4
+random contig pick : 38
+random contig pick : 15
+random contig pick : 48
+random contig pick : 2
+random contig pick : 13
+############checking hash##############
+Contig n°10 --> 16 reads to generates
+Contig n°17 --> 14 reads to generates
+Contig n°59 --> 10 reads to generates
+Contig n°54 --> 13 reads to generates
+Contig n°51 --> 9 reads to generates
+Contig n°28 --> 17 reads to generates
+Contig n°35 --> 17 reads to generates
+Contig n°56 --> 9 reads to generates
+Contig n°44 --> 14 reads to generates
+Contig n°8 --> 13 reads to generates
+Contig n°41 --> 12 reads to generates
+Contig n°23 --> 15 reads to generates
+Contig n°27 --> 13 reads to generates
+Contig n°26 --> 14 reads to generates
+Contig n°13 --> 14 reads to generates
+Contig n°11 --> 18 reads to generates
+Contig n°16 --> 13 reads to generates
+Contig n°32 --> 15 reads to generates
+Contig n°60 --> 18 reads to generates
+Contig n°24 --> 12 reads to generates
+Contig n°43 --> 7 reads to generates
+Contig n°30 --> 10 reads to generates
+Contig n°7 --> 13 reads to generates
+Contig n°12 --> 8 reads to generates
+Contig n°61 --> 14 reads to generates
+Contig n°25 --> 21 reads to generates
+Contig n°6 --> 11 reads to generates
+Contig n°1 --> 9 reads to generates
+Contig n°47 --> 9 reads to generates
+Contig n°42 --> 13 reads to generates
+Contig n°15 --> 19 reads to generates
+Contig n°50 --> 20 reads to generates
+Contig n°3 --> 8 reads to generates
+Contig n°39 --> 8 reads to generates
+Contig n°33 --> 8 reads to generates
+Contig n°38 --> 12 reads to generates
+Contig n°22 --> 6 reads to generates
+Contig n°4 --> 9 reads to generates
+Contig n°45 --> 11 reads to generates
+Contig n°34 --> 14 reads to generates
+Contig n°53 --> 14 reads to generates
+Contig n°14 --> 9 reads to generates
+Contig n°57 --> 11 reads to generates
+Contig n°9 --> 13 reads to generates
+Contig n°5 --> 15 reads to generates
+Contig n°40 --> 15 reads to generates
+Contig n°46 --> 11 reads to generates
+Contig n°21 --> 12 reads to generates
+Contig n°52 --> 10 reads to generates
+Contig n°55 --> 12 reads to generates
+Contig n°20 --> 9 reads to generates
+Contig n°31 --> 7 reads to generates
+Contig n°18 --> 15 reads to generates
+Contig n°58 --> 11 reads to generates
+Contig n°37 --> 9 reads to generates
+Contig n°49 --> 11 reads to generates
+Contig n°29 --> 8 reads to generates
+Contig n°19 --> 10 reads to generates
+Contig n°36 --> 8 reads to generates
+Contig n°2 --> 19 reads to generates
+Contig n°48 --> 15 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 9 reads in that contig
+gaussian read size = 366 / contig_size = 133090 / start=86505 finish= 86871
+mutation
+insertion
+deletion
+mutation
+gaussian read size = 297 / contig_size = 133090 / start=84757 finish= 85054
+insertion
+mutation
+gaussian read size = 371 / contig_size = 133090 / start=69291 finish= 69662
+gaussian read size = 272 / contig_size = 133090 / start=14289 finish= 14561
+insertion
+gaussian read size = 322 / contig_size = 133090 / start=80524 finish= 80846
+deletion
+insertion
+insertion
+gaussian read size = 364 / contig_size = 133090 / start=35809 finish= 36173
+deletion
+deletion
+mutation
+gaussian read size = 264 / contig_size = 133090 / start=105226 finish= 105490
+gaussian read size = 341 / contig_size = 133090 / start=47207 finish= 47548
+deletion
+gaussian read size = 358 / contig_size = 133090 / start=70424 finish= 70782
+this is record n°2
+I need 19 reads in that contig
+gaussian read size = 319 / contig_size = 6948 / start=6081 finish= 6400
+mutation
+insertion
+gaussian read size = 324 / contig_size = 6948 / start=5138 finish= 5462
+gaussian read size = 331 / contig_size = 6948 / start=3079 finish= 3410
+gaussian read size = 294 / contig_size = 6948 / start=6570 finish= 6864
+deletion
+gaussian read size = 320 / contig_size = 6948 / start=1342 finish= 1662
+insertion
+insertion
+insertion
+insertion
+gaussian read size = 299 / contig_size = 6948 / start=6418 finish= 6717
+deletion
+deletion
+deletion
+gaussian read size = 295 / contig_size = 6948 / start=6392 finish= 6687
+insertion
+gaussian read size = 298 / contig_size = 6948 / start=4250 finish= 4548
+insertion
+insertion
+gaussian read size = 400 / contig_size = 6948 / start=3927 finish= 4327
+insertion
+mutation
+deletion
+insertion
+deletion
+gaussian read size = 358 / contig_size = 6948 / start=6178 finish= 6536
+insertion
+insertion
+gaussian read size = 342 / contig_size = 6948 / start=4487 finish= 4829
+gaussian read size = 393 / contig_size = 6948 / start=4745 finish= 5138
+mutation
+insertion
+gaussian read size = 345 / contig_size = 6948 / start=2702 finish= 3047
+deletion
+gaussian read size = 352 / contig_size = 6948 / start=2476 finish= 2828
+deletion
+gaussian read size = 269 / contig_size = 6948 / start=2060 finish= 2329
+deletion
+gaussian read size = 424 / contig_size = 6948 / start=4027 finish= 4451
+deletion
+deletion
+gaussian read size = 345 / contig_size = 6948 / start=2960 finish= 3305
+deletion
+gaussian read size = 358 / contig_size = 6948 / start=2131 finish= 2489
+insertion
+deletion
+deletion
+insertion
+insertion
+gaussian read size = 383 / contig_size = 6948 / start=1134 finish= 1517
+deletion
+this is record n°3
+I need 8 reads in that contig
+gaussian read size = 326 / contig_size = 90747 / start=58076 finish= 58402
+deletion
+deletion
+gaussian read size = 460 / contig_size = 90747 / start=70616 finish= 71076
+insertion
+insertion
+insertion
+gaussian read size = 418 / contig_size = 90747 / start=50058 finish= 50476
+mutation
+deletion
+insertion
+insertion
+mutation
+mutation
+insertion
+gaussian read size = 420 / contig_size = 90747 / start=35952 finish= 36372
+deletion
+insertion
+mutation
+insertion
+deletion
+deletion
+gaussian read size = 261 / contig_size = 90747 / start=46660 finish= 46921
+deletion
+insertion
+insertion
+gaussian read size = 368 / contig_size = 90747 / start=39521 finish= 39889
+insertion
+mutation
+gaussian read size = 378 / contig_size = 90747 / start=82240 finish= 82618
+deletion
+insertion
+gaussian read size = 356 / contig_size = 90747 / start=37975 finish= 38331
+this is record n°4
+I need 9 reads in that contig
+gaussian read size = 405 / contig_size = 233625 / start=25757 finish= 26162
+deletion
+deletion
+insertion
+deletion
+gaussian read size = 309 / contig_size = 233625 / start=124316 finish= 124625
+deletion
+gaussian read size = 366 / contig_size = 233625 / start=132801 finish= 133167
+deletion
+deletion
+insertion
+gaussian read size = 236 / contig_size = 233625 / start=69803 finish= 70039
+deletion
+deletion
+gaussian read size = 348 / contig_size = 233625 / start=123953 finish= 124301
+insertion
+gaussian read size = 346 / contig_size = 233625 / start=192020 finish= 192366
+deletion
+insertion
+mutation
+deletion
+gaussian read size = 300 / contig_size = 233625 / start=64697 finish= 64997
+insertion
+gaussian read size = 367 / contig_size = 233625 / start=152195 finish= 152562
+deletion
+gaussian read size = 277 / contig_size = 233625 / start=105549 finish= 105826
+this is record n°5
+I need 15 reads in that contig
+gaussian read size = 389 / contig_size = 19910 / start=6655 finish= 7044
+deletion
+gaussian read size = 347 / contig_size = 19910 / start=13117 finish= 13464
+insertion
+insertion
+mutation
+insertion
+insertion
+deletion
+gaussian read size = 395 / contig_size = 19910 / start=9212 finish= 9607
+deletion
+insertion
+gaussian read size = 352 / contig_size = 19910 / start=11982 finish= 12334
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 342 / contig_size = 19910 / start=5318 finish= 5660
+deletion
+insertion
+insertion
+deletion
+deletion
+gaussian read size = 380 / contig_size = 19910 / start=740 finish= 1120
+insertion
+insertion
+gaussian read size = 409 / contig_size = 19910 / start=16045 finish= 16454
+mutation
+insertion
+gaussian read size = 345 / contig_size = 19910 / start=4297 finish= 4642
+insertion
+insertion
+mutation
+insertion
+insertion
+deletion
+gaussian read size = 326 / contig_size = 19910 / start=11493 finish= 11819
+insertion
+gaussian read size = 336 / contig_size = 19910 / start=6571 finish= 6907
+insertion
+deletion
+gaussian read size = 425 / contig_size = 19910 / start=7258 finish= 7683
+insertion
+mutation
+gaussian read size = 297 / contig_size = 19910 / start=7783 finish= 8080
+gaussian read size = 341 / contig_size = 19910 / start=5532 finish= 5873
+insertion
+deletion
+deletion
+gaussian read size = 488 / contig_size = 19910 / start=1172 finish= 1660
+mutation
+insertion
+gaussian read size = 249 / contig_size = 19910 / start=16770 finish= 17019
+insertion
+this is record n°6
+I need 11 reads in that contig
+gaussian read size = 364 / contig_size = 113285 / start=107967 finish= 108331
+insertion
+insertion
+gaussian read size = 377 / contig_size = 113285 / start=80381 finish= 80758
+insertion
+deletion
+gaussian read size = 375 / contig_size = 113285 / start=35072 finish= 35447
+deletion
+insertion
+deletion
+insertion
+deletion
+gaussian read size = 263 / contig_size = 113285 / start=41975 finish= 42238
+insertion
+deletion
+insertion
+gaussian read size = 329 / contig_size = 113285 / start=73369 finish= 73698
+deletion
+gaussian read size = 393 / contig_size = 113285 / start=75094 finish= 75487
+insertion
+deletion
+deletion
+gaussian read size = 334 / contig_size = 113285 / start=85412 finish= 85746
+deletion
+gaussian read size = 312 / contig_size = 113285 / start=75305 finish= 75617
+insertion
+insertion
+insertion
+insertion
+gaussian read size = 292 / contig_size = 113285 / start=33436 finish= 33728
+mutation
+deletion
+deletion
+gaussian read size = 329 / contig_size = 113285 / start=13039 finish= 13368
+mutation
+gaussian read size = 355 / contig_size = 113285 / start=79947 finish= 80302
+insertion
+this is record n°7
+I need 13 reads in that contig
+gaussian read size = 342 / contig_size = 387696 / start=251245 finish= 251587
+deletion
+insertion
+gaussian read size = 372 / contig_size = 387696 / start=365450 finish= 365822
+insertion
+deletion
+deletion
+gaussian read size = 382 / contig_size = 387696 / start=53447 finish= 53829
+deletion
+deletion
+mutation
+gaussian read size = 403 / contig_size = 387696 / start=300819 finish= 301222
+insertion
+deletion
+deletion
+insertion
+gaussian read size = 468 / contig_size = 387696 / start=143156 finish= 143624
+gaussian read size = 359 / contig_size = 387696 / start=236476 finish= 236835
+deletion
+insertion
+insertion
+insertion
+gaussian read size = 338 / contig_size = 387696 / start=244466 finish= 244804
+deletion
+gaussian read size = 385 / contig_size = 387696 / start=54719 finish= 55104
+deletion
+deletion
+deletion
+gaussian read size = 361 / contig_size = 387696 / start=63193 finish= 63554
+deletion
+insertion
+gaussian read size = 341 / contig_size = 387696 / start=31301 finish= 31642
+mutation
+gaussian read size = 370 / contig_size = 387696 / start=184905 finish= 185275
+insertion
+deletion
+insertion
+gaussian read size = 342 / contig_size = 387696 / start=56345 finish= 56687
+deletion
+gaussian read size = 265 / contig_size = 387696 / start=64265 finish= 64530
+insertion
+deletion
+this is record n°8
+I need 13 reads in that contig
+gaussian read size = 284 / contig_size = 759 / start=145 finish= 429
+insertion
+insertion
+gaussian read size = 411 / contig_size = 759 / start=250 finish= 661
+deletion
+deletion
+gaussian read size = 315 / contig_size = 759 / start=152 finish= 467
+insertion
+insertion
+insertion
+gaussian read size = 362 / contig_size = 759 / start=14 finish= 376
+insertion
+deletion
+deletion
+gaussian read size = 370 / contig_size = 759 / start=307 finish= 677
+deletion
+insertion
+gaussian read size = 339 / contig_size = 759 / start=60 finish= 399
+insertion
+mutation
+insertion
+gaussian read size = 346 / contig_size = 759 / start=162 finish= 508
+deletion
+deletion
+gaussian read size = 476 / contig_size = 759 / start=231 finish= 707
+deletion
+insertion
+insertion
+gaussian read size = 407 / contig_size = 759 / start=170 finish= 577
+mutation
+insertion
+insertion
+gaussian read size = 341 / contig_size = 759 / start=68 finish= 409
+insertion
+gaussian read size = 275 / contig_size = 759 / start=154 finish= 429
+mutation
+insertion
+gaussian read size = 449 / contig_size = 759 / start=119 finish= 568
+insertion
+mutation
+gaussian read size = 284 / contig_size = 759 / start=41 finish= 325
+insertion
+insertion
+insertion
+insertion
+this is record n°9
+I need 13 reads in that contig
+gaussian read size = 300 / contig_size = 106558 / start=90364 finish= 90664
+deletion
+insertion
+deletion
+gaussian read size = 401 / contig_size = 106558 / start=9822 finish= 10223
+insertion
+insertion
+gaussian read size = 381 / contig_size = 106558 / start=43147 finish= 43528
+deletion
+insertion
+gaussian read size = 342 / contig_size = 106558 / start=105051 finish= 105393
+insertion
+deletion
+insertion
+deletion
+deletion
+gaussian read size = 286 / contig_size = 106558 / start=63748 finish= 64034
+deletion
+mutation
+gaussian read size = 385 / contig_size = 106558 / start=80067 finish= 80452
+insertion
+deletion
+insertion
+deletion
+gaussian read size = 292 / contig_size = 106558 / start=67960 finish= 68252
+insertion
+deletion
+gaussian read size = 259 / contig_size = 106558 / start=42406 finish= 42665
+deletion
+gaussian read size = 307 / contig_size = 106558 / start=10217 finish= 10524
+insertion
+gaussian read size = 349 / contig_size = 106558 / start=72131 finish= 72480
+insertion
+insertion
+gaussian read size = 303 / contig_size = 106558 / start=8222 finish= 8525
+mutation
+deletion
+gaussian read size = 338 / contig_size = 106558 / start=8781 finish= 9119
+gaussian read size = 455 / contig_size = 106558 / start=71694 finish= 72149
+insertion
+deletion
+insertion
+deletion
+this is record n°10
+I need 16 reads in that contig
+gaussian read size = 459 / contig_size = 52781 / start=23434 finish= 23893
+deletion
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 358 / contig_size = 52781 / start=44680 finish= 45038
+deletion
+insertion
+gaussian read size = 411 / contig_size = 52781 / start=15871 finish= 16282
+mutation
+mutation
+gaussian read size = 459 / contig_size = 52781 / start=22664 finish= 23123
+deletion
+insertion
+deletion
+insertion
+gaussian read size = 298 / contig_size = 52781 / start=36064 finish= 36362
+insertion
+insertion
+insertion
+gaussian read size = 348 / contig_size = 52781 / start=37792 finish= 38140
+deletion
+deletion
+insertion
+gaussian read size = 286 / contig_size = 52781 / start=7201 finish= 7487
+insertion
+gaussian read size = 362 / contig_size = 52781 / start=29704 finish= 30066
+insertion
+gaussian read size = 342 / contig_size = 52781 / start=34311 finish= 34653
+gaussian read size = 332 / contig_size = 52781 / start=1534 finish= 1866
+insertion
+deletion
+gaussian read size = 385 / contig_size = 52781 / start=38164 finish= 38549
+gaussian read size = 267 / contig_size = 52781 / start=18291 finish= 18558
+insertion
+insertion
+insertion
+deletion
+gaussian read size = 340 / contig_size = 52781 / start=23065 finish= 23405
+deletion
+deletion
+insertion
+deletion
+gaussian read size = 315 / contig_size = 52781 / start=11828 finish= 12143
+gaussian read size = 376 / contig_size = 52781 / start=11835 finish= 12211
+deletion
+deletion
+gaussian read size = 406 / contig_size = 52781 / start=44032 finish= 44438
+this is record n°11
+I need 18 reads in that contig
+gaussian read size = 310 / contig_size = 2147 / start=1519 finish= 1829
+gaussian read size = 333 / contig_size = 2147 / start=689 finish= 1022
+insertion
+insertion
+mutation
+deletion
+gaussian read size = 441 / contig_size = 2147 / start=1444 finish= 1885
+insertion
+insertion
+gaussian read size = 407 / contig_size = 2147 / start=1673 finish= 2080
+insertion
+deletion
+gaussian read size = 319 / contig_size = 2147 / start=1123 finish= 1442
+mutation
+deletion
+gaussian read size = 347 / contig_size = 2147 / start=328 finish= 675
+deletion
+gaussian read size = 290 / contig_size = 2147 / start=315 finish= 605
+deletion
+gaussian read size = 386 / contig_size = 2147 / start=1367 finish= 1753
+deletion
+deletion
+insertion
+gaussian read size = 387 / contig_size = 2147 / start=1428 finish= 1815
+insertion
+insertion
+insertion
+gaussian read size = 444 / contig_size = 2147 / start=21 finish= 465
+deletion
+gaussian read size = 374 / contig_size = 2147 / start=1208 finish= 1582
+insertion
+insertion
+mutation
+gaussian read size = 337 / contig_size = 2147 / start=600 finish= 937
+mutation
+deletion
+deletion
+gaussian read size = 331 / contig_size = 2147 / start=567 finish= 898
+insertion
+insertion
+gaussian read size = 327 / contig_size = 2147 / start=1296 finish= 1623
+mutation
+insertion
+deletion
+gaussian read size = 268 / contig_size = 2147 / start=557 finish= 825
+deletion
+insertion
+insertion
+gaussian read size = 396 / contig_size = 2147 / start=1104 finish= 1500
+insertion
+gaussian read size = 247 / contig_size = 2147 / start=1272 finish= 1519
+gaussian read size = 398 / contig_size = 2147 / start=66 finish= 464
+insertion
+insertion
+this is record n°12
+I need 8 reads in that contig
+gaussian read size = 361 / contig_size = 34709 / start=1748 finish= 2109
+insertion
+insertion
+deletion
+gaussian read size = 364 / contig_size = 34709 / start=18258 finish= 18622
+gaussian read size = 315 / contig_size = 34709 / start=21220 finish= 21535
+insertion
+deletion
+mutation
+insertion
+gaussian read size = 402 / contig_size = 34709 / start=19872 finish= 20274
+insertion
+insertion
+insertion
+mutation
+gaussian read size = 347 / contig_size = 34709 / start=30014 finish= 30361
+insertion
+gaussian read size = 337 / contig_size = 34709 / start=32513 finish= 32850
+insertion
+deletion
+gaussian read size = 307 / contig_size = 34709 / start=14381 finish= 14688
+mutation
+deletion
+gaussian read size = 286 / contig_size = 34709 / start=33071 finish= 33357
+this is record n°13
+I need 14 reads in that contig
+gaussian read size = 328 / contig_size = 6065 / start=88 finish= 416
+insertion
+insertion
+mutation
+insertion
+insertion
+gaussian read size = 394 / contig_size = 6065 / start=2193 finish= 2587
+mutation
+insertion
+insertion
+gaussian read size = 335 / contig_size = 6065 / start=1317 finish= 1652
+deletion
+insertion
+gaussian read size = 394 / contig_size = 6065 / start=1321 finish= 1715
+deletion
+insertion
+deletion
+insertion
+mutation
+gaussian read size = 317 / contig_size = 6065 / start=4563 finish= 4880
+deletion
+insertion
+gaussian read size = 316 / contig_size = 6065 / start=1499 finish= 1815
+deletion
+deletion
+insertion
+insertion
+insertion
+gaussian read size = 318 / contig_size = 6065 / start=3532 finish= 3850
+insertion
+deletion
+deletion
+gaussian read size = 368 / contig_size = 6065 / start=2080 finish= 2448
+insertion
+deletion
+gaussian read size = 325 / contig_size = 6065 / start=496 finish= 821
+insertion
+deletion
+gaussian read size = 346 / contig_size = 6065 / start=3939 finish= 4285
+deletion
+insertion
+deletion
+insertion
+deletion
+deletion
+gaussian read size = 314 / contig_size = 6065 / start=615 finish= 929
+insertion
+deletion
+insertion
+gaussian read size = 382 / contig_size = 6065 / start=3973 finish= 4355
+gaussian read size = 434 / contig_size = 6065 / start=206 finish= 640
+insertion
+deletion
+insertion
+insertion
+deletion
+mutation
+gaussian read size = 368 / contig_size = 6065 / start=4629 finish= 4997
+insertion
+insertion
+insertion
+insertion
+insertion
+this is record n°14
+I need 9 reads in that contig
+gaussian read size = 349 / contig_size = 96293 / start=8391 finish= 8740
+deletion
+mutation
+deletion
+gaussian read size = 350 / contig_size = 96293 / start=19613 finish= 19963
+deletion
+insertion
+insertion
+gaussian read size = 381 / contig_size = 96293 / start=86823 finish= 87204
+insertion
+gaussian read size = 311 / contig_size = 96293 / start=9085 finish= 9396
+insertion
+gaussian read size = 389 / contig_size = 96293 / start=16198 finish= 16587
+deletion
+deletion
+insertion
+gaussian read size = 266 / contig_size = 96293 / start=94762 finish= 95028
+deletion
+insertion
+gaussian read size = 344 / contig_size = 96293 / start=61126 finish= 61470
+deletion
+gaussian read size = 212 / contig_size = 96293 / start=41267 finish= 41479
+gaussian read size = 325 / contig_size = 96293 / start=76851 finish= 77176
+deletion
+insertion
+deletion
+insertion
+this is record n°15
+I need 19 reads in that contig
+gaussian read size = 300 / contig_size = 17174 / start=8681 finish= 8981
+mutation
+insertion
+deletion
+gaussian read size = 325 / contig_size = 17174 / start=15544 finish= 15869
+mutation
+gaussian read size = 416 / contig_size = 17174 / start=14325 finish= 14741
+insertion
+gaussian read size = 377 / contig_size = 17174 / start=12739 finish= 13116
+insertion
+deletion
+deletion
+insertion
+gaussian read size = 362 / contig_size = 17174 / start=15994 finish= 16356
+insertion
+gaussian read size = 300 / contig_size = 17174 / start=9479 finish= 9779
+deletion
+deletion
+mutation
+gaussian read size = 311 / contig_size = 17174 / start=9443 finish= 9754
+mutation
+mutation
+insertion
+gaussian read size = 249 / contig_size = 17174 / start=606 finish= 855
+insertion
+gaussian read size = 284 / contig_size = 17174 / start=11884 finish= 12168
+gaussian read size = 288 / contig_size = 17174 / start=2531 finish= 2819
+insertion
+deletion
+gaussian read size = 279 / contig_size = 17174 / start=7616 finish= 7895
+insertion
+insertion
+insertion
+gaussian read size = 345 / contig_size = 17174 / start=192 finish= 537
+insertion
+insertion
+deletion
+insertion
+gaussian read size = 367 / contig_size = 17174 / start=12410 finish= 12777
+mutation
+deletion
+deletion
+insertion
+gaussian read size = 370 / contig_size = 17174 / start=1572 finish= 1942
+insertion
+deletion
+gaussian read size = 348 / contig_size = 17174 / start=1083 finish= 1431
+deletion
+insertion
+gaussian read size = 339 / contig_size = 17174 / start=3273 finish= 3612
+insertion
+gaussian read size = 432 / contig_size = 17174 / start=14257 finish= 14689
+mutation
+insertion
+deletion
+gaussian read size = 255 / contig_size = 17174 / start=6167 finish= 6422
+deletion
+insertion
+insertion
+deletion
+mutation
+deletion
+insertion
+gaussian read size = 409 / contig_size = 17174 / start=15935 finish= 16344
+deletion
+deletion
+insertion
+this is record n°16
+I need 13 reads in that contig
+gaussian read size = 493 / contig_size = 33342 / start=645 finish= 1138
+gaussian read size = 308 / contig_size = 33342 / start=21432 finish= 21740
+insertion
+gaussian read size = 286 / contig_size = 33342 / start=25892 finish= 26178
+insertion
+gaussian read size = 325 / contig_size = 33342 / start=6625 finish= 6950
+deletion
+gaussian read size = 337 / contig_size = 33342 / start=16660 finish= 16997
+insertion
+gaussian read size = 279 / contig_size = 33342 / start=10900 finish= 11179
+insertion
+mutation
+gaussian read size = 380 / contig_size = 33342 / start=16561 finish= 16941
+mutation
+gaussian read size = 433 / contig_size = 33342 / start=16948 finish= 17381
+mutation
+mutation
+deletion
+gaussian read size = 347 / contig_size = 33342 / start=32881 finish= 33228
+insertion
+deletion
+gaussian read size = 459 / contig_size = 33342 / start=22310 finish= 22769
+deletion
+deletion
+deletion
+mutation
+gaussian read size = 309 / contig_size = 33342 / start=5694 finish= 6003
+deletion
+gaussian read size = 378 / contig_size = 33342 / start=25186 finish= 25564
+insertion
+deletion
+gaussian read size = 380 / contig_size = 33342 / start=9817 finish= 10197
+insertion
+deletion
+insertion
+this is record n°17
+I need 14 reads in that contig
+gaussian read size = 304 / contig_size = 72279 / start=53474 finish= 53778
+insertion
+insertion
+deletion
+deletion
+insertion
+gaussian read size = 263 / contig_size = 72279 / start=16697 finish= 16960
+mutation
+insertion
+gaussian read size = 279 / contig_size = 72279 / start=52025 finish= 52304
+insertion
+deletion
+gaussian read size = 382 / contig_size = 72279 / start=58107 finish= 58489
+deletion
+insertion
+gaussian read size = 349 / contig_size = 72279 / start=53767 finish= 54116
+insertion
+insertion
+gaussian read size = 373 / contig_size = 72279 / start=26003 finish= 26376
+insertion
+deletion
+insertion
+deletion
+gaussian read size = 274 / contig_size = 72279 / start=6516 finish= 6790
+insertion
+gaussian read size = 376 / contig_size = 72279 / start=26864 finish= 27240
+insertion
+deletion
+gaussian read size = 338 / contig_size = 72279 / start=5848 finish= 6186
+deletion
+gaussian read size = 403 / contig_size = 72279 / start=53652 finish= 54055
+mutation
+insertion
+insertion
+mutation
+gaussian read size = 364 / contig_size = 72279 / start=4456 finish= 4820
+deletion
+deletion
+insertion
+gaussian read size = 355 / contig_size = 72279 / start=57868 finish= 58223
+insertion
+deletion
+gaussian read size = 320 / contig_size = 72279 / start=64493 finish= 64813
+insertion
+gaussian read size = 362 / contig_size = 72279 / start=45667 finish= 46029
+deletion
+this is record n°18
+I need 15 reads in that contig
+gaussian read size = 335 / contig_size = 212324 / start=190068 finish= 190403
+deletion
+insertion
+insertion
+gaussian read size = 403 / contig_size = 212324 / start=183193 finish= 183596
+gaussian read size = 311 / contig_size = 212324 / start=167052 finish= 167363
+mutation
+insertion
+gaussian read size = 335 / contig_size = 212324 / start=83953 finish= 84288
+insertion
+insertion
+gaussian read size = 392 / contig_size = 212324 / start=144445 finish= 144837
+deletion
+deletion
+gaussian read size = 335 / contig_size = 212324 / start=84534 finish= 84869
+insertion
+mutation
+gaussian read size = 318 / contig_size = 212324 / start=160870 finish= 161188
+gaussian read size = 303 / contig_size = 212324 / start=188277 finish= 188580
+insertion
+insertion
+insertion
+gaussian read size = 295 / contig_size = 212324 / start=184457 finish= 184752
+insertion
+mutation
+gaussian read size = 408 / contig_size = 212324 / start=191655 finish= 192063
+insertion
+gaussian read size = 381 / contig_size = 212324 / start=78967 finish= 79348
+deletion
+mutation
+gaussian read size = 366 / contig_size = 212324 / start=132573 finish= 132939
+insertion
+insertion
+insertion
+gaussian read size = 384 / contig_size = 212324 / start=104363 finish= 104747
+insertion
+insertion
+mutation
+gaussian read size = 415 / contig_size = 212324 / start=185299 finish= 185714
+insertion
+gaussian read size = 253 / contig_size = 212324 / start=118360 finish= 118613
+this is record n°19
+I need 10 reads in that contig
+gaussian read size = 412 / contig_size = 4454 / start=3023 finish= 3435
+insertion
+deletion
+gaussian read size = 328 / contig_size = 4454 / start=690 finish= 1018
+insertion
+gaussian read size = 278 / contig_size = 4454 / start=122 finish= 400
+insertion
+gaussian read size = 341 / contig_size = 4454 / start=2755 finish= 3096
+gaussian read size = 245 / contig_size = 4454 / start=2105 finish= 2350
+deletion
+mutation
+gaussian read size = 383 / contig_size = 4454 / start=416 finish= 799
+gaussian read size = 421 / contig_size = 4454 / start=651 finish= 1072
+insertion
+gaussian read size = 413 / contig_size = 4454 / start=1678 finish= 2091
+mutation
+gaussian read size = 359 / contig_size = 4454 / start=1490 finish= 1849
+deletion
+gaussian read size = 440 / contig_size = 4454 / start=149 finish= 589
+deletion
+insertion
+insertion
+this is record n°20
+I need 9 reads in that contig
+gaussian read size = 382 / contig_size = 143185 / start=11937 finish= 12319
+gaussian read size = 353 / contig_size = 143185 / start=44921 finish= 45274
+insertion
+deletion
+gaussian read size = 263 / contig_size = 143185 / start=137300 finish= 137563
+deletion
+insertion
+deletion
+gaussian read size = 342 / contig_size = 143185 / start=30880 finish= 31222
+deletion
+insertion
+insertion
+gaussian read size = 371 / contig_size = 143185 / start=48286 finish= 48657
+deletion
+deletion
+gaussian read size = 350 / contig_size = 143185 / start=4206 finish= 4556
+insertion
+insertion
+insertion
+deletion
+gaussian read size = 337 / contig_size = 143185 / start=29034 finish= 29371
+insertion
+deletion
+insertion
+gaussian read size = 265 / contig_size = 143185 / start=17264 finish= 17529
+deletion
+gaussian read size = 371 / contig_size = 143185 / start=17197 finish= 17568
+insertion
+insertion
+this is record n°21
+I need 12 reads in that contig
+gaussian read size = 346 / contig_size = 9511 / start=2057 finish= 2403
+insertion
+insertion
+gaussian read size = 337 / contig_size = 9511 / start=4834 finish= 5171
+insertion
+deletion
+gaussian read size = 410 / contig_size = 9511 / start=4515 finish= 4925
+mutation
+insertion
+gaussian read size = 349 / contig_size = 9511 / start=1533 finish= 1882
+insertion
+insertion
+mutation
+gaussian read size = 435 / contig_size = 9511 / start=9034 finish= 9469
+deletion
+insertion
+deletion
+gaussian read size = 305 / contig_size = 9511 / start=2189 finish= 2494
+insertion
+gaussian read size = 448 / contig_size = 9511 / start=4905 finish= 5353
+insertion
+deletion
+gaussian read size = 318 / contig_size = 9511 / start=8585 finish= 8903
+insertion
+insertion
+insertion
+insertion
+gaussian read size = 370 / contig_size = 9511 / start=1789 finish= 2159
+mutation
+mutation
+gaussian read size = 257 / contig_size = 9511 / start=2075 finish= 2332
+gaussian read size = 319 / contig_size = 9511 / start=8730 finish= 9049
+mutation
+gaussian read size = 370 / contig_size = 9511 / start=212 finish= 582
+this is record n°22
+I need 6 reads in that contig
+gaussian read size = 259 / contig_size = 276 / start=15 finish= 274
+insertion
+gaussian read size = 356 / contig_size = 276 / start=-77 finish= 279
+deletion
+gaussian read size = 336 / contig_size = 276 / start=-19 finish= 317
+gaussian read size = 341 / contig_size = 276 / start=-19 finish= 322
+gaussian read size = 304 / contig_size = 276 / start=-26 finish= 278
+gaussian read size = 306 / contig_size = 276 / start=-5 finish= 301
+this is record n°23
+I need 15 reads in that contig
+gaussian read size = 412 / contig_size = 2720 / start=862 finish= 1274
+mutation
+gaussian read size = 354 / contig_size = 2720 / start=1540 finish= 1894
+insertion
+deletion
+insertion
+deletion
+gaussian read size = 378 / contig_size = 2720 / start=547 finish= 925
+insertion
+deletion
+deletion
+insertion
+gaussian read size = 339 / contig_size = 2720 / start=277 finish= 616
+deletion
+insertion
+insertion
+gaussian read size = 414 / contig_size = 2720 / start=1461 finish= 1875
+insertion
+gaussian read size = 374 / contig_size = 2720 / start=292 finish= 666
+insertion
+gaussian read size = 343 / contig_size = 2720 / start=1665 finish= 2008
+deletion
+insertion
+gaussian read size = 364 / contig_size = 2720 / start=1366 finish= 1730
+insertion
+gaussian read size = 345 / contig_size = 2720 / start=1416 finish= 1761
+deletion
+insertion
+gaussian read size = 320 / contig_size = 2720 / start=1042 finish= 1362
+insertion
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 353 / contig_size = 2720 / start=333 finish= 686
+insertion
+gaussian read size = 319 / contig_size = 2720 / start=2338 finish= 2657
+insertion
+insertion
+gaussian read size = 418 / contig_size = 2720 / start=467 finish= 885
+insertion
+insertion
+deletion
+mutation
+gaussian read size = 303 / contig_size = 2720 / start=1439 finish= 1742
+insertion
+insertion
+deletion
+insertion
+gaussian read size = 331 / contig_size = 2720 / start=419 finish= 750
+this is record n°24
+I need 12 reads in that contig
+gaussian read size = 355 / contig_size = 8628 / start=4343 finish= 4698
+deletion
+deletion
+deletion
+gaussian read size = 365 / contig_size = 8628 / start=8178 finish= 8543
+mutation
+mutation
+deletion
+gaussian read size = 305 / contig_size = 8628 / start=7697 finish= 8002
+gaussian read size = 404 / contig_size = 8628 / start=7777 finish= 8181
+gaussian read size = 348 / contig_size = 8628 / start=1651 finish= 1999
+insertion
+deletion
+insertion
+deletion
+gaussian read size = 354 / contig_size = 8628 / start=5779 finish= 6133
+insertion
+gaussian read size = 372 / contig_size = 8628 / start=5893 finish= 6265
+insertion
+mutation
+gaussian read size = 354 / contig_size = 8628 / start=7653 finish= 8007
+deletion
+insertion
+deletion
+gaussian read size = 308 / contig_size = 8628 / start=4723 finish= 5031
+insertion
+deletion
+insertion
+gaussian read size = 347 / contig_size = 8628 / start=7848 finish= 8195
+mutation
+gaussian read size = 333 / contig_size = 8628 / start=464 finish= 797
+gaussian read size = 347 / contig_size = 8628 / start=1520 finish= 1867
+this is record n°25
+I need 21 reads in that contig
+gaussian read size = 318 / contig_size = 62978 / start=6450 finish= 6768
+insertion
+gaussian read size = 371 / contig_size = 62978 / start=60491 finish= 60862
+insertion
+insertion
+deletion
+gaussian read size = 267 / contig_size = 62978 / start=5421 finish= 5688
+deletion
+gaussian read size = 378 / contig_size = 62978 / start=62121 finish= 62499
+deletion
+insertion
+mutation
+gaussian read size = 382 / contig_size = 62978 / start=41318 finish= 41700
+insertion
+insertion
+deletion
+deletion
+gaussian read size = 410 / contig_size = 62978 / start=27475 finish= 27885
+deletion
+gaussian read size = 349 / contig_size = 62978 / start=19120 finish= 19469
+deletion
+insertion
+gaussian read size = 431 / contig_size = 62978 / start=8978 finish= 9409
+deletion
+mutation
+gaussian read size = 305 / contig_size = 62978 / start=12499 finish= 12804
+insertion
+insertion
+gaussian read size = 361 / contig_size = 62978 / start=60873 finish= 61234
+insertion
+insertion
+insertion
+mutation
+gaussian read size = 289 / contig_size = 62978 / start=27025 finish= 27314
+insertion
+deletion
+gaussian read size = 348 / contig_size = 62978 / start=40394 finish= 40742
+deletion
+insertion
+deletion
+insertion
+mutation
+gaussian read size = 406 / contig_size = 62978 / start=43337 finish= 43743
+insertion
+deletion
+insertion
+gaussian read size = 361 / contig_size = 62978 / start=18654 finish= 19015
+deletion
+insertion
+deletion
+insertion
+gaussian read size = 296 / contig_size = 62978 / start=47420 finish= 47716
+deletion
+gaussian read size = 296 / contig_size = 62978 / start=53475 finish= 53771
+gaussian read size = 296 / contig_size = 62978 / start=61749 finish= 62045
+insertion
+insertion
+gaussian read size = 352 / contig_size = 62978 / start=31456 finish= 31808
+deletion
+deletion
+deletion
+gaussian read size = 366 / contig_size = 62978 / start=47111 finish= 47477
+insertion
+deletion
+insertion
+gaussian read size = 286 / contig_size = 62978 / start=7337 finish= 7623
+deletion
+deletion
+gaussian read size = 360 / contig_size = 62978 / start=4231 finish= 4591
+deletion
+mutation
+insertion
+mutation
+this is record n°26
+I need 14 reads in that contig
+gaussian read size = 300 / contig_size = 17883 / start=1751 finish= 2051
+gaussian read size = 375 / contig_size = 17883 / start=4977 finish= 5352
+deletion
+deletion
+gaussian read size = 368 / contig_size = 17883 / start=2790 finish= 3158
+mutation
+insertion
+deletion
+gaussian read size = 379 / contig_size = 17883 / start=16365 finish= 16744
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 307 / contig_size = 17883 / start=13372 finish= 13679
+deletion
+deletion
+gaussian read size = 306 / contig_size = 17883 / start=8610 finish= 8916
+deletion
+mutation
+insertion
+deletion
+gaussian read size = 345 / contig_size = 17883 / start=11944 finish= 12289
+insertion
+mutation
+mutation
+gaussian read size = 459 / contig_size = 17883 / start=5001 finish= 5460
+deletion
+deletion
+insertion
+deletion
+gaussian read size = 300 / contig_size = 17883 / start=11943 finish= 12243
+deletion
+insertion
+deletion
+gaussian read size = 321 / contig_size = 17883 / start=3292 finish= 3613
+insertion
+deletion
+mutation
+gaussian read size = 215 / contig_size = 17883 / start=6527 finish= 6742
+gaussian read size = 322 / contig_size = 17883 / start=10313 finish= 10635
+insertion
+deletion
+gaussian read size = 329 / contig_size = 17883 / start=6903 finish= 7232
+deletion
+insertion
+mutation
+gaussian read size = 329 / contig_size = 17883 / start=14882 finish= 15211
+deletion
+deletion
+deletion
+this is record n°27
+I need 13 reads in that contig
+gaussian read size = 317 / contig_size = 27716 / start=22436 finish= 22753
+insertion
+deletion
+gaussian read size = 318 / contig_size = 27716 / start=14015 finish= 14333
+mutation
+mutation
+insertion
+gaussian read size = 327 / contig_size = 27716 / start=26485 finish= 26812
+deletion
+mutation
+gaussian read size = 370 / contig_size = 27716 / start=17954 finish= 18324
+insertion
+insertion
+mutation
+insertion
+deletion
+gaussian read size = 277 / contig_size = 27716 / start=2399 finish= 2676
+deletion
+insertion
+gaussian read size = 376 / contig_size = 27716 / start=20753 finish= 21129
+deletion
+insertion
+gaussian read size = 355 / contig_size = 27716 / start=14883 finish= 15238
+gaussian read size = 377 / contig_size = 27716 / start=6903 finish= 7280
+deletion
+deletion
+gaussian read size = 300 / contig_size = 27716 / start=7683 finish= 7983
+insertion
+insertion
+deletion
+deletion
+gaussian read size = 300 / contig_size = 27716 / start=13711 finish= 14011
+deletion
+insertion
+gaussian read size = 351 / contig_size = 27716 / start=6016 finish= 6367
+deletion
+insertion
+deletion
+deletion
+gaussian read size = 415 / contig_size = 27716 / start=24419 finish= 24834
+deletion
+gaussian read size = 351 / contig_size = 27716 / start=23538 finish= 23889
+insertion
+mutation
+deletion
+deletion
+insertion
+insertion
+this is record n°28
+I need 17 reads in that contig
+gaussian read size = 284 / contig_size = 124112 / start=77097 finish= 77381
+deletion
+insertion
+insertion
+gaussian read size = 349 / contig_size = 124112 / start=110267 finish= 110616
+insertion
+insertion
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 310 / contig_size = 124112 / start=7044 finish= 7354
+insertion
+gaussian read size = 340 / contig_size = 124112 / start=47731 finish= 48071
+mutation
+insertion
+deletion
+gaussian read size = 364 / contig_size = 124112 / start=44962 finish= 45326
+insertion
+gaussian read size = 369 / contig_size = 124112 / start=69531 finish= 69900
+insertion
+insertion
+insertion
+gaussian read size = 350 / contig_size = 124112 / start=56826 finish= 57176
+deletion
+gaussian read size = 332 / contig_size = 124112 / start=56895 finish= 57227
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 316 / contig_size = 124112 / start=58594 finish= 58910
+gaussian read size = 407 / contig_size = 124112 / start=26054 finish= 26461
+mutation
+gaussian read size = 322 / contig_size = 124112 / start=89614 finish= 89936
+deletion
+gaussian read size = 348 / contig_size = 124112 / start=59020 finish= 59368
+insertion
+gaussian read size = 320 / contig_size = 124112 / start=34729 finish= 35049
+insertion
+insertion
+deletion
+gaussian read size = 346 / contig_size = 124112 / start=118295 finish= 118641
+insertion
+deletion
+gaussian read size = 293 / contig_size = 124112 / start=26262 finish= 26555
+deletion
+deletion
+insertion
+gaussian read size = 316 / contig_size = 124112 / start=88329 finish= 88645
+deletion
+deletion
+insertion
+gaussian read size = 369 / contig_size = 124112 / start=9075 finish= 9444
+mutation
+insertion
+insertion
+this is record n°29
+I need 8 reads in that contig
+gaussian read size = 288 / contig_size = 164440 / start=15394 finish= 15682
+deletion
+deletion
+gaussian read size = 302 / contig_size = 164440 / start=11499 finish= 11801
+deletion
+deletion
+insertion
+gaussian read size = 389 / contig_size = 164440 / start=88989 finish= 89378
+insertion
+insertion
+insertion
+mutation
+gaussian read size = 303 / contig_size = 164440 / start=99711 finish= 100014
+deletion
+gaussian read size = 342 / contig_size = 164440 / start=38207 finish= 38549
+deletion
+gaussian read size = 303 / contig_size = 164440 / start=94244 finish= 94547
+insertion
+deletion
+insertion
+insertion
+insertion
+deletion
+gaussian read size = 412 / contig_size = 164440 / start=13909 finish= 14321
+insertion
+mutation
+gaussian read size = 372 / contig_size = 164440 / start=153359 finish= 153731
+insertion
+insertion
+this is record n°30
+I need 10 reads in that contig
+gaussian read size = 425 / contig_size = 940 / start=359 finish= 784
+mutation
+gaussian read size = 237 / contig_size = 940 / start=56 finish= 293
+deletion
+deletion
+gaussian read size = 399 / contig_size = 940 / start=194 finish= 593
+gaussian read size = 404 / contig_size = 940 / start=369 finish= 773
+insertion
+insertion
+gaussian read size = 411 / contig_size = 940 / start=24 finish= 435
+insertion
+insertion
+gaussian read size = 281 / contig_size = 940 / start=224 finish= 505
+deletion
+insertion
+deletion
+deletion
+gaussian read size = 323 / contig_size = 940 / start=76 finish= 399
+gaussian read size = 398 / contig_size = 940 / start=497 finish= 895
+gaussian read size = 288 / contig_size = 940 / start=286 finish= 574
+gaussian read size = 408 / contig_size = 940 / start=472 finish= 880
+insertion
+this is record n°31
+I need 7 reads in that contig
+gaussian read size = 353 / contig_size = 26062 / start=19661 finish= 20014
+insertion
+mutation
+gaussian read size = 211 / contig_size = 26062 / start=6682 finish= 6893
+deletion
+mutation
+insertion
+deletion
+gaussian read size = 397 / contig_size = 26062 / start=22041 finish= 22438
+deletion
+insertion
+deletion
+mutation
+gaussian read size = 335 / contig_size = 26062 / start=17001 finish= 17336
+deletion
+mutation
+insertion
+mutation
+insertion
+deletion
+mutation
+insertion
+gaussian read size = 375 / contig_size = 26062 / start=13771 finish= 14146
+deletion
+insertion
+mutation
+insertion
+deletion
+gaussian read size = 275 / contig_size = 26062 / start=21606 finish= 21881
+deletion
+deletion
+mutation
+deletion
+gaussian read size = 357 / contig_size = 26062 / start=11751 finish= 12108
+deletion
+this is record n°32
+I need 15 reads in that contig
+gaussian read size = 298 / contig_size = 92627 / start=71186 finish= 71484
+insertion
+deletion
+gaussian read size = 310 / contig_size = 92627 / start=36025 finish= 36335
+deletion
+deletion
+mutation
+insertion
+insertion
+gaussian read size = 530 / contig_size = 92627 / start=14228 finish= 14758
+deletion
+insertion
+gaussian read size = 353 / contig_size = 92627 / start=2966 finish= 3319
+deletion
+deletion
+insertion
+gaussian read size = 370 / contig_size = 92627 / start=8329 finish= 8699
+insertion
+deletion
+deletion
+insertion
+gaussian read size = 350 / contig_size = 92627 / start=63063 finish= 63413
+insertion
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 285 / contig_size = 92627 / start=8310 finish= 8595
+deletion
+insertion
+insertion
+gaussian read size = 377 / contig_size = 92627 / start=487 finish= 864
+deletion
+insertion
+deletion
+gaussian read size = 360 / contig_size = 92627 / start=64001 finish= 64361
+insertion
+mutation
+deletion
+insertion
+deletion
+gaussian read size = 344 / contig_size = 92627 / start=87531 finish= 87875
+mutation
+gaussian read size = 267 / contig_size = 92627 / start=74767 finish= 75034
+gaussian read size = 317 / contig_size = 92627 / start=3078 finish= 3395
+deletion
+deletion
+gaussian read size = 367 / contig_size = 92627 / start=90607 finish= 90974
+insertion
+deletion
+deletion
+insertion
+gaussian read size = 334 / contig_size = 92627 / start=84268 finish= 84602
+deletion
+gaussian read size = 369 / contig_size = 92627 / start=59075 finish= 59444
+this is record n°33
+I need 8 reads in that contig
+gaussian read size = 302 / contig_size = 91575 / start=87153 finish= 87455
+deletion
+deletion
+insertion
+gaussian read size = 307 / contig_size = 91575 / start=18511 finish= 18818
+gaussian read size = 300 / contig_size = 91575 / start=16034 finish= 16334
+insertion
+deletion
+insertion
+insertion
+insertion
+gaussian read size = 347 / contig_size = 91575 / start=40675 finish= 41022
+deletion
+gaussian read size = 344 / contig_size = 91575 / start=58036 finish= 58380
+deletion
+deletion
+gaussian read size = 310 / contig_size = 91575 / start=25261 finish= 25571
+insertion
+gaussian read size = 401 / contig_size = 91575 / start=77998 finish= 78399
+deletion
+insertion
+insertion
+deletion
+gaussian read size = 338 / contig_size = 91575 / start=80575 finish= 80913
+this is record n°34
+I need 14 reads in that contig
+gaussian read size = 300 / contig_size = 4464 / start=3321 finish= 3621
+deletion
+deletion
+gaussian read size = 360 / contig_size = 4464 / start=3351 finish= 3711
+insertion
+deletion
+deletion
+gaussian read size = 360 / contig_size = 4464 / start=861 finish= 1221
+insertion
+mutation
+deletion
+gaussian read size = 447 / contig_size = 4464 / start=66 finish= 513
+insertion
+mutation
+mutation
+gaussian read size = 340 / contig_size = 4464 / start=1195 finish= 1535
+deletion
+gaussian read size = 293 / contig_size = 4464 / start=3342 finish= 3635
+mutation
+insertion
+deletion
+gaussian read size = 304 / contig_size = 4464 / start=3061 finish= 3365
+deletion
+gaussian read size = 260 / contig_size = 4464 / start=28 finish= 288
+mutation
+gaussian read size = 265 / contig_size = 4464 / start=1187 finish= 1452
+insertion
+insertion
+gaussian read size = 397 / contig_size = 4464 / start=659 finish= 1056
+deletion
+deletion
+insertion
+deletion
+gaussian read size = 305 / contig_size = 4464 / start=1498 finish= 1803
+deletion
+insertion
+gaussian read size = 359 / contig_size = 4464 / start=705 finish= 1064
+gaussian read size = 353 / contig_size = 4464 / start=372 finish= 725
+insertion
+deletion
+deletion
+gaussian read size = 334 / contig_size = 4464 / start=3750 finish= 4084
+deletion
+this is record n°35
+I need 17 reads in that contig
+gaussian read size = 382 / contig_size = 6411 / start=3784 finish= 4166
+insertion
+insertion
+mutation
+deletion
+gaussian read size = 407 / contig_size = 6411 / start=1015 finish= 1422
+deletion
+insertion
+gaussian read size = 362 / contig_size = 6411 / start=5212 finish= 5574
+insertion
+deletion
+insertion
+insertion
+deletion
+gaussian read size = 409 / contig_size = 6411 / start=5840 finish= 6249
+insertion
+insertion
+insertion
+insertion
+deletion
+gaussian read size = 323 / contig_size = 6411 / start=677 finish= 1000
+gaussian read size = 342 / contig_size = 6411 / start=4183 finish= 4525
+deletion
+deletion
+gaussian read size = 332 / contig_size = 6411 / start=3335 finish= 3667
+insertion
+mutation
+insertion
+gaussian read size = 343 / contig_size = 6411 / start=1845 finish= 2188
+insertion
+deletion
+insertion
+gaussian read size = 259 / contig_size = 6411 / start=3368 finish= 3627
+deletion
+gaussian read size = 321 / contig_size = 6411 / start=5762 finish= 6083
+insertion
+deletion
+gaussian read size = 256 / contig_size = 6411 / start=2937 finish= 3193
+deletion
+gaussian read size = 279 / contig_size = 6411 / start=5339 finish= 5618
+deletion
+insertion
+gaussian read size = 300 / contig_size = 6411 / start=4477 finish= 4777
+insertion
+deletion
+deletion
+insertion
+insertion
+gaussian read size = 380 / contig_size = 6411 / start=1872 finish= 2252
+gaussian read size = 351 / contig_size = 6411 / start=5728 finish= 6079
+insertion
+mutation
+insertion
+gaussian read size = 325 / contig_size = 6411 / start=4166 finish= 4491
+insertion
+gaussian read size = 389 / contig_size = 6411 / start=2689 finish= 3078
+deletion
+insertion
+this is record n°36
+I need 8 reads in that contig
+gaussian read size = 361 / contig_size = 32784 / start=2997 finish= 3358
+deletion
+gaussian read size = 386 / contig_size = 32784 / start=15431 finish= 15817
+deletion
+deletion
+gaussian read size = 330 / contig_size = 32784 / start=16489 finish= 16819
+gaussian read size = 329 / contig_size = 32784 / start=6525 finish= 6854
+insertion
+gaussian read size = 346 / contig_size = 32784 / start=11794 finish= 12140
+mutation
+insertion
+gaussian read size = 379 / contig_size = 32784 / start=19768 finish= 20147
+gaussian read size = 362 / contig_size = 32784 / start=22807 finish= 23169
+insertion
+mutation
+deletion
+gaussian read size = 386 / contig_size = 32784 / start=14384 finish= 14770
+deletion
+mutation
+this is record n°37
+I need 9 reads in that contig
+gaussian read size = 322 / contig_size = 14361 / start=3597 finish= 3919
+deletion
+insertion
+insertion
+gaussian read size = 374 / contig_size = 14361 / start=4223 finish= 4597
+deletion
+gaussian read size = 356 / contig_size = 14361 / start=8210 finish= 8566
+gaussian read size = 298 / contig_size = 14361 / start=8817 finish= 9115
+gaussian read size = 288 / contig_size = 14361 / start=3639 finish= 3927
+insertion
+mutation
+deletion
+insertion
+gaussian read size = 263 / contig_size = 14361 / start=6810 finish= 7073
+deletion
+deletion
+gaussian read size = 326 / contig_size = 14361 / start=13361 finish= 13687
+gaussian read size = 363 / contig_size = 14361 / start=4001 finish= 4364
+insertion
+gaussian read size = 329 / contig_size = 14361 / start=2702 finish= 3031
+insertion
+insertion
+this is record n°38
+I need 12 reads in that contig
+gaussian read size = 395 / contig_size = 125147 / start=111243 finish= 111638
+insertion
+gaussian read size = 431 / contig_size = 125147 / start=119690 finish= 120121
+insertion
+mutation
+gaussian read size = 295 / contig_size = 125147 / start=22966 finish= 23261
+insertion
+insertion
+gaussian read size = 341 / contig_size = 125147 / start=40824 finish= 41165
+gaussian read size = 275 / contig_size = 125147 / start=32850 finish= 33125
+insertion
+gaussian read size = 389 / contig_size = 125147 / start=71543 finish= 71932
+mutation
+insertion
+deletion
+gaussian read size = 411 / contig_size = 125147 / start=33399 finish= 33810
+insertion
+insertion
+insertion
+gaussian read size = 241 / contig_size = 125147 / start=51813 finish= 52054
+deletion
+gaussian read size = 345 / contig_size = 125147 / start=33230 finish= 33575
+insertion
+gaussian read size = 381 / contig_size = 125147 / start=11843 finish= 12224
+deletion
+deletion
+mutation
+gaussian read size = 296 / contig_size = 125147 / start=60693 finish= 60989
+insertion
+gaussian read size = 262 / contig_size = 125147 / start=106707 finish= 106969
+this is record n°39
+I need 8 reads in that contig
+gaussian read size = 364 / contig_size = 17201 / start=13533 finish= 13897
+deletion
+mutation
+insertion
+gaussian read size = 298 / contig_size = 17201 / start=6892 finish= 7190
+deletion
+insertion
+gaussian read size = 437 / contig_size = 17201 / start=530 finish= 967
+deletion
+insertion
+gaussian read size = 223 / contig_size = 17201 / start=1558 finish= 1781
+mutation
+deletion
+deletion
+deletion
+gaussian read size = 377 / contig_size = 17201 / start=16014 finish= 16391
+deletion
+deletion
+insertion
+gaussian read size = 407 / contig_size = 17201 / start=12569 finish= 12976
+deletion
+insertion
+insertion
+gaussian read size = 305 / contig_size = 17201 / start=3666 finish= 3971
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 369 / contig_size = 17201 / start=8250 finish= 8619
+deletion
+mutation
+mutation
+this is record n°40
+I need 15 reads in that contig
+gaussian read size = 320 / contig_size = 1683 / start=1249 finish= 1569
+insertion
+insertion
+gaussian read size = 337 / contig_size = 1683 / start=895 finish= 1232
+insertion
+deletion
+gaussian read size = 473 / contig_size = 1683 / start=784 finish= 1257
+deletion
+deletion
+insertion
+insertion
+gaussian read size = 327 / contig_size = 1683 / start=61 finish= 388
+insertion
+deletion
+insertion
+mutation
+deletion
+gaussian read size = 309 / contig_size = 1683 / start=554 finish= 863
+deletion
+insertion
+gaussian read size = 394 / contig_size = 1683 / start=226 finish= 620
+deletion
+mutation
+gaussian read size = 431 / contig_size = 1683 / start=60 finish= 491
+deletion
+gaussian read size = 445 / contig_size = 1683 / start=1114 finish= 1559
+deletion
+deletion
+mutation
+gaussian read size = 322 / contig_size = 1683 / start=253 finish= 575
+insertion
+deletion
+deletion
+gaussian read size = 422 / contig_size = 1683 / start=876 finish= 1298
+gaussian read size = 316 / contig_size = 1683 / start=731 finish= 1047
+insertion
+mutation
+gaussian read size = 426 / contig_size = 1683 / start=1003 finish= 1429
+insertion
+deletion
+deletion
+deletion
+insertion
+mutation
+gaussian read size = 393 / contig_size = 1683 / start=574 finish= 967
+insertion
+deletion
+insertion
+gaussian read size = 448 / contig_size = 1683 / start=626 finish= 1074
+gaussian read size = 343 / contig_size = 1683 / start=669 finish= 1012
+mutation
+insertion
+this is record n°41
+I need 12 reads in that contig
+gaussian read size = 368 / contig_size = 96796 / start=3406 finish= 3774
+mutation
+deletion
+gaussian read size = 359 / contig_size = 96796 / start=60906 finish= 61265
+insertion
+gaussian read size = 353 / contig_size = 96796 / start=61444 finish= 61797
+insertion
+insertion
+gaussian read size = 340 / contig_size = 96796 / start=26684 finish= 27024
+insertion
+mutation
+gaussian read size = 265 / contig_size = 96796 / start=8764 finish= 9029
+insertion
+gaussian read size = 341 / contig_size = 96796 / start=91910 finish= 92251
+deletion
+insertion
+gaussian read size = 318 / contig_size = 96796 / start=90529 finish= 90847
+deletion
+gaussian read size = 373 / contig_size = 96796 / start=95575 finish= 95948
+deletion
+deletion
+deletion
+mutation
+deletion
+gaussian read size = 355 / contig_size = 96796 / start=45031 finish= 45386
+insertion
+gaussian read size = 386 / contig_size = 96796 / start=35986 finish= 36372
+deletion
+insertion
+deletion
+mutation
+deletion
+insertion
+gaussian read size = 331 / contig_size = 96796 / start=53264 finish= 53595
+insertion
+insertion
+gaussian read size = 365 / contig_size = 96796 / start=37058 finish= 37423
+insertion
+insertion
+mutation
+mutation
+this is record n°42
+I need 13 reads in that contig
+gaussian read size = 342 / contig_size = 99964 / start=83359 finish= 83701
+insertion
+mutation
+gaussian read size = 307 / contig_size = 99964 / start=28144 finish= 28451
+insertion
+gaussian read size = 381 / contig_size = 99964 / start=38982 finish= 39363
+mutation
+mutation
+insertion
+gaussian read size = 375 / contig_size = 99964 / start=52761 finish= 53136
+deletion
+deletion
+gaussian read size = 394 / contig_size = 99964 / start=33020 finish= 33414
+insertion
+insertion
+mutation
+gaussian read size = 389 / contig_size = 99964 / start=95308 finish= 95697
+insertion
+insertion
+insertion
+gaussian read size = 296 / contig_size = 99964 / start=60569 finish= 60865
+gaussian read size = 366 / contig_size = 99964 / start=30541 finish= 30907
+deletion
+deletion
+insertion
+gaussian read size = 409 / contig_size = 99964 / start=92363 finish= 92772
+insertion
+mutation
+insertion
+mutation
+mutation
+insertion
+gaussian read size = 356 / contig_size = 99964 / start=38203 finish= 38559
+gaussian read size = 369 / contig_size = 99964 / start=67450 finish= 67819
+gaussian read size = 297 / contig_size = 99964 / start=72996 finish= 73293
+gaussian read size = 372 / contig_size = 99964 / start=15756 finish= 16128
+this is record n°43
+I need 7 reads in that contig
+gaussian read size = 439 / contig_size = 58761 / start=17347 finish= 17786
+deletion
+deletion
+insertion
+gaussian read size = 429 / contig_size = 58761 / start=51974 finish= 52403
+insertion
+gaussian read size = 332 / contig_size = 58761 / start=42887 finish= 43219
+mutation
+gaussian read size = 366 / contig_size = 58761 / start=14982 finish= 15348
+deletion
+insertion
+insertion
+deletion
+gaussian read size = 313 / contig_size = 58761 / start=24657 finish= 24970
+mutation
+insertion
+insertion
+gaussian read size = 346 / contig_size = 58761 / start=16235 finish= 16581
+deletion
+deletion
+gaussian read size = 458 / contig_size = 58761 / start=23573 finish= 24031
+insertion
+this is record n°44
+I need 14 reads in that contig
+gaussian read size = 322 / contig_size = 539 / start=198 finish= 520
+mutation
+deletion
+gaussian read size = 237 / contig_size = 539 / start=122 finish= 359
+deletion
+gaussian read size = 345 / contig_size = 539 / start=188 finish= 533
+deletion
+insertion
+gaussian read size = 331 / contig_size = 539 / start=100 finish= 431
+insertion
+deletion
+gaussian read size = 398 / contig_size = 539 / start=37 finish= 435
+insertion
+gaussian read size = 331 / contig_size = 539 / start=188 finish= 519
+insertion
+mutation
+gaussian read size = 367 / contig_size = 539 / start=45 finish= 412
+deletion
+gaussian read size = 386 / contig_size = 539 / start=16 finish= 402
+insertion
+insertion
+gaussian read size = 437 / contig_size = 539 / start=23 finish= 460
+insertion
+insertion
+deletion
+gaussian read size = 329 / contig_size = 539 / start=17 finish= 346
+insertion
+insertion
+mutation
+insertion
+gaussian read size = 219 / contig_size = 539 / start=138 finish= 357
+gaussian read size = 427 / contig_size = 539 / start=18 finish= 445
+mutation
+gaussian read size = 323 / contig_size = 539 / start=92 finish= 415
+mutation
+deletion
+mutation
+deletion
+gaussian read size = 404 / contig_size = 539 / start=40 finish= 444
+insertion
+insertion
+this is record n°45
+I need 11 reads in that contig
+gaussian read size = 337 / contig_size = 9402 / start=3884 finish= 4221
+deletion
+deletion
+deletion
+gaussian read size = 443 / contig_size = 9402 / start=7824 finish= 8267
+insertion
+insertion
+gaussian read size = 360 / contig_size = 9402 / start=298 finish= 658
+mutation
+insertion
+gaussian read size = 415 / contig_size = 9402 / start=4501 finish= 4916
+mutation
+insertion
+insertion
+deletion
+gaussian read size = 357 / contig_size = 9402 / start=7074 finish= 7431
+gaussian read size = 302 / contig_size = 9402 / start=8416 finish= 8718
+deletion
+gaussian read size = 407 / contig_size = 9402 / start=5578 finish= 5985
+deletion
+insertion
+deletion
+deletion
+insertion
+insertion
+deletion
+gaussian read size = 299 / contig_size = 9402 / start=6568 finish= 6867
+insertion
+insertion
+gaussian read size = 346 / contig_size = 9402 / start=1034 finish= 1380
+deletion
+deletion
+gaussian read size = 284 / contig_size = 9402 / start=5657 finish= 5941
+mutation
+insertion
+gaussian read size = 310 / contig_size = 9402 / start=6880 finish= 7190
+mutation
+mutation
+mutation
+this is record n°46
+I need 11 reads in that contig
+gaussian read size = 369 / contig_size = 2483 / start=703 finish= 1072
+gaussian read size = 432 / contig_size = 2483 / start=375 finish= 807
+deletion
+mutation
+insertion
+insertion
+gaussian read size = 388 / contig_size = 2483 / start=1551 finish= 1939
+deletion
+mutation
+gaussian read size = 407 / contig_size = 2483 / start=1278 finish= 1685
+insertion
+insertion
+insertion
+gaussian read size = 266 / contig_size = 2483 / start=1948 finish= 2214
+insertion
+insertion
+deletion
+insertion
+gaussian read size = 326 / contig_size = 2483 / start=1240 finish= 1566
+deletion
+mutation
+gaussian read size = 363 / contig_size = 2483 / start=2002 finish= 2365
+deletion
+deletion
+deletion
+gaussian read size = 352 / contig_size = 2483 / start=1478 finish= 1830
+insertion
+deletion
+gaussian read size = 414 / contig_size = 2483 / start=1382 finish= 1796
+insertion
+insertion
+insertion
+gaussian read size = 438 / contig_size = 2483 / start=1914 finish= 2352
+deletion
+gaussian read size = 312 / contig_size = 2483 / start=718 finish= 1030
+this is record n°47
+I need 9 reads in that contig
+gaussian read size = 389 / contig_size = 249 / start=-56 finish= 333
+gaussian read size = 338 / contig_size = 249 / start=0 finish= 338
+insertion
+gaussian read size = 335 / contig_size = 249 / start=-74 finish= 261
+gaussian read size = 235 / contig_size = 249 / start=4 finish= 239
+insertion
+deletion
+deletion
+gaussian read size = 356 / contig_size = 249 / start=-59 finish= 297
+gaussian read size = 318 / contig_size = 249 / start=-53 finish= 265
+insertion
+insertion
+gaussian read size = 286 / contig_size = 249 / start=-27 finish= 259
+gaussian read size = 330 / contig_size = 249 / start=-67 finish= 263
+gaussian read size = 262 / contig_size = 249 / start=-10 finish= 252
+this is record n°48
+I need 15 reads in that contig
+gaussian read size = 378 / contig_size = 51882 / start=39230 finish= 39608
+insertion
+deletion
+mutation
+gaussian read size = 396 / contig_size = 51882 / start=23561 finish= 23957
+insertion
+insertion
+mutation
+gaussian read size = 347 / contig_size = 51882 / start=10960 finish= 11307
+insertion
+gaussian read size = 239 / contig_size = 51882 / start=11778 finish= 12017
+insertion
+deletion
+gaussian read size = 454 / contig_size = 51882 / start=10934 finish= 11388
+deletion
+deletion
+insertion
+deletion
+gaussian read size = 357 / contig_size = 51882 / start=46240 finish= 46597
+gaussian read size = 369 / contig_size = 51882 / start=33098 finish= 33467
+insertion
+gaussian read size = 382 / contig_size = 51882 / start=27919 finish= 28301
+deletion
+gaussian read size = 432 / contig_size = 51882 / start=46968 finish= 47400
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 281 / contig_size = 51882 / start=14499 finish= 14780
+gaussian read size = 302 / contig_size = 51882 / start=33349 finish= 33651
+mutation
+gaussian read size = 343 / contig_size = 51882 / start=39991 finish= 40334
+deletion
+deletion
+gaussian read size = 295 / contig_size = 51882 / start=43373 finish= 43668
+insertion
+insertion
+gaussian read size = 351 / contig_size = 51882 / start=29326 finish= 29677
+gaussian read size = 343 / contig_size = 51882 / start=33045 finish= 33388
+mutation
+mutation
+deletion
+this is record n°49
+I need 11 reads in that contig
+gaussian read size = 331 / contig_size = 131549 / start=13148 finish= 13479
+deletion
+insertion
+gaussian read size = 388 / contig_size = 131549 / start=42769 finish= 43157
+deletion
+deletion
+gaussian read size = 343 / contig_size = 131549 / start=27689 finish= 28032
+insertion
+insertion
+gaussian read size = 317 / contig_size = 131549 / start=39110 finish= 39427
+gaussian read size = 361 / contig_size = 131549 / start=89835 finish= 90196
+insertion
+deletion
+gaussian read size = 459 / contig_size = 131549 / start=84501 finish= 84960
+gaussian read size = 329 / contig_size = 131549 / start=123208 finish= 123537
+insertion
+insertion
+insertion
+deletion
+gaussian read size = 329 / contig_size = 131549 / start=99538 finish= 99867
+gaussian read size = 437 / contig_size = 131549 / start=46016 finish= 46453
+insertion
+deletion
+gaussian read size = 293 / contig_size = 131549 / start=89254 finish= 89547
+insertion
+gaussian read size = 426 / contig_size = 131549 / start=3141 finish= 3567
+insertion
+this is record n°50
+I need 20 reads in that contig
+gaussian read size = 355 / contig_size = 190989 / start=81791 finish= 82146
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 368 / contig_size = 190989 / start=109817 finish= 110185
+mutation
+insertion
+deletion
+insertion
+insertion
+deletion
+gaussian read size = 295 / contig_size = 190989 / start=176998 finish= 177293
+gaussian read size = 307 / contig_size = 190989 / start=27859 finish= 28166
+deletion
+deletion
+gaussian read size = 397 / contig_size = 190989 / start=148473 finish= 148870
+gaussian read size = 363 / contig_size = 190989 / start=94272 finish= 94635
+insertion
+deletion
+gaussian read size = 343 / contig_size = 190989 / start=29995 finish= 30338
+insertion
+deletion
+gaussian read size = 306 / contig_size = 190989 / start=152600 finish= 152906
+insertion
+deletion
+gaussian read size = 313 / contig_size = 190989 / start=83296 finish= 83609
+deletion
+gaussian read size = 363 / contig_size = 190989 / start=132515 finish= 132878
+deletion
+gaussian read size = 337 / contig_size = 190989 / start=108733 finish= 109070
+insertion
+gaussian read size = 302 / contig_size = 190989 / start=139952 finish= 140254
+insertion
+insertion
+deletion
+insertion
+gaussian read size = 309 / contig_size = 190989 / start=52288 finish= 52597
+insertion
+deletion
+gaussian read size = 311 / contig_size = 190989 / start=25988 finish= 26299
+insertion
+gaussian read size = 271 / contig_size = 190989 / start=177119 finish= 177390
+insertion
+insertion
+gaussian read size = 384 / contig_size = 190989 / start=40458 finish= 40842
+mutation
+deletion
+gaussian read size = 376 / contig_size = 190989 / start=154612 finish= 154988
+insertion
+gaussian read size = 252 / contig_size = 190989 / start=140475 finish= 140727
+insertion
+insertion
+gaussian read size = 347 / contig_size = 190989 / start=156161 finish= 156508
+insertion
+deletion
+gaussian read size = 260 / contig_size = 190989 / start=10261 finish= 10521
+insertion
+insertion
+this is record n°51
+I need 9 reads in that contig
+gaussian read size = 395 / contig_size = 14298 / start=3211 finish= 3606
+deletion
+deletion
+gaussian read size = 326 / contig_size = 14298 / start=9026 finish= 9352
+deletion
+insertion
+insertion
+insertion
+deletion
+gaussian read size = 220 / contig_size = 14298 / start=12650 finish= 12870
+insertion
+deletion
+insertion
+gaussian read size = 343 / contig_size = 14298 / start=3860 finish= 4203
+insertion
+deletion
+gaussian read size = 317 / contig_size = 14298 / start=7413 finish= 7730
+deletion
+insertion
+gaussian read size = 311 / contig_size = 14298 / start=163 finish= 474
+mutation
+gaussian read size = 362 / contig_size = 14298 / start=5478 finish= 5840
+deletion
+insertion
+insertion
+insertion
+gaussian read size = 391 / contig_size = 14298 / start=12152 finish= 12543
+gaussian read size = 443 / contig_size = 14298 / start=8198 finish= 8641
+insertion
+deletion
+deletion
+insertion
+this is record n°52
+I need 10 reads in that contig
+gaussian read size = 281 / contig_size = 93069 / start=51867 finish= 52148
+gaussian read size = 395 / contig_size = 93069 / start=83260 finish= 83655
+deletion
+gaussian read size = 399 / contig_size = 93069 / start=2706 finish= 3105
+deletion
+gaussian read size = 447 / contig_size = 93069 / start=10032 finish= 10479
+mutation
+deletion
+deletion
+gaussian read size = 391 / contig_size = 93069 / start=82539 finish= 82930
+deletion
+gaussian read size = 357 / contig_size = 93069 / start=19141 finish= 19498
+mutation
+deletion
+insertion
+gaussian read size = 365 / contig_size = 93069 / start=11958 finish= 12323
+insertion
+insertion
+insertion
+gaussian read size = 427 / contig_size = 93069 / start=20287 finish= 20714
+deletion
+mutation
+insertion
+gaussian read size = 311 / contig_size = 93069 / start=84518 finish= 84829
+insertion
+mutation
+gaussian read size = 447 / contig_size = 93069 / start=66391 finish= 66838
+insertion
+deletion
+mutation
+this is record n°53
+I need 14 reads in that contig
+gaussian read size = 406 / contig_size = 8145 / start=1762 finish= 2168
+insertion
+mutation
+mutation
+deletion
+mutation
+gaussian read size = 386 / contig_size = 8145 / start=4953 finish= 5339
+gaussian read size = 335 / contig_size = 8145 / start=5649 finish= 5984
+insertion
+deletion
+insertion
+deletion
+gaussian read size = 297 / contig_size = 8145 / start=4676 finish= 4973
+insertion
+mutation
+gaussian read size = 356 / contig_size = 8145 / start=5070 finish= 5426
+gaussian read size = 283 / contig_size = 8145 / start=3105 finish= 3388
+mutation
+mutation
+gaussian read size = 306 / contig_size = 8145 / start=6573 finish= 6879
+gaussian read size = 306 / contig_size = 8145 / start=7674 finish= 7980
+deletion
+insertion
+gaussian read size = 385 / contig_size = 8145 / start=2192 finish= 2577
+insertion
+insertion
+deletion
+insertion
+deletion
+mutation
+gaussian read size = 297 / contig_size = 8145 / start=7672 finish= 7969
+insertion
+insertion
+deletion
+gaussian read size = 325 / contig_size = 8145 / start=7613 finish= 7938
+deletion
+mutation
+deletion
+deletion
+insertion
+gaussian read size = 337 / contig_size = 8145 / start=2247 finish= 2584
+deletion
+deletion
+insertion
+gaussian read size = 302 / contig_size = 8145 / start=3234 finish= 3536
+deletion
+deletion
+deletion
+deletion
+gaussian read size = 320 / contig_size = 8145 / start=6583 finish= 6903
+insertion
+this is record n°54
+I need 13 reads in that contig
+gaussian read size = 413 / contig_size = 555 / start=33 finish= 446
+deletion
+gaussian read size = 416 / contig_size = 555 / start=42 finish= 458
+gaussian read size = 387 / contig_size = 555 / start=150 finish= 537
+insertion
+insertion
+deletion
+mutation
+gaussian read size = 415 / contig_size = 555 / start=13 finish= 428
+insertion
+insertion
+insertion
+insertion
+gaussian read size = 413 / contig_size = 555 / start=14 finish= 427
+insertion
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 360 / contig_size = 555 / start=51 finish= 411
+insertion
+deletion
+deletion
+gaussian read size = 348 / contig_size = 555 / start=10 finish= 358
+deletion
+mutation
+gaussian read size = 344 / contig_size = 555 / start=111 finish= 455
+deletion
+mutation
+gaussian read size = 373 / contig_size = 555 / start=153 finish= 526
+gaussian read size = 330 / contig_size = 555 / start=82 finish= 412
+insertion
+insertion
+insertion
+gaussian read size = 221 / contig_size = 555 / start=325 finish= 546
+deletion
+deletion
+gaussian read size = 322 / contig_size = 555 / start=62 finish= 384
+deletion
+deletion
+gaussian read size = 360 / contig_size = 555 / start=121 finish= 481
+this is record n°55
+I need 12 reads in that contig
+gaussian read size = 293 / contig_size = 144919 / start=57073 finish= 57366
+deletion
+insertion
+gaussian read size = 406 / contig_size = 144919 / start=23498 finish= 23904
+deletion
+deletion
+deletion
+insertion
+gaussian read size = 467 / contig_size = 144919 / start=117034 finish= 117501
+insertion
+insertion
+insertion
+gaussian read size = 324 / contig_size = 144919 / start=48071 finish= 48395
+insertion
+insertion
+insertion
+mutation
+mutation
+gaussian read size = 367 / contig_size = 144919 / start=28236 finish= 28603
+insertion
+insertion
+insertion
+gaussian read size = 347 / contig_size = 144919 / start=44265 finish= 44612
+insertion
+gaussian read size = 364 / contig_size = 144919 / start=105694 finish= 106058
+gaussian read size = 350 / contig_size = 144919 / start=19289 finish= 19639
+deletion
+insertion
+insertion
+insertion
+gaussian read size = 233 / contig_size = 144919 / start=2863 finish= 3096
+insertion
+deletion
+insertion
+gaussian read size = 313 / contig_size = 144919 / start=27798 finish= 28111
+deletion
+gaussian read size = 459 / contig_size = 144919 / start=47316 finish= 47775
+insertion
+gaussian read size = 269 / contig_size = 144919 / start=125421 finish= 125690
+insertion
+this is record n°56
+I need 9 reads in that contig
+gaussian read size = 272 / contig_size = 242 / start=-23 finish= 249
+gaussian read size = 309 / contig_size = 242 / start=-21 finish= 288
+gaussian read size = 320 / contig_size = 242 / start=-55 finish= 265
+deletion
+gaussian read size = 349 / contig_size = 242 / start=-33 finish= 316
+gaussian read size = 385 / contig_size = 242 / start=-25 finish= 360
+gaussian read size = 284 / contig_size = 242 / start=-14 finish= 270
+insertion
+gaussian read size = 343 / contig_size = 242 / start=-50 finish= 293
+gaussian read size = 308 / contig_size = 242 / start=-8 finish= 300
+gaussian read size = 377 / contig_size = 242 / start=-106 finish= 271
+deletion
+this is record n°57
+I need 11 reads in that contig
+gaussian read size = 322 / contig_size = 5350 / start=3729 finish= 4051
+gaussian read size = 267 / contig_size = 5350 / start=4012 finish= 4279
+insertion
+gaussian read size = 320 / contig_size = 5350 / start=4115 finish= 4435
+deletion
+gaussian read size = 286 / contig_size = 5350 / start=3689 finish= 3975
+insertion
+gaussian read size = 273 / contig_size = 5350 / start=4716 finish= 4989
+insertion
+insertion
+insertion
+gaussian read size = 409 / contig_size = 5350 / start=3313 finish= 3722
+deletion
+insertion
+gaussian read size = 385 / contig_size = 5350 / start=531 finish= 916
+insertion
+gaussian read size = 334 / contig_size = 5350 / start=2211 finish= 2545
+insertion
+gaussian read size = 369 / contig_size = 5350 / start=4667 finish= 5036
+insertion
+deletion
+deletion
+insertion
+gaussian read size = 394 / contig_size = 5350 / start=1514 finish= 1908
+insertion
+deletion
+gaussian read size = 255 / contig_size = 5350 / start=3373 finish= 3628
+deletion
+mutation
+insertion
+insertion
+this is record n°58
+I need 11 reads in that contig
+gaussian read size = 285 / contig_size = 362 / start=71 finish= 356
+gaussian read size = 325 / contig_size = 362 / start=31 finish= 356
+deletion
+insertion
+gaussian read size = 383 / contig_size = 362 / start=-16 finish= 367
+gaussian read size = 344 / contig_size = 362 / start=3 finish= 347
+deletion
+gaussian read size = 366 / contig_size = 362 / start=0 finish= 366
+insertion
+gaussian read size = 333 / contig_size = 362 / start=29 finish= 362
+deletion
+gaussian read size = 370 / contig_size = 362 / start=-3 finish= 367
+gaussian read size = 394 / contig_size = 362 / start=-6 finish= 388
+gaussian read size = 324 / contig_size = 362 / start=37 finish= 361
+insertion
+deletion
+deletion
+insertion
+mutation
+gaussian read size = 456 / contig_size = 362 / start=-81 finish= 375
+gaussian read size = 279 / contig_size = 362 / start=23 finish= 302
+deletion
+insertion
+this is record n°59
+I need 10 reads in that contig
+gaussian read size = 286 / contig_size = 194826 / start=37429 finish= 37715
+insertion
+deletion
+gaussian read size = 417 / contig_size = 194826 / start=75953 finish= 76370
+insertion
+deletion
+gaussian read size = 355 / contig_size = 194826 / start=145952 finish= 146307
+insertion
+gaussian read size = 430 / contig_size = 194826 / start=16895 finish= 17325
+insertion
+deletion
+deletion
+deletion
+gaussian read size = 388 / contig_size = 194826 / start=63484 finish= 63872
+insertion
+deletion
+gaussian read size = 319 / contig_size = 194826 / start=48669 finish= 48988
+deletion
+gaussian read size = 345 / contig_size = 194826 / start=57754 finish= 58099
+deletion
+gaussian read size = 380 / contig_size = 194826 / start=167988 finish= 168368
+gaussian read size = 387 / contig_size = 194826 / start=3237 finish= 3624
+gaussian read size = 373 / contig_size = 194826 / start=157640 finish= 158013
+insertion
+insertion
+deletion
+this is record n°60
+I need 18 reads in that contig
+gaussian read size = 425 / contig_size = 887 / start=322 finish= 747
+mutation
+insertion
+insertion
+insertion
+gaussian read size = 370 / contig_size = 887 / start=389 finish= 759
+insertion
+insertion
+gaussian read size = 371 / contig_size = 887 / start=341 finish= 712
+mutation
+insertion
+gaussian read size = 319 / contig_size = 887 / start=165 finish= 484
+insertion
+gaussian read size = 371 / contig_size = 887 / start=217 finish= 588
+deletion
+insertion
+deletion
+deletion
+deletion
+deletion
+gaussian read size = 348 / contig_size = 887 / start=456 finish= 804
+insertion
+deletion
+insertion
+deletion
+insertion
+insertion
+gaussian read size = 378 / contig_size = 887 / start=444 finish= 822
+deletion
+insertion
+gaussian read size = 442 / contig_size = 887 / start=282 finish= 724
+deletion
+mutation
+insertion
+gaussian read size = 307 / contig_size = 887 / start=406 finish= 713
+mutation
+gaussian read size = 301 / contig_size = 887 / start=545 finish= 846
+mutation
+insertion
+gaussian read size = 371 / contig_size = 887 / start=274 finish= 645
+deletion
+insertion
+insertion
+insertion
+gaussian read size = 344 / contig_size = 887 / start=387 finish= 731
+deletion
+gaussian read size = 333 / contig_size = 887 / start=71 finish= 404
+gaussian read size = 340 / contig_size = 887 / start=118 finish= 458
+insertion
+deletion
+insertion
+mutation
+gaussian read size = 337 / contig_size = 887 / start=339 finish= 676
+deletion
+mutation
+gaussian read size = 388 / contig_size = 887 / start=309 finish= 697
+deletion
+insertion
+insertion
+gaussian read size = 290 / contig_size = 887 / start=419 finish= 709
+insertion
+insertion
+deletion
+deletion
+gaussian read size = 340 / contig_size = 887 / start=181 finish= 521
+insertion
+deletion
+this is record n°61
+I need 14 reads in that contig
+gaussian read size = 367 / contig_size = 504 / start=10 finish= 377
+mutation
+gaussian read size = 389 / contig_size = 504 / start=22 finish= 411
+deletion
+gaussian read size = 447 / contig_size = 504 / start=44 finish= 491
+insertion
+deletion
+gaussian read size = 339 / contig_size = 504 / start=25 finish= 364
+insertion
+mutation
+gaussian read size = 361 / contig_size = 504 / start=124 finish= 485
+insertion
+deletion
+gaussian read size = 300 / contig_size = 504 / start=53 finish= 353
+insertion
+mutation
+gaussian read size = 308 / contig_size = 504 / start=47 finish= 355
+insertion
+gaussian read size = 309 / contig_size = 504 / start=160 finish= 469
+deletion
+gaussian read size = 319 / contig_size = 504 / start=32 finish= 351
+deletion
+deletion
+insertion
+gaussian read size = 399 / contig_size = 504 / start=49 finish= 448
+insertion
+gaussian read size = 328 / contig_size = 504 / start=52 finish= 380
+insertion
+deletion
+gaussian read size = 434 / contig_size = 504 / start=42 finish= 476
+insertion
+gaussian read size = 409 / contig_size = 504 / start=87 finish= 496
+deletion
+deletion
+gaussian read size =  / contig_size = 504 / start=95 finish= 95
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:02 for 1 cpus.
+You previously had 100449:56:16.  You now have 100449:56:14 remaining for the queue oc_standard

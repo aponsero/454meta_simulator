@@ -23,6 +23,11 @@ export NB_CONTIG=$(grep -c ">" $FILE)
 
 echo "nb of sequences found = $NB_CONTIG"
 
-RUN="$WORKER_DIR/simulator.pl"
+if [[ $MODEL_CHOICE -eq 1 ]]
+then 
+ RUN="$WORKER_DIR/model1_simulator.pl"
+else
+ RUN="$WORKER_DIR/model2_simulator.pl"
+fi
 
 perl $RUN $NAME $NB_READ $NB_CONTIG $DB_DIR $GAUSS_LINE
