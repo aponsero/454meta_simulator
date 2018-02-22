@@ -1,0 +1,520 @@
+Array launch nb 83
+nb of sequences in the file = 101
+name = 1169195.3.fna
+nb_reads= 203
+nb_seq= 101
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 9218
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1169195.3.fna contains 101 and I want to generate 203
+random contig pick : 79
+random contig pick : 4
+random contig pick : 21
+random contig pick : 59
+random contig pick : 98
+random contig pick : 66
+random contig pick : 35
+random contig pick : 38
+random contig pick : 45
+random contig pick : 19
+random contig pick : 84
+random contig pick : 34
+random contig pick : 22
+random contig pick : 50
+random contig pick : 36
+random contig pick : 84
+random contig pick : 31
+random contig pick : 70
+random contig pick : 51
+random contig pick : 46
+random contig pick : 18
+random contig pick : 62
+random contig pick : 2
+random contig pick : 10
+random contig pick : 5
+random contig pick : 86
+random contig pick : 64
+random contig pick : 47
+random contig pick : 17
+random contig pick : 85
+random contig pick : 50
+random contig pick : 47
+random contig pick : 4
+random contig pick : 10
+random contig pick : 60
+random contig pick : 50
+random contig pick : 1
+random contig pick : 28
+random contig pick : 83
+random contig pick : 101
+random contig pick : 46
+random contig pick : 81
+random contig pick : 2
+random contig pick : 88
+random contig pick : 65
+random contig pick : 15
+random contig pick : 76
+random contig pick : 89
+random contig pick : 95
+random contig pick : 83
+random contig pick : 23
+random contig pick : 35
+random contig pick : 23
+random contig pick : 90
+random contig pick : 20
+random contig pick : 83
+random contig pick : 101
+random contig pick : 48
+random contig pick : 65
+random contig pick : 93
+random contig pick : 31
+random contig pick : 34
+random contig pick : 74
+random contig pick : 93
+random contig pick : 12
+random contig pick : 89
+random contig pick : 70
+random contig pick : 3
+random contig pick : 4
+random contig pick : 82
+random contig pick : 51
+random contig pick : 63
+random contig pick : 32
+random contig pick : 29
+random contig pick : 81
+random contig pick : 77
+random contig pick : 15
+random contig pick : 41
+random contig pick : 91
+random contig pick : 62
+random contig pick : 26
+random contig pick : 33
+random contig pick : 30
+random contig pick : 4
+random contig pick : 54
+random contig pick : 98
+random contig pick : 35
+random contig pick : 42
+random contig pick : 83
+random contig pick : 2
+random contig pick : 51
+random contig pick : 53
+random contig pick : 87
+random contig pick : 51
+random contig pick : 28
+random contig pick : 30
+random contig pick : 5
+random contig pick : 71
+random contig pick : 67
+random contig pick : 26
+random contig pick : 75
+random contig pick : 59
+random contig pick : 33
+random contig pick : 6
+random contig pick : 9
+random contig pick : 71
+random contig pick : 20
+random contig pick : 1
+random contig pick : 7
+random contig pick : 89
+random contig pick : 96
+random contig pick : 40
+random contig pick : 71
+random contig pick : 64
+random contig pick : 48
+random contig pick : 65
+random contig pick : 29
+random contig pick : 64
+random contig pick : 101
+random contig pick : 50
+random contig pick : 95
+random contig pick : 15
+random contig pick : 40
+random contig pick : 81
+random contig pick : 23
+random contig pick : 70
+random contig pick : 4
+random contig pick : 60
+random contig pick : 8
+random contig pick : 78
+random contig pick : 21
+random contig pick : 59
+random contig pick : 96
+random contig pick : 27
+random contig pick : 17
+random contig pick : 34
+random contig pick : 17
+random contig pick : 83
+random contig pick : 29
+random contig pick : 3
+random contig pick : 95
+random contig pick : 79
+random contig pick : 48
+random contig pick : 92
+random contig pick : 99
+random contig pick : 97
+random contig pick : 94
+random contig pick : 47
+random contig pick : 52
+random contig pick : 30
+random contig pick : 52
+random contig pick : 18
+random contig pick : 46
+random contig pick : 72
+random contig pick : 21
+random contig pick : 29
+random contig pick : 85
+random contig pick : 76
+random contig pick : 83
+random contig pick : 101
+random contig pick : 67
+random contig pick : 39
+random contig pick : 23
+random contig pick : 77
+random contig pick : 76
+random contig pick : 16
+random contig pick : 44
+random contig pick : 43
+random contig pick : 73
+random contig pick : 31
+random contig pick : 52
+random contig pick : 17
+random contig pick : 35
+random contig pick : 82
+random contig pick : 92
+random contig pick : 57
+random contig pick : 61
+random contig pick : 89
+random contig pick : 94
+random contig pick : 65
+random contig pick : 43
+random contig pick : 27
+random contig pick : 58
+random contig pick : 22
+random contig pick : 1
+random contig pick : 92
+random contig pick : 20
+random contig pick : 73
+random contig pick : 4
+random contig pick : 50
+random contig pick : 6
+random contig pick : 76
+random contig pick : 13
+random contig pick : 96
+random contig pick : 12
+random contig pick : 16
+random contig pick : 66
+random contig pick : 49
+random contig pick : 19
+random contig pick : 93
+random contig pick : 68
+random contig pick : 92
+random contig pick : 39
+############checking hash##############
+Contig n°20 --> 3 reads to generates
+Contig n°52 --> 3 reads to generates
+Contig n°32 --> 1 reads to generates
+Contig n°68 --> 1 reads to generates
+Contig n°88 --> 1 reads to generates
+Contig n°64 --> 3 reads to generates
+Contig n°50 --> 5 reads to generates
+Contig n°4 --> 6 reads to generates
+Contig n°9 --> 1 reads to generates
+Contig n°15 --> 3 reads to generates
+Contig n°18 --> 2 reads to generates
+Contig n°62 --> 2 reads to generates
+Contig n°8 --> 1 reads to generates
+Contig n°5 --> 2 reads to generates
+Contig n°41 --> 1 reads to generates
+Contig n°81 --> 3 reads to generates
+Contig n°33 --> 2 reads to generates
+Contig n°16 --> 2 reads to generates
+Contig n°48 --> 3 reads to generates
+Contig n°38 --> 1 reads to generates
+Contig n°92 --> 4 reads to generates
+Contig n°89 --> 4 reads to generates
+Contig n°95 --> 3 reads to generates
+Contig n°30 --> 3 reads to generates
+Contig n°53 --> 1 reads to generates
+Contig n°21 --> 3 reads to generates
+Contig n°36 --> 1 reads to generates
+Contig n°101 --> 4 reads to generates
+Contig n°98 --> 2 reads to generates
+Contig n°91 --> 1 reads to generates
+Contig n°79 --> 2 reads to generates
+Contig n°13 --> 1 reads to generates
+Contig n°94 --> 2 reads to generates
+Contig n°65 --> 4 reads to generates
+Contig n°49 --> 1 reads to generates
+Contig n°76 --> 4 reads to generates
+Contig n°2 --> 3 reads to generates
+Contig n°23 --> 4 reads to generates
+Contig n°57 --> 1 reads to generates
+Contig n°58 --> 1 reads to generates
+Contig n°90 --> 1 reads to generates
+Contig n°46 --> 3 reads to generates
+Contig n°97 --> 1 reads to generates
+Contig n°12 --> 2 reads to generates
+Contig n°54 --> 1 reads to generates
+Contig n°84 --> 2 reads to generates
+Contig n°51 --> 4 reads to generates
+Contig n°10 --> 2 reads to generates
+Contig n°35 --> 4 reads to generates
+Contig n°72 --> 1 reads to generates
+Contig n°34 --> 3 reads to generates
+Contig n°73 --> 2 reads to generates
+Contig n°60 --> 2 reads to generates
+Contig n°71 --> 3 reads to generates
+Contig n°86 --> 1 reads to generates
+Contig n°61 --> 1 reads to generates
+Contig n°77 --> 2 reads to generates
+Contig n°7 --> 1 reads to generates
+Contig n°29 --> 4 reads to generates
+Contig n°93 --> 3 reads to generates
+Contig n°67 --> 2 reads to generates
+Contig n°78 --> 1 reads to generates
+Contig n°66 --> 2 reads to generates
+Contig n°87 --> 1 reads to generates
+Contig n°63 --> 1 reads to generates
+Contig n°74 --> 1 reads to generates
+Contig n°27 --> 2 reads to generates
+Contig n°70 --> 3 reads to generates
+Contig n°99 --> 1 reads to generates
+Contig n°43 --> 2 reads to generates
+Contig n°42 --> 1 reads to generates
+Contig n°40 --> 2 reads to generates
+Contig n°19 --> 2 reads to generates
+Contig n°47 --> 3 reads to generates
+Contig n°6 --> 2 reads to generates
+Contig n°44 --> 1 reads to generates
+Contig n°82 --> 2 reads to generates
+Contig n°96 --> 3 reads to generates
+Contig n°26 --> 2 reads to generates
+Contig n°17 --> 4 reads to generates
+Contig n°83 --> 6 reads to generates
+Contig n°22 --> 2 reads to generates
+Contig n°1 --> 3 reads to generates
+Contig n°31 --> 3 reads to generates
+Contig n°3 --> 2 reads to generates
+Contig n°39 --> 2 reads to generates
+Contig n°75 --> 1 reads to generates
+Contig n°59 --> 3 reads to generates
+Contig n°45 --> 1 reads to generates
+Contig n°28 --> 2 reads to generates
+Contig n°85 --> 2 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 3 reads in that contig (size = 1014 )
+this is record n°2
+I need 3 reads in that contig (size = 1155 )
+this is record n°3
+I need 2 reads in that contig (size = 1166 )
+this is record n°4
+I need 6 reads in that contig (size = 1191 )
+this is record n°5
+I need 2 reads in that contig (size = 1296 )
+this is record n°6
+I need 2 reads in that contig (size = 1301 )
+this is record n°7
+I need 1 reads in that contig (size = 1319 )
+this is record n°8
+I need 1 reads in that contig (size = 1403 )
+this is record n°9
+I need 1 reads in that contig (size = 1418 )
+this is record n°10
+I need 2 reads in that contig (size = 1425 )
+this is record n°11
+this contig won't be use for read generation
+this is record n°12
+I need 2 reads in that contig (size = 1550 )
+this is record n°13
+I need 1 reads in that contig (size = 1556 )
+this is record n°14
+this contig won't be use for read generation
+this is record n°15
+I need 3 reads in that contig (size = 1711 )
+this is record n°16
+I need 2 reads in that contig (size = 1729 )
+this is record n°17
+I need 4 reads in that contig (size = 1841 )
+this is record n°18
+I need 2 reads in that contig (size = 1863 )
+this is record n°19
+I need 2 reads in that contig (size = 2026 )
+this is record n°20
+I need 3 reads in that contig (size = 2105 )
+this is record n°21
+I need 3 reads in that contig (size = 2125 )
+this is record n°22
+I need 2 reads in that contig (size = 2135 )
+this is record n°23
+I need 4 reads in that contig (size = 2170 )
+this is record n°24
+this contig won't be use for read generation
+this is record n°25
+this contig won't be use for read generation
+this is record n°26
+I need 2 reads in that contig (size = 2377 )
+this is record n°27
+I need 2 reads in that contig (size = 2427 )
+this is record n°28
+I need 2 reads in that contig (size = 2437 )
+this is record n°29
+I need 4 reads in that contig (size = 2644 )
+this is record n°30
+I need 3 reads in that contig (size = 2866 )
+this is record n°31
+I need 3 reads in that contig (size = 3069 )
+this is record n°32
+I need 1 reads in that contig (size = 3281 )
+this is record n°33
+I need 2 reads in that contig (size = 3308 )
+this is record n°34
+I need 3 reads in that contig (size = 3557 )
+this is record n°35
+I need 4 reads in that contig (size = 3657 )
+this is record n°36
+I need 1 reads in that contig (size = 3701 )
+this is record n°37
+this contig won't be use for read generation
+this is record n°38
+I need 1 reads in that contig (size = 3947 )
+this is record n°39
+I need 2 reads in that contig (size = 4022 )
+this is record n°40
+I need 2 reads in that contig (size = 4108 )
+this is record n°41
+I need 1 reads in that contig (size = 4110 )
+this is record n°42
+I need 1 reads in that contig (size = 4110 )
+this is record n°43
+I need 2 reads in that contig (size = 4408 )
+this is record n°44
+I need 1 reads in that contig (size = 4653 )
+this is record n°45
+I need 1 reads in that contig (size = 4714 )
+this is record n°46
+I need 3 reads in that contig (size = 5060 )
+this is record n°47
+I need 3 reads in that contig (size = 5267 )
+this is record n°48
+I need 3 reads in that contig (size = 5366 )
+this is record n°49
+I need 1 reads in that contig (size = 5561 )
+this is record n°50
+I need 5 reads in that contig (size = 6176 )
+this is record n°51
+I need 4 reads in that contig (size = 6202 )
+this is record n°52
+I need 3 reads in that contig (size = 7161 )
+this is record n°53
+I need 1 reads in that contig (size = 7409 )
+this is record n°54
+I need 1 reads in that contig (size = 7913 )
+this is record n°55
+this contig won't be use for read generation
+this is record n°56
+this contig won't be use for read generation
+this is record n°57
+I need 1 reads in that contig (size = 11415 )
+this is record n°58
+I need 1 reads in that contig (size = 14303 )
+this is record n°59
+I need 3 reads in that contig (size = 15389 )
+this is record n°60
+I need 2 reads in that contig (size = 19403 )
+this is record n°61
+I need 1 reads in that contig (size = 19710 )
+this is record n°62
+I need 2 reads in that contig (size = 19950 )
+this is record n°63
+I need 1 reads in that contig (size = 29086 )
+this is record n°64
+I need 3 reads in that contig (size = 29155 )
+this is record n°65
+I need 4 reads in that contig (size = 30529 )
+this is record n°66
+I need 2 reads in that contig (size = 35449 )
+this is record n°67
+I need 2 reads in that contig (size = 39702 )
+this is record n°68
+I need 1 reads in that contig (size = 42263 )
+this is record n°69
+this contig won't be use for read generation
+this is record n°70
+I need 3 reads in that contig (size = 284 )
+this is record n°71
+I need 3 reads in that contig (size = 675 )
+this is record n°72
+I need 1 reads in that contig (size = 47073 )
+this is record n°73
+I need 2 reads in that contig (size = 49595 )
+this is record n°74
+I need 1 reads in that contig (size = 86863 )
+this is record n°75
+I need 1 reads in that contig (size = 88956 )
+this is record n°76
+I need 4 reads in that contig (size = 92863 )
+this is record n°77
+I need 2 reads in that contig (size = 94207 )
+this is record n°78
+I need 1 reads in that contig (size = 107459 )
+this is record n°79
+I need 2 reads in that contig (size = 109102 )
+this is record n°80
+this contig won't be use for read generation
+this is record n°81
+I need 3 reads in that contig (size = 131989 )
+this is record n°82
+I need 2 reads in that contig (size = 119414 )
+this is record n°83
+I need 6 reads in that contig (size = 15355 )
+this is record n°84
+I need 2 reads in that contig (size = 34906 )
+this is record n°85
+I need 2 reads in that contig (size = 99574 )
+this is record n°86
+I need 1 reads in that contig (size = 135208 )
+this is record n°87
+I need 1 reads in that contig (size = 140881 )
+this is record n°88
+I need 1 reads in that contig (size = 102024 )
+this is record n°89
+I need 4 reads in that contig (size = 49972 )
+this is record n°90
+I need 1 reads in that contig (size = 161312 )
+this is record n°91
+I need 1 reads in that contig (size = 171681 )
+this is record n°92
+I need 4 reads in that contig (size = 207087 )
+this is record n°93
+I need 3 reads in that contig (size = 224612 )
+this is record n°94
+I need 2 reads in that contig (size = 357 )
+this is record n°95
+I need 3 reads in that contig (size = 244506 )
+this is record n°96
+I need 3 reads in that contig (size = 255499 )
+this is record n°97
+I need 1 reads in that contig (size = 279662 )
+this is record n°98
+I need 2 reads in that contig (size = 286611 )
+this is record n°99
+I need 1 reads in that contig (size = 303990 )
+this is record n°100
+this contig won't be use for read generation
+this is record n°101
+I need 4 reads in that contig (size = 506194 )
+#####################error report#################
+nb of pb generated : 71577 
+nb of pb mutated : 4901 
+nb of pb inserted : 210 
+nb of pb deleted : 179 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:01 for 1 cpus.
+You previously had 27112:30:52.  You now have 27112:30:51 remaining for the queue oc_standard

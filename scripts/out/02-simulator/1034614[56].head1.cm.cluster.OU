@@ -1,0 +1,72 @@
+Array launch nb 56
+nb of sequences in the file = 22
+name = 1121875.3.fna
+nb_reads= 2
+nb_seq= 22
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 5224
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1121875.3.fna contains 22 and I want to generate 2
+random contig pick : 5
+random contig pick : 12
+############checking hash##############
+Contig n°5 --> 1 reads to generates
+Contig n°12 --> 1 reads to generates
+###########random reads generation##############
+this is record n°1
+this contig won't be use for read generation
+this is record n°2
+this contig won't be use for read generation
+this is record n°3
+this contig won't be use for read generation
+this is record n°4
+this contig won't be use for read generation
+this is record n°5
+I need 1 reads in that contig (size = 7326 )
+this is record n°6
+this contig won't be use for read generation
+this is record n°7
+this contig won't be use for read generation
+this is record n°8
+this contig won't be use for read generation
+this is record n°9
+this contig won't be use for read generation
+this is record n°10
+this contig won't be use for read generation
+this is record n°11
+this contig won't be use for read generation
+this is record n°12
+I need 1 reads in that contig (size = 704250 )
+this is record n°13
+this contig won't be use for read generation
+this is record n°14
+this contig won't be use for read generation
+this is record n°15
+this contig won't be use for read generation
+this is record n°16
+this contig won't be use for read generation
+this is record n°17
+this contig won't be use for read generation
+this is record n°18
+this contig won't be use for read generation
+this is record n°19
+this contig won't be use for read generation
+this is record n°20
+this contig won't be use for read generation
+this is record n°21
+this contig won't be use for read generation
+this is record n°22
+this contig won't be use for read generation
+#####################error report#################
+nb of pb generated : 669 
+nb of pb mutated : 52 
+nb of pb inserted : 1 
+nb of pb deleted : 2 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=0b
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:02 for 1 cpus.
+You previously had 27112:31:05.  You now have 27112:31:03 remaining for the queue oc_standard

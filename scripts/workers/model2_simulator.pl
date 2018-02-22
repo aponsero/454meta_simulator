@@ -23,6 +23,9 @@ my $gaussFile="gaussian.log";
 my $fileexport="artificial_$name";
 my $fileexport_err="err_artificial_$name";
 
+my @gaussSize;
+
+####################error model################
 my %mutModel;
    $mutModel{"A"}=1133;
    $mutModel{"a"}=1133;
@@ -32,7 +35,19 @@ my %mutModel;
    $mutModel{"c"}=1404;
    $mutModel{"G"}=1274;
    $mutModel{"g"}=1274;
-my @gaussSize;
+   $mutModel{"N"}=1325;
+   $mutModel{"n"}=1325;
+
+my $ratemut=1325;
+my $rateins=355;
+my $ratedel=387;
+
+#####################error model checks################
+my $cpt_ins=0;
+my $cpt_mut=0;
+my $cpt_del=0;
+
+my $total_read_length=0;
 
 ################################function declaration###########################
 sub RateChoice{
@@ -64,27 +79,34 @@ sub MutationCase{
    my $orig=$_[1];#original letter
    my $choice;
 
-   if($orig eq "a" or $orig eq "A"){
-      if($mutNb eq 1){$choice="t";}
-      elsif($mutNb eq 2){$choice="g";}
-      elsif($mutNb eq 3){$choice="c";}
+   if($orig eq "A"){
+      if($mutNb eq 1){$choice="T";}
+      elsif($mutNb eq 2){$choice="G";}
+      elsif($mutNb eq 3){$choice="C";}
       else{die "error in input mutnb $mutNb";}
-   }elsif($orig eq "t" or $orig eq "T"){
-      if($mutNb eq 1){$choice="a";}
-      elsif($mutNb eq 2){$choice="g";}
-      elsif($mutNb eq 3){$choice="c";}
+   }elsif($orig eq "T"){
+      if($mutNb eq 1){$choice="A";}
+      elsif($mutNb eq 2){$choice="G";}
+      elsif($mutNb eq 3){$choice="C";}
       else{die "error in input mutnb $mutNb";}
-   }elsif ($orig eq "c" or $orig eq "C"){
-      if($mutNb eq 1){$choice="t";}
-      elsif($mutNb eq 2){$choice="g";}
-      elsif($mutNb eq 3){$choice="a";}
+   }elsif ($orig eq "C"){
+      if($mutNb eq 1){$choice="T";}
+      elsif($mutNb eq 2){$choice="G";}
+      elsif($mutNb eq 3){$choice="A";}
       else{die "error in input mutnb $mutNb";}
-   }elsif($orig eq "g" or $orig eq "G"){
-      if($mutNb eq 1){$choice="t";}
-      elsif($mutNb eq 2){$choice="a";}
-      elsif($mutNb eq 3){$choice="c";}
+   }elsif($orig eq "G"){
+      if($mutNb eq 1){$choice="T";}
+      elsif($mutNb eq 2){$choice="A";}
+      elsif($mutNb eq 3){$choice="C";}
       else{die "error in input mutnb $mutNb";}
-   }else {die "error in input letter : $orig";}
+   }elsif($orig = "N"){
+      if($mutNb eq 1){$choice="T";}
+      elsif($mutNb eq 2){$choice="A";}
+      elsif($mutNb eq 3){$choice="C";}
+      elsif($mutNb eq 4){$choice="G";}
+      else{die "error in input mutnb $mutNb";}
+   }else {warn "error in input letter : $orig";
+         $choice=$orig;}
 
    return $choice;
 }
@@ -95,10 +117,10 @@ sub InsertionCase{
 
    my $choice;
 
-   if($mutNb eq 1){$choice="a";}
-   elsif($mutNb eq 2){$choice="t";}
-   elsif($mutNb eq 3){$choice="c";}
-   elsif($mutNb eq 4){$choice="g";}
+   if($mutNb eq 1){$choice="A";}
+   elsif($mutNb eq 2){$choice="T";}
+   elsif($mutNb eq 3){$choice="C";}
+   elsif($mutNb eq 4){$choice="G";}
 
    return $choice;
 }
@@ -108,34 +130,45 @@ sub ErrorModel{
    my $n = scalar(@_);
 
    my $read = $_[0];#read
-   my $mut_read;
+   my $mut_read= "";
    
    for(my $lect=0; $lect<length($read); $lect++){
-     my $curr=substr($read, $lect, 1);
-     my $choice=RateChoice($mutModel{$curr},$rateins, $ratedel);
-     if($choice eq 0){
-        my $mut=int(rand(3))+1;
-        my $letter=MutationCase($mut, $curr);
-        $mut_read=$mut_read.$letter;
-        print "mutation\n";
-     }elsif($choice eq 1){
-        my $ins=int(rand(4))+1;
-        my $letterIns=InsertionCase($ins);
-        $mut_read=$mut_read.$curr.$letterIns;
-        print "insertion\n";
-     }elsif($choice eq 10){
-        print "insertion, mutation\n";
-        my $mut=int(rand(3))+1;
-        my $letter=MutationCase($mut, $curr);
-        my $ins=int(rand(4))+1;
-        my $letterIns=InsertionCase($ins);
-        $mut_read=$mut_read.$letter.$letterIns;
-     }elsif($choice eq 2){
-        print "deletion\n";
-     }else{
-        $mut_read=$mut_read.$curr;
-     } 
-   }
+     my $curr=uc(substr($read, $lect, 1));
+     if(defined $mutModel{$curr}){
+         my $choice=RateChoice($mutModel{$curr},$rateins, $ratedel);
+         if($choice eq 0){
+             my $mut;
+             if($curr eq "N"){
+                 $mut=int(rand(4))+1;
+             }else{$mut=int(rand(3))+1;}
+             my $letter=MutationCase($mut, $curr);
+             $mut_read=$mut_read.$letter;
+             $cpt_mut++;
+         }elsif($choice eq 1){
+             my $ins=int(rand(4))+1;
+             my $letterIns=InsertionCase($ins);
+             $mut_read=$mut_read.$curr.$letterIns;
+             $cpt_ins++;
+         }elsif($choice eq 10){
+             my $mut;
+             if($curr eq "N"){
+                $mut=int(rand(4))+1;
+             }else{$mut=int(rand(3))+1;}
+             my $letter=MutationCase($mut, $curr);
+
+             my $ins=int(rand(4))+1;
+             my $letterIns=InsertionCase($ins);
+             $mut_read=$mut_read.$letter.$letterIns;
+             $cpt_mut++;
+             $cpt_ins++;
+        }elsif($choice eq 2){
+             $cpt_del++;
+        }else{
+             $mut_read=$mut_read.$curr;
+        } 
+      }else{warn "unknown character $curr ; this character was not taken into account\n";}
+
+  }
 
 
    return $mut_read;
@@ -153,17 +186,13 @@ if(open(my $gf, '<', $gaussFile)){
         my $row = <$gf>;
         chomp $row;
         push @gaussSize, $row;
+        $total_read_length=$total_read_length+$row;
    }
 
 }else{die "could not find $gaussFile for gaussian read profiles";}
 
 ##################################print gauss size#########################
 print "\nGaussFile offset : $offset\n";
-print "gauss size List :\n";
-foreach (@gaussSize) {
- 	print "$_\n";
-}
-
 
 ######################################open files#############################
 
@@ -210,33 +239,39 @@ while(my $record = $in->next_seq()){
    $ptr++;
    print "this is record n°$ptr\n";
    if(exists $random_picks{$ptr}){
-       print "I need $random_picks{$ptr} reads in that contig\n";
        my $seq=$record->seq();
-       
+       my $contig_length=length($seq);
+       print "I need $random_picks{$ptr} reads in that contig (size = $contig_length )\n";
+      
    #randomly select a read of given size in contig
        for(my $j=0; $j< $random_picks{$ptr}; $j++){
           my $readSize=$gaussSize[$cpt];
           my $contig_length=length($seq);
           my $lengthMax=length($seq)-$readSize;
 
-          my $random_start =int(rand($lengthMax))+1;
+          my $random_start =int(rand($lengthMax));
           my $random_end=$random_start+$readSize;
 
-          print "gaussian read size = $readSize / contig_size = $contig_length / start=$random_start finish= $random_end\n";
-
-          print $out ">artificial_$cpt\n";
+          print $out ">${name}_artificial_$cpt\n";
           my $read=substr($seq, $random_start, $readSize);
           print $out "$read\n";
                   
           #applying error model
           my $read_error=ErrorModel($read);
-          print $out_err ">err_artificial_$cpt\n";
+          print $out_err ">${name}_err_artificial_$cpt\n";
           print $out_err "$read_error\n";          
 
           $cpt++
        }
    }else{print "this contig won't be use for read generation\n";}
 }
+
+################error model check printing###################
+print "#####################error report#################\n";
+print "nb of pb generated : $total_read_length \n";
+print "nb of pb mutated : $cpt_mut \n";
+print "nb of pb inserted : $cpt_ins \n";
+print "nb of pb deleted : $cpt_del \n";
 
 
 

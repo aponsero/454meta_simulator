@@ -1,0 +1,2344 @@
+Array launch nb 6
+nb of sequences in the file = 76
+name = 1056820.3.fna
+nb_reads= 2092
+nb_seq= 76
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 37
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1056820.3.fna contains 76 and I want to generate 2092
+random contig pick : 18
+random contig pick : 63
+random contig pick : 16
+random contig pick : 6
+random contig pick : 71
+random contig pick : 52
+random contig pick : 17
+random contig pick : 30
+random contig pick : 47
+random contig pick : 74
+random contig pick : 5
+random contig pick : 66
+random contig pick : 57
+random contig pick : 23
+random contig pick : 76
+random contig pick : 54
+random contig pick : 9
+random contig pick : 2
+random contig pick : 71
+random contig pick : 28
+random contig pick : 27
+random contig pick : 26
+random contig pick : 40
+random contig pick : 6
+random contig pick : 35
+random contig pick : 70
+random contig pick : 60
+random contig pick : 3
+random contig pick : 76
+random contig pick : 35
+random contig pick : 62
+random contig pick : 30
+random contig pick : 75
+random contig pick : 38
+random contig pick : 74
+random contig pick : 37
+random contig pick : 42
+random contig pick : 72
+random contig pick : 72
+random contig pick : 25
+random contig pick : 35
+random contig pick : 40
+random contig pick : 61
+random contig pick : 37
+random contig pick : 36
+random contig pick : 66
+random contig pick : 55
+random contig pick : 13
+random contig pick : 58
+random contig pick : 52
+random contig pick : 36
+random contig pick : 2
+random contig pick : 38
+random contig pick : 58
+random contig pick : 29
+random contig pick : 26
+random contig pick : 31
+random contig pick : 19
+random contig pick : 28
+random contig pick : 9
+random contig pick : 52
+random contig pick : 46
+random contig pick : 33
+random contig pick : 18
+random contig pick : 21
+random contig pick : 27
+random contig pick : 69
+random contig pick : 18
+random contig pick : 53
+random contig pick : 5
+random contig pick : 22
+random contig pick : 43
+random contig pick : 57
+random contig pick : 41
+random contig pick : 66
+random contig pick : 4
+random contig pick : 14
+random contig pick : 73
+random contig pick : 60
+random contig pick : 74
+random contig pick : 71
+random contig pick : 34
+random contig pick : 62
+random contig pick : 28
+random contig pick : 67
+random contig pick : 73
+random contig pick : 16
+random contig pick : 32
+random contig pick : 28
+random contig pick : 37
+random contig pick : 1
+random contig pick : 3
+random contig pick : 12
+random contig pick : 51
+random contig pick : 48
+random contig pick : 23
+random contig pick : 35
+random contig pick : 58
+random contig pick : 27
+random contig pick : 65
+random contig pick : 20
+random contig pick : 18
+random contig pick : 61
+random contig pick : 41
+random contig pick : 15
+random contig pick : 69
+random contig pick : 70
+random contig pick : 31
+random contig pick : 74
+random contig pick : 9
+random contig pick : 50
+random contig pick : 52
+random contig pick : 45
+random contig pick : 63
+random contig pick : 23
+random contig pick : 17
+random contig pick : 40
+random contig pick : 11
+random contig pick : 4
+random contig pick : 20
+random contig pick : 44
+random contig pick : 13
+random contig pick : 71
+random contig pick : 34
+random contig pick : 20
+random contig pick : 32
+random contig pick : 40
+random contig pick : 45
+random contig pick : 36
+random contig pick : 5
+random contig pick : 2
+random contig pick : 57
+random contig pick : 44
+random contig pick : 6
+random contig pick : 59
+random contig pick : 32
+random contig pick : 15
+random contig pick : 21
+random contig pick : 39
+random contig pick : 29
+random contig pick : 38
+random contig pick : 37
+random contig pick : 1
+random contig pick : 59
+random contig pick : 18
+random contig pick : 16
+random contig pick : 39
+random contig pick : 16
+random contig pick : 50
+random contig pick : 17
+random contig pick : 44
+random contig pick : 71
+random contig pick : 21
+random contig pick : 4
+random contig pick : 68
+random contig pick : 43
+random contig pick : 12
+random contig pick : 17
+random contig pick : 72
+random contig pick : 67
+random contig pick : 54
+random contig pick : 55
+random contig pick : 47
+random contig pick : 20
+random contig pick : 42
+random contig pick : 68
+random contig pick : 65
+random contig pick : 67
+random contig pick : 16
+random contig pick : 21
+random contig pick : 26
+random contig pick : 21
+random contig pick : 55
+random contig pick : 59
+random contig pick : 18
+random contig pick : 2
+random contig pick : 39
+random contig pick : 28
+random contig pick : 72
+random contig pick : 23
+random contig pick : 70
+random contig pick : 2
+random contig pick : 48
+random contig pick : 52
+random contig pick : 45
+random contig pick : 25
+random contig pick : 64
+random contig pick : 30
+random contig pick : 19
+random contig pick : 31
+random contig pick : 14
+random contig pick : 41
+random contig pick : 61
+random contig pick : 32
+random contig pick : 14
+random contig pick : 68
+random contig pick : 63
+random contig pick : 74
+random contig pick : 11
+random contig pick : 61
+random contig pick : 57
+random contig pick : 50
+random contig pick : 76
+random contig pick : 65
+random contig pick : 29
+random contig pick : 16
+random contig pick : 2
+random contig pick : 69
+random contig pick : 49
+random contig pick : 10
+random contig pick : 53
+random contig pick : 74
+random contig pick : 13
+random contig pick : 59
+random contig pick : 46
+random contig pick : 15
+random contig pick : 1
+random contig pick : 72
+random contig pick : 21
+random contig pick : 41
+random contig pick : 63
+random contig pick : 76
+random contig pick : 17
+random contig pick : 48
+random contig pick : 39
+random contig pick : 28
+random contig pick : 59
+random contig pick : 37
+random contig pick : 45
+random contig pick : 22
+random contig pick : 37
+random contig pick : 12
+random contig pick : 14
+random contig pick : 3
+random contig pick : 50
+random contig pick : 13
+random contig pick : 55
+random contig pick : 76
+random contig pick : 71
+random contig pick : 40
+random contig pick : 40
+random contig pick : 47
+random contig pick : 59
+random contig pick : 26
+random contig pick : 70
+random contig pick : 10
+random contig pick : 17
+random contig pick : 33
+random contig pick : 15
+random contig pick : 62
+random contig pick : 63
+random contig pick : 16
+random contig pick : 33
+random contig pick : 10
+random contig pick : 1
+random contig pick : 56
+random contig pick : 40
+random contig pick : 51
+random contig pick : 1
+random contig pick : 40
+random contig pick : 31
+random contig pick : 9
+random contig pick : 26
+random contig pick : 65
+random contig pick : 67
+random contig pick : 47
+random contig pick : 4
+random contig pick : 68
+random contig pick : 64
+random contig pick : 74
+random contig pick : 75
+random contig pick : 33
+random contig pick : 60
+random contig pick : 56
+random contig pick : 28
+random contig pick : 70
+random contig pick : 12
+random contig pick : 46
+random contig pick : 13
+random contig pick : 43
+random contig pick : 14
+random contig pick : 10
+random contig pick : 35
+random contig pick : 70
+random contig pick : 70
+random contig pick : 68
+random contig pick : 16
+random contig pick : 74
+random contig pick : 32
+random contig pick : 71
+random contig pick : 56
+random contig pick : 24
+random contig pick : 49
+random contig pick : 15
+random contig pick : 62
+random contig pick : 70
+random contig pick : 28
+random contig pick : 28
+random contig pick : 42
+random contig pick : 32
+random contig pick : 23
+random contig pick : 54
+random contig pick : 7
+random contig pick : 75
+random contig pick : 26
+random contig pick : 12
+random contig pick : 59
+random contig pick : 24
+random contig pick : 4
+random contig pick : 34
+random contig pick : 4
+random contig pick : 37
+random contig pick : 75
+random contig pick : 45
+random contig pick : 68
+random contig pick : 18
+random contig pick : 12
+random contig pick : 74
+random contig pick : 67
+random contig pick : 55
+random contig pick : 39
+random contig pick : 65
+random contig pick : 55
+random contig pick : 33
+random contig pick : 2
+random contig pick : 50
+random contig pick : 16
+random contig pick : 40
+random contig pick : 59
+random contig pick : 18
+random contig pick : 43
+random contig pick : 40
+random contig pick : 35
+random contig pick : 59
+random contig pick : 54
+random contig pick : 47
+random contig pick : 76
+random contig pick : 36
+random contig pick : 20
+random contig pick : 37
+random contig pick : 71
+random contig pick : 67
+random contig pick : 22
+random contig pick : 32
+random contig pick : 47
+random contig pick : 61
+random contig pick : 48
+random contig pick : 27
+random contig pick : 47
+random contig pick : 42
+random contig pick : 53
+random contig pick : 53
+random contig pick : 62
+random contig pick : 8
+random contig pick : 36
+random contig pick : 72
+random contig pick : 54
+random contig pick : 47
+random contig pick : 62
+random contig pick : 23
+random contig pick : 18
+random contig pick : 68
+random contig pick : 65
+random contig pick : 62
+random contig pick : 72
+random contig pick : 36
+random contig pick : 21
+random contig pick : 50
+random contig pick : 48
+random contig pick : 4
+random contig pick : 43
+random contig pick : 7
+random contig pick : 8
+random contig pick : 2
+random contig pick : 22
+random contig pick : 15
+random contig pick : 30
+random contig pick : 28
+random contig pick : 19
+random contig pick : 52
+random contig pick : 34
+random contig pick : 9
+random contig pick : 13
+random contig pick : 39
+random contig pick : 72
+random contig pick : 12
+random contig pick : 70
+random contig pick : 71
+random contig pick : 38
+random contig pick : 37
+random contig pick : 12
+random contig pick : 42
+random contig pick : 49
+random contig pick : 34
+random contig pick : 27
+random contig pick : 53
+random contig pick : 69
+random contig pick : 59
+random contig pick : 56
+random contig pick : 3
+random contig pick : 18
+random contig pick : 72
+random contig pick : 34
+random contig pick : 24
+random contig pick : 4
+random contig pick : 68
+random contig pick : 44
+random contig pick : 41
+random contig pick : 66
+random contig pick : 28
+random contig pick : 22
+random contig pick : 11
+random contig pick : 31
+random contig pick : 37
+random contig pick : 23
+random contig pick : 54
+random contig pick : 9
+random contig pick : 32
+random contig pick : 36
+random contig pick : 58
+random contig pick : 43
+random contig pick : 69
+random contig pick : 41
+random contig pick : 66
+random contig pick : 26
+random contig pick : 51
+random contig pick : 65
+random contig pick : 10
+random contig pick : 33
+random contig pick : 48
+random contig pick : 1
+random contig pick : 43
+random contig pick : 49
+random contig pick : 33
+random contig pick : 52
+random contig pick : 57
+random contig pick : 30
+random contig pick : 16
+random contig pick : 13
+random contig pick : 73
+random contig pick : 65
+random contig pick : 38
+random contig pick : 30
+random contig pick : 54
+random contig pick : 35
+random contig pick : 53
+random contig pick : 20
+random contig pick : 28
+random contig pick : 9
+random contig pick : 29
+random contig pick : 52
+random contig pick : 53
+random contig pick : 25
+random contig pick : 35
+random contig pick : 2
+random contig pick : 35
+random contig pick : 14
+random contig pick : 19
+random contig pick : 9
+random contig pick : 71
+random contig pick : 50
+random contig pick : 41
+random contig pick : 42
+random contig pick : 3
+random contig pick : 17
+random contig pick : 52
+random contig pick : 20
+random contig pick : 60
+random contig pick : 17
+random contig pick : 25
+random contig pick : 71
+random contig pick : 61
+random contig pick : 9
+random contig pick : 40
+random contig pick : 5
+random contig pick : 32
+random contig pick : 4
+random contig pick : 20
+random contig pick : 44
+random contig pick : 74
+random contig pick : 24
+random contig pick : 73
+random contig pick : 34
+random contig pick : 20
+random contig pick : 67
+random contig pick : 76
+random contig pick : 50
+random contig pick : 73
+random contig pick : 39
+random contig pick : 34
+random contig pick : 73
+random contig pick : 66
+random contig pick : 12
+random contig pick : 43
+random contig pick : 54
+random contig pick : 75
+random contig pick : 1
+random contig pick : 11
+random contig pick : 1
+random contig pick : 7
+random contig pick : 21
+random contig pick : 71
+random contig pick : 19
+random contig pick : 65
+random contig pick : 22
+random contig pick : 30
+random contig pick : 47
+random contig pick : 58
+random contig pick : 10
+random contig pick : 12
+random contig pick : 20
+random contig pick : 74
+random contig pick : 47
+random contig pick : 66
+random contig pick : 64
+random contig pick : 68
+random contig pick : 36
+random contig pick : 60
+random contig pick : 17
+random contig pick : 75
+random contig pick : 34
+random contig pick : 72
+random contig pick : 51
+random contig pick : 16
+random contig pick : 72
+random contig pick : 37
+random contig pick : 19
+random contig pick : 22
+random contig pick : 74
+random contig pick : 68
+random contig pick : 29
+random contig pick : 45
+random contig pick : 32
+random contig pick : 62
+random contig pick : 40
+random contig pick : 6
+random contig pick : 19
+random contig pick : 54
+random contig pick : 60
+random contig pick : 42
+random contig pick : 69
+random contig pick : 11
+random contig pick : 33
+random contig pick : 51
+random contig pick : 49
+random contig pick : 22
+random contig pick : 21
+random contig pick : 26
+random contig pick : 52
+random contig pick : 7
+random contig pick : 14
+random contig pick : 9
+random contig pick : 17
+random contig pick : 2
+random contig pick : 38
+random contig pick : 19
+random contig pick : 58
+random contig pick : 32
+random contig pick : 60
+random contig pick : 19
+random contig pick : 57
+random contig pick : 60
+random contig pick : 48
+random contig pick : 35
+random contig pick : 72
+random contig pick : 33
+random contig pick : 7
+random contig pick : 65
+random contig pick : 65
+random contig pick : 71
+random contig pick : 45
+random contig pick : 8
+random contig pick : 11
+random contig pick : 74
+random contig pick : 75
+random contig pick : 52
+random contig pick : 49
+random contig pick : 35
+random contig pick : 44
+random contig pick : 36
+random contig pick : 38
+random contig pick : 61
+random contig pick : 12
+random contig pick : 51
+random contig pick : 59
+random contig pick : 63
+random contig pick : 32
+random contig pick : 6
+random contig pick : 2
+random contig pick : 49
+random contig pick : 19
+random contig pick : 56
+random contig pick : 30
+random contig pick : 46
+random contig pick : 19
+random contig pick : 52
+random contig pick : 21
+random contig pick : 48
+random contig pick : 74
+random contig pick : 34
+random contig pick : 12
+random contig pick : 56
+random contig pick : 56
+random contig pick : 69
+random contig pick : 36
+random contig pick : 61
+random contig pick : 52
+random contig pick : 55
+random contig pick : 53
+random contig pick : 47
+random contig pick : 14
+random contig pick : 53
+random contig pick : 10
+random contig pick : 28
+random contig pick : 43
+random contig pick : 63
+random contig pick : 23
+random contig pick : 5
+random contig pick : 67
+random contig pick : 36
+random contig pick : 75
+random contig pick : 65
+random contig pick : 15
+random contig pick : 53
+random contig pick : 50
+random contig pick : 72
+random contig pick : 57
+random contig pick : 53
+random contig pick : 30
+random contig pick : 4
+random contig pick : 1
+random contig pick : 75
+random contig pick : 65
+random contig pick : 22
+random contig pick : 25
+random contig pick : 50
+random contig pick : 2
+random contig pick : 42
+random contig pick : 19
+random contig pick : 10
+random contig pick : 52
+random contig pick : 63
+random contig pick : 20
+random contig pick : 61
+random contig pick : 64
+random contig pick : 63
+random contig pick : 66
+random contig pick : 53
+random contig pick : 13
+random contig pick : 67
+random contig pick : 3
+random contig pick : 2
+random contig pick : 48
+random contig pick : 45
+random contig pick : 28
+random contig pick : 54
+random contig pick : 21
+random contig pick : 8
+random contig pick : 51
+random contig pick : 32
+random contig pick : 54
+random contig pick : 56
+random contig pick : 63
+random contig pick : 43
+random contig pick : 29
+random contig pick : 49
+random contig pick : 13
+random contig pick : 55
+random contig pick : 14
+random contig pick : 32
+random contig pick : 74
+random contig pick : 36
+random contig pick : 43
+random contig pick : 18
+random contig pick : 11
+random contig pick : 41
+random contig pick : 27
+random contig pick : 9
+random contig pick : 70
+random contig pick : 42
+random contig pick : 58
+random contig pick : 76
+random contig pick : 64
+random contig pick : 19
+random contig pick : 57
+random contig pick : 14
+random contig pick : 74
+random contig pick : 76
+random contig pick : 62
+random contig pick : 54
+random contig pick : 75
+random contig pick : 38
+random contig pick : 52
+random contig pick : 33
+random contig pick : 15
+random contig pick : 73
+random contig pick : 3
+random contig pick : 73
+random contig pick : 23
+random contig pick : 2
+random contig pick : 47
+random contig pick : 31
+random contig pick : 22
+random contig pick : 4
+random contig pick : 26
+random contig pick : 6
+random contig pick : 36
+random contig pick : 37
+random contig pick : 31
+random contig pick : 35
+random contig pick : 69
+random contig pick : 5
+random contig pick : 55
+random contig pick : 2
+random contig pick : 41
+random contig pick : 10
+random contig pick : 56
+random contig pick : 56
+random contig pick : 12
+random contig pick : 28
+random contig pick : 34
+random contig pick : 33
+random contig pick : 54
+random contig pick : 73
+random contig pick : 63
+random contig pick : 4
+random contig pick : 20
+random contig pick : 31
+random contig pick : 71
+random contig pick : 71
+random contig pick : 11
+random contig pick : 25
+random contig pick : 33
+random contig pick : 71
+random contig pick : 64
+random contig pick : 43
+random contig pick : 29
+random contig pick : 16
+random contig pick : 52
+random contig pick : 51
+random contig pick : 57
+random contig pick : 5
+random contig pick : 39
+random contig pick : 66
+random contig pick : 1
+random contig pick : 17
+random contig pick : 11
+random contig pick : 37
+random contig pick : 43
+random contig pick : 57
+random contig pick : 21
+random contig pick : 52
+random contig pick : 30
+random contig pick : 27
+random contig pick : 68
+random contig pick : 71
+random contig pick : 39
+random contig pick : 67
+random contig pick : 5
+random contig pick : 74
+random contig pick : 72
+random contig pick : 1
+random contig pick : 68
+random contig pick : 67
+random contig pick : 54
+random contig pick : 41
+random contig pick : 41
+random contig pick : 31
+random contig pick : 35
+random contig pick : 35
+random contig pick : 26
+random contig pick : 38
+random contig pick : 31
+random contig pick : 69
+random contig pick : 39
+random contig pick : 66
+random contig pick : 36
+random contig pick : 24
+random contig pick : 29
+random contig pick : 69
+random contig pick : 39
+random contig pick : 57
+random contig pick : 29
+random contig pick : 20
+random contig pick : 16
+random contig pick : 30
+random contig pick : 62
+random contig pick : 72
+random contig pick : 6
+random contig pick : 70
+random contig pick : 3
+random contig pick : 8
+random contig pick : 28
+random contig pick : 68
+random contig pick : 41
+random contig pick : 44
+random contig pick : 71
+random contig pick : 45
+random contig pick : 9
+random contig pick : 22
+random contig pick : 5
+random contig pick : 24
+random contig pick : 53
+random contig pick : 41
+random contig pick : 28
+random contig pick : 67
+random contig pick : 47
+random contig pick : 4
+random contig pick : 17
+random contig pick : 49
+random contig pick : 29
+random contig pick : 27
+random contig pick : 5
+random contig pick : 38
+random contig pick : 37
+random contig pick : 63
+random contig pick : 56
+random contig pick : 32
+random contig pick : 50
+random contig pick : 14
+random contig pick : 68
+random contig pick : 75
+random contig pick : 59
+random contig pick : 52
+random contig pick : 55
+random contig pick : 50
+random contig pick : 4
+random contig pick : 32
+random contig pick : 76
+random contig pick : 10
+random contig pick : 48
+random contig pick : 47
+random contig pick : 40
+random contig pick : 41
+random contig pick : 9
+random contig pick : 36
+random contig pick : 33
+random contig pick : 63
+random contig pick : 72
+random contig pick : 75
+random contig pick : 32
+random contig pick : 46
+random contig pick : 3
+random contig pick : 35
+random contig pick : 43
+random contig pick : 22
+random contig pick : 71
+random contig pick : 22
+random contig pick : 1
+random contig pick : 41
+random contig pick : 16
+random contig pick : 29
+random contig pick : 46
+random contig pick : 70
+random contig pick : 54
+random contig pick : 16
+random contig pick : 13
+random contig pick : 23
+random contig pick : 24
+random contig pick : 39
+random contig pick : 11
+random contig pick : 57
+random contig pick : 39
+random contig pick : 70
+random contig pick : 24
+random contig pick : 14
+random contig pick : 56
+random contig pick : 67
+random contig pick : 49
+random contig pick : 8
+random contig pick : 35
+random contig pick : 59
+random contig pick : 76
+random contig pick : 23
+random contig pick : 5
+random contig pick : 37
+random contig pick : 73
+random contig pick : 62
+random contig pick : 52
+random contig pick : 12
+random contig pick : 52
+random contig pick : 67
+random contig pick : 14
+random contig pick : 47
+random contig pick : 20
+random contig pick : 41
+random contig pick : 10
+random contig pick : 45
+random contig pick : 6
+random contig pick : 72
+random contig pick : 12
+random contig pick : 22
+random contig pick : 19
+random contig pick : 36
+random contig pick : 44
+random contig pick : 17
+random contig pick : 20
+random contig pick : 31
+random contig pick : 74
+random contig pick : 26
+random contig pick : 57
+random contig pick : 9
+random contig pick : 16
+random contig pick : 66
+random contig pick : 58
+random contig pick : 30
+random contig pick : 51
+random contig pick : 65
+random contig pick : 32
+random contig pick : 3
+random contig pick : 57
+random contig pick : 61
+random contig pick : 35
+random contig pick : 48
+random contig pick : 39
+random contig pick : 61
+random contig pick : 66
+random contig pick : 61
+random contig pick : 8
+random contig pick : 3
+random contig pick : 21
+random contig pick : 23
+random contig pick : 8
+random contig pick : 28
+random contig pick : 15
+random contig pick : 68
+random contig pick : 39
+random contig pick : 35
+random contig pick : 67
+random contig pick : 58
+random contig pick : 28
+random contig pick : 23
+random contig pick : 25
+random contig pick : 10
+random contig pick : 40
+random contig pick : 7
+random contig pick : 23
+random contig pick : 28
+random contig pick : 1
+random contig pick : 38
+random contig pick : 3
+random contig pick : 53
+random contig pick : 24
+random contig pick : 21
+random contig pick : 7
+random contig pick : 50
+random contig pick : 20
+random contig pick : 4
+random contig pick : 49
+random contig pick : 47
+random contig pick : 49
+random contig pick : 39
+random contig pick : 32
+random contig pick : 66
+random contig pick : 20
+random contig pick : 44
+random contig pick : 50
+random contig pick : 7
+random contig pick : 26
+random contig pick : 54
+random contig pick : 42
+random contig pick : 22
+random contig pick : 9
+random contig pick : 13
+random contig pick : 68
+random contig pick : 17
+random contig pick : 70
+random contig pick : 53
+random contig pick : 35
+random contig pick : 64
+random contig pick : 10
+random contig pick : 54
+random contig pick : 20
+random contig pick : 65
+random contig pick : 16
+random contig pick : 1
+random contig pick : 29
+random contig pick : 17
+random contig pick : 44
+random contig pick : 54
+random contig pick : 48
+random contig pick : 65
+random contig pick : 74
+random contig pick : 29
+random contig pick : 75
+random contig pick : 39
+random contig pick : 71
+random contig pick : 51
+random contig pick : 63
+random contig pick : 72
+random contig pick : 35
+random contig pick : 46
+random contig pick : 75
+random contig pick : 76
+random contig pick : 74
+random contig pick : 24
+random contig pick : 54
+random contig pick : 42
+random contig pick : 5
+random contig pick : 49
+random contig pick : 42
+random contig pick : 27
+random contig pick : 67
+random contig pick : 59
+random contig pick : 45
+random contig pick : 1
+random contig pick : 6
+random contig pick : 11
+random contig pick : 50
+random contig pick : 30
+random contig pick : 11
+random contig pick : 24
+random contig pick : 17
+random contig pick : 3
+random contig pick : 65
+random contig pick : 35
+random contig pick : 33
+random contig pick : 46
+random contig pick : 30
+random contig pick : 10
+random contig pick : 46
+random contig pick : 14
+random contig pick : 39
+random contig pick : 39
+random contig pick : 35
+random contig pick : 23
+random contig pick : 2
+random contig pick : 17
+random contig pick : 40
+random contig pick : 43
+random contig pick : 32
+random contig pick : 57
+random contig pick : 2
+random contig pick : 13
+random contig pick : 11
+random contig pick : 10
+random contig pick : 69
+random contig pick : 22
+random contig pick : 52
+random contig pick : 48
+random contig pick : 26
+random contig pick : 40
+random contig pick : 56
+random contig pick : 13
+random contig pick : 73
+random contig pick : 22
+random contig pick : 2
+random contig pick : 33
+random contig pick : 1
+random contig pick : 40
+random contig pick : 24
+random contig pick : 56
+random contig pick : 57
+random contig pick : 62
+random contig pick : 71
+random contig pick : 70
+random contig pick : 14
+random contig pick : 56
+random contig pick : 44
+random contig pick : 42
+random contig pick : 4
+random contig pick : 56
+random contig pick : 67
+random contig pick : 15
+random contig pick : 5
+random contig pick : 45
+random contig pick : 7
+random contig pick : 30
+random contig pick : 1
+random contig pick : 14
+random contig pick : 12
+random contig pick : 73
+random contig pick : 75
+random contig pick : 32
+random contig pick : 21
+random contig pick : 73
+random contig pick : 9
+random contig pick : 69
+random contig pick : 67
+random contig pick : 46
+random contig pick : 54
+random contig pick : 76
+random contig pick : 26
+random contig pick : 13
+random contig pick : 38
+random contig pick : 23
+random contig pick : 25
+random contig pick : 35
+random contig pick : 53
+random contig pick : 45
+random contig pick : 6
+random contig pick : 28
+random contig pick : 33
+random contig pick : 13
+random contig pick : 15
+random contig pick : 72
+random contig pick : 39
+random contig pick : 19
+random contig pick : 62
+random contig pick : 59
+random contig pick : 75
+random contig pick : 25
+random contig pick : 20
+random contig pick : 59
+random contig pick : 25
+random contig pick : 42
+random contig pick : 2
+random contig pick : 61
+random contig pick : 55
+random contig pick : 8
+random contig pick : 5
+random contig pick : 73
+random contig pick : 63
+random contig pick : 35
+random contig pick : 37
+random contig pick : 29
+random contig pick : 11
+random contig pick : 11
+random contig pick : 30
+random contig pick : 25
+random contig pick : 20
+random contig pick : 71
+random contig pick : 10
+random contig pick : 18
+random contig pick : 24
+random contig pick : 50
+random contig pick : 25
+random contig pick : 27
+random contig pick : 54
+random contig pick : 70
+random contig pick : 68
+random contig pick : 33
+random contig pick : 47
+random contig pick : 74
+random contig pick : 46
+random contig pick : 2
+random contig pick : 69
+random contig pick : 75
+random contig pick : 20
+random contig pick : 31
+random contig pick : 25
+random contig pick : 43
+random contig pick : 28
+random contig pick : 49
+random contig pick : 56
+random contig pick : 32
+random contig pick : 37
+random contig pick : 4
+random contig pick : 1
+random contig pick : 16
+random contig pick : 67
+random contig pick : 19
+random contig pick : 16
+random contig pick : 41
+random contig pick : 30
+random contig pick : 46
+random contig pick : 72
+random contig pick : 54
+random contig pick : 42
+random contig pick : 60
+random contig pick : 61
+random contig pick : 28
+random contig pick : 28
+random contig pick : 20
+random contig pick : 42
+random contig pick : 26
+random contig pick : 68
+random contig pick : 4
+random contig pick : 49
+random contig pick : 32
+random contig pick : 74
+random contig pick : 63
+random contig pick : 13
+random contig pick : 2
+random contig pick : 40
+random contig pick : 53
+random contig pick : 19
+random contig pick : 69
+random contig pick : 76
+random contig pick : 59
+random contig pick : 37
+random contig pick : 31
+random contig pick : 74
+random contig pick : 60
+random contig pick : 39
+random contig pick : 7
+random contig pick : 66
+random contig pick : 67
+random contig pick : 3
+random contig pick : 74
+random contig pick : 46
+random contig pick : 39
+random contig pick : 61
+random contig pick : 49
+random contig pick : 52
+random contig pick : 38
+random contig pick : 59
+random contig pick : 51
+random contig pick : 6
+random contig pick : 10
+random contig pick : 76
+random contig pick : 59
+random contig pick : 15
+random contig pick : 8
+random contig pick : 7
+random contig pick : 53
+random contig pick : 32
+random contig pick : 23
+random contig pick : 11
+random contig pick : 57
+random contig pick : 72
+random contig pick : 25
+random contig pick : 34
+random contig pick : 11
+random contig pick : 50
+random contig pick : 25
+random contig pick : 5
+random contig pick : 31
+random contig pick : 61
+random contig pick : 72
+random contig pick : 34
+random contig pick : 49
+random contig pick : 36
+random contig pick : 33
+random contig pick : 14
+random contig pick : 31
+random contig pick : 4
+random contig pick : 63
+random contig pick : 51
+random contig pick : 23
+random contig pick : 48
+random contig pick : 3
+random contig pick : 9
+random contig pick : 4
+random contig pick : 26
+random contig pick : 44
+random contig pick : 65
+random contig pick : 61
+random contig pick : 6
+random contig pick : 6
+random contig pick : 24
+random contig pick : 6
+random contig pick : 34
+random contig pick : 53
+random contig pick : 46
+random contig pick : 11
+random contig pick : 49
+random contig pick : 20
+random contig pick : 22
+random contig pick : 69
+random contig pick : 6
+random contig pick : 21
+random contig pick : 49
+random contig pick : 22
+random contig pick : 19
+random contig pick : 13
+random contig pick : 20
+random contig pick : 59
+random contig pick : 51
+random contig pick : 30
+random contig pick : 23
+random contig pick : 25
+random contig pick : 50
+random contig pick : 3
+random contig pick : 35
+random contig pick : 51
+random contig pick : 7
+random contig pick : 11
+random contig pick : 23
+random contig pick : 57
+random contig pick : 4
+random contig pick : 10
+random contig pick : 10
+random contig pick : 46
+random contig pick : 5
+random contig pick : 9
+random contig pick : 32
+random contig pick : 8
+random contig pick : 17
+random contig pick : 74
+random contig pick : 40
+random contig pick : 6
+random contig pick : 20
+random contig pick : 39
+random contig pick : 15
+random contig pick : 49
+random contig pick : 56
+random contig pick : 4
+random contig pick : 4
+random contig pick : 9
+random contig pick : 35
+random contig pick : 10
+random contig pick : 37
+random contig pick : 22
+random contig pick : 14
+random contig pick : 66
+random contig pick : 41
+random contig pick : 1
+random contig pick : 26
+random contig pick : 8
+random contig pick : 56
+random contig pick : 52
+random contig pick : 53
+random contig pick : 5
+random contig pick : 26
+random contig pick : 13
+random contig pick : 43
+random contig pick : 73
+random contig pick : 68
+random contig pick : 42
+random contig pick : 46
+random contig pick : 69
+random contig pick : 50
+random contig pick : 16
+random contig pick : 2
+random contig pick : 53
+random contig pick : 60
+random contig pick : 61
+random contig pick : 72
+random contig pick : 26
+random contig pick : 75
+random contig pick : 35
+random contig pick : 51
+random contig pick : 13
+random contig pick : 75
+random contig pick : 37
+random contig pick : 12
+random contig pick : 15
+random contig pick : 7
+random contig pick : 50
+random contig pick : 53
+random contig pick : 1
+random contig pick : 24
+random contig pick : 38
+random contig pick : 55
+random contig pick : 47
+random contig pick : 15
+random contig pick : 73
+random contig pick : 1
+random contig pick : 47
+random contig pick : 61
+random contig pick : 48
+random contig pick : 21
+random contig pick : 44
+random contig pick : 37
+random contig pick : 10
+random contig pick : 28
+random contig pick : 67
+random contig pick : 34
+random contig pick : 28
+random contig pick : 30
+random contig pick : 33
+random contig pick : 76
+random contig pick : 57
+random contig pick : 70
+random contig pick : 33
+random contig pick : 33
+random contig pick : 18
+random contig pick : 59
+random contig pick : 7
+random contig pick : 25
+random contig pick : 45
+random contig pick : 76
+random contig pick : 7
+random contig pick : 45
+random contig pick : 17
+random contig pick : 59
+random contig pick : 33
+random contig pick : 19
+random contig pick : 6
+random contig pick : 33
+random contig pick : 8
+random contig pick : 74
+random contig pick : 16
+random contig pick : 63
+random contig pick : 42
+random contig pick : 35
+random contig pick : 14
+random contig pick : 8
+random contig pick : 31
+random contig pick : 11
+random contig pick : 6
+random contig pick : 37
+random contig pick : 24
+random contig pick : 43
+random contig pick : 56
+random contig pick : 15
+random contig pick : 28
+random contig pick : 39
+random contig pick : 70
+random contig pick : 34
+random contig pick : 65
+random contig pick : 51
+random contig pick : 14
+random contig pick : 34
+random contig pick : 48
+random contig pick : 75
+random contig pick : 75
+random contig pick : 12
+random contig pick : 31
+random contig pick : 10
+random contig pick : 63
+random contig pick : 54
+random contig pick : 69
+random contig pick : 67
+random contig pick : 51
+random contig pick : 61
+random contig pick : 24
+random contig pick : 4
+random contig pick : 14
+random contig pick : 15
+random contig pick : 49
+random contig pick : 57
+random contig pick : 25
+random contig pick : 28
+random contig pick : 67
+random contig pick : 6
+random contig pick : 63
+random contig pick : 19
+random contig pick : 71
+random contig pick : 55
+random contig pick : 64
+random contig pick : 9
+random contig pick : 70
+random contig pick : 39
+random contig pick : 17
+random contig pick : 57
+random contig pick : 76
+random contig pick : 48
+random contig pick : 18
+random contig pick : 49
+random contig pick : 8
+random contig pick : 15
+random contig pick : 19
+random contig pick : 8
+random contig pick : 24
+random contig pick : 28
+random contig pick : 15
+random contig pick : 73
+random contig pick : 26
+random contig pick : 42
+random contig pick : 56
+random contig pick : 25
+random contig pick : 25
+random contig pick : 22
+random contig pick : 12
+random contig pick : 8
+random contig pick : 49
+random contig pick : 10
+random contig pick : 32
+random contig pick : 67
+random contig pick : 42
+random contig pick : 41
+random contig pick : 64
+random contig pick : 13
+random contig pick : 17
+random contig pick : 37
+random contig pick : 45
+random contig pick : 59
+random contig pick : 48
+random contig pick : 68
+random contig pick : 48
+random contig pick : 34
+random contig pick : 66
+random contig pick : 11
+random contig pick : 28
+random contig pick : 76
+random contig pick : 5
+random contig pick : 55
+random contig pick : 56
+random contig pick : 48
+random contig pick : 66
+random contig pick : 34
+random contig pick : 30
+random contig pick : 27
+random contig pick : 24
+random contig pick : 39
+random contig pick : 11
+random contig pick : 24
+random contig pick : 20
+random contig pick : 21
+random contig pick : 23
+random contig pick : 56
+random contig pick : 35
+random contig pick : 4
+random contig pick : 66
+random contig pick : 58
+random contig pick : 39
+random contig pick : 63
+random contig pick : 6
+random contig pick : 28
+random contig pick : 39
+random contig pick : 32
+random contig pick : 9
+random contig pick : 19
+random contig pick : 67
+random contig pick : 30
+random contig pick : 61
+random contig pick : 24
+random contig pick : 46
+random contig pick : 51
+random contig pick : 26
+random contig pick : 35
+random contig pick : 61
+random contig pick : 20
+random contig pick : 18
+random contig pick : 75
+random contig pick : 3
+random contig pick : 70
+random contig pick : 62
+random contig pick : 74
+random contig pick : 30
+random contig pick : 41
+random contig pick : 32
+random contig pick : 75
+random contig pick : 76
+random contig pick : 4
+random contig pick : 12
+random contig pick : 53
+random contig pick : 7
+random contig pick : 10
+random contig pick : 63
+random contig pick : 44
+random contig pick : 67
+random contig pick : 65
+random contig pick : 50
+random contig pick : 31
+random contig pick : 71
+random contig pick : 36
+random contig pick : 5
+random contig pick : 5
+random contig pick : 35
+random contig pick : 71
+random contig pick : 25
+random contig pick : 13
+random contig pick : 43
+random contig pick : 5
+random contig pick : 22
+random contig pick : 24
+random contig pick : 26
+random contig pick : 66
+random contig pick : 71
+random contig pick : 63
+random contig pick : 34
+random contig pick : 31
+random contig pick : 65
+random contig pick : 29
+random contig pick : 20
+random contig pick : 46
+random contig pick : 41
+random contig pick : 50
+random contig pick : 50
+random contig pick : 18
+random contig pick : 70
+random contig pick : 4
+random contig pick : 13
+random contig pick : 76
+random contig pick : 20
+random contig pick : 11
+random contig pick : 23
+random contig pick : 16
+random contig pick : 3
+random contig pick : 45
+random contig pick : 23
+random contig pick : 53
+random contig pick : 56
+random contig pick : 68
+random contig pick : 71
+random contig pick : 16
+random contig pick : 29
+random contig pick : 47
+random contig pick : 76
+random contig pick : 26
+random contig pick : 16
+random contig pick : 72
+random contig pick : 46
+random contig pick : 56
+random contig pick : 8
+random contig pick : 24
+random contig pick : 56
+random contig pick : 75
+random contig pick : 11
+random contig pick : 17
+random contig pick : 38
+random contig pick : 45
+random contig pick : 40
+random contig pick : 72
+random contig pick : 22
+random contig pick : 55
+random contig pick : 48
+random contig pick : 8
+random contig pick : 8
+random contig pick : 73
+random contig pick : 27
+random contig pick : 3
+random contig pick : 20
+random contig pick : 40
+random contig pick : 46
+random contig pick : 27
+random contig pick : 55
+random contig pick : 72
+random contig pick : 62
+random contig pick : 73
+random contig pick : 42
+random contig pick : 53
+random contig pick : 4
+random contig pick : 63
+random contig pick : 63
+random contig pick : 1
+random contig pick : 38
+random contig pick : 22
+random contig pick : 16
+random contig pick : 20
+random contig pick : 28
+random contig pick : 70
+random contig pick : 53
+random contig pick : 45
+random contig pick : 20
+random contig pick : 64
+random contig pick : 18
+random contig pick : 20
+random contig pick : 72
+random contig pick : 50
+random contig pick : 68
+random contig pick : 38
+random contig pick : 72
+random contig pick : 34
+random contig pick : 54
+random contig pick : 14
+random contig pick : 44
+random contig pick : 48
+random contig pick : 54
+random contig pick : 18
+random contig pick : 34
+random contig pick : 13
+random contig pick : 75
+random contig pick : 9
+random contig pick : 49
+random contig pick : 49
+random contig pick : 2
+random contig pick : 37
+random contig pick : 4
+random contig pick : 20
+random contig pick : 60
+random contig pick : 6
+random contig pick : 19
+random contig pick : 21
+random contig pick : 63
+random contig pick : 42
+random contig pick : 12
+random contig pick : 20
+random contig pick : 63
+random contig pick : 27
+random contig pick : 35
+random contig pick : 55
+random contig pick : 57
+random contig pick : 8
+random contig pick : 26
+random contig pick : 76
+random contig pick : 27
+random contig pick : 5
+random contig pick : 23
+random contig pick : 70
+random contig pick : 14
+random contig pick : 24
+random contig pick : 51
+random contig pick : 34
+random contig pick : 49
+random contig pick : 75
+random contig pick : 3
+random contig pick : 12
+random contig pick : 20
+random contig pick : 57
+random contig pick : 29
+random contig pick : 38
+random contig pick : 9
+random contig pick : 12
+random contig pick : 3
+random contig pick : 68
+random contig pick : 46
+random contig pick : 41
+random contig pick : 53
+random contig pick : 17
+random contig pick : 72
+random contig pick : 47
+random contig pick : 15
+random contig pick : 27
+random contig pick : 41
+random contig pick : 15
+random contig pick : 17
+random contig pick : 76
+random contig pick : 76
+random contig pick : 33
+random contig pick : 14
+random contig pick : 51
+random contig pick : 61
+random contig pick : 49
+random contig pick : 52
+random contig pick : 36
+random contig pick : 66
+random contig pick : 3
+random contig pick : 51
+random contig pick : 49
+random contig pick : 10
+random contig pick : 14
+random contig pick : 4
+random contig pick : 18
+random contig pick : 52
+random contig pick : 74
+random contig pick : 17
+random contig pick : 29
+random contig pick : 2
+random contig pick : 70
+random contig pick : 45
+random contig pick : 26
+random contig pick : 62
+random contig pick : 68
+random contig pick : 32
+random contig pick : 52
+random contig pick : 52
+random contig pick : 17
+random contig pick : 61
+random contig pick : 3
+random contig pick : 24
+random contig pick : 12
+random contig pick : 68
+random contig pick : 66
+random contig pick : 12
+random contig pick : 37
+random contig pick : 61
+random contig pick : 15
+random contig pick : 8
+random contig pick : 30
+random contig pick : 60
+random contig pick : 40
+random contig pick : 11
+random contig pick : 62
+random contig pick : 72
+random contig pick : 68
+random contig pick : 31
+random contig pick : 21
+random contig pick : 54
+random contig pick : 36
+random contig pick : 34
+random contig pick : 55
+random contig pick : 42
+random contig pick : 76
+random contig pick : 63
+random contig pick : 63
+random contig pick : 14
+random contig pick : 59
+random contig pick : 12
+random contig pick : 11
+random contig pick : 26
+random contig pick : 56
+random contig pick : 37
+random contig pick : 36
+random contig pick : 20
+random contig pick : 54
+random contig pick : 38
+random contig pick : 61
+random contig pick : 74
+random contig pick : 71
+random contig pick : 41
+random contig pick : 26
+random contig pick : 29
+random contig pick : 5
+random contig pick : 24
+random contig pick : 5
+random contig pick : 17
+random contig pick : 12
+random contig pick : 15
+random contig pick : 43
+random contig pick : 37
+random contig pick : 70
+random contig pick : 12
+random contig pick : 52
+random contig pick : 62
+random contig pick : 2
+random contig pick : 32
+random contig pick : 22
+random contig pick : 50
+random contig pick : 66
+random contig pick : 72
+random contig pick : 75
+random contig pick : 40
+random contig pick : 59
+random contig pick : 59
+random contig pick : 5
+random contig pick : 74
+random contig pick : 19
+random contig pick : 23
+random contig pick : 74
+random contig pick : 22
+random contig pick : 23
+random contig pick : 21
+random contig pick : 6
+random contig pick : 1
+random contig pick : 49
+random contig pick : 57
+random contig pick : 63
+random contig pick : 13
+random contig pick : 33
+random contig pick : 72
+random contig pick : 42
+random contig pick : 33
+random contig pick : 47
+random contig pick : 72
+random contig pick : 17
+random contig pick : 55
+random contig pick : 36
+random contig pick : 32
+random contig pick : 15
+random contig pick : 48
+random contig pick : 29
+random contig pick : 51
+random contig pick : 16
+random contig pick : 1
+random contig pick : 40
+random contig pick : 75
+random contig pick : 22
+random contig pick : 39
+random contig pick : 46
+random contig pick : 70
+random contig pick : 56
+random contig pick : 62
+random contig pick : 33
+random contig pick : 9
+random contig pick : 10
+random contig pick : 3
+random contig pick : 22
+random contig pick : 32
+random contig pick : 45
+random contig pick : 44
+random contig pick : 28
+random contig pick : 27
+random contig pick : 47
+random contig pick : 51
+random contig pick : 30
+random contig pick : 9
+random contig pick : 72
+random contig pick : 70
+random contig pick : 68
+random contig pick : 37
+random contig pick : 5
+random contig pick : 53
+random contig pick : 26
+random contig pick : 63
+random contig pick : 5
+random contig pick : 60
+random contig pick : 69
+random contig pick : 71
+random contig pick : 48
+random contig pick : 76
+random contig pick : 7
+random contig pick : 6
+random contig pick : 67
+random contig pick : 26
+random contig pick : 76
+random contig pick : 54
+random contig pick : 59
+random contig pick : 71
+random contig pick : 46
+random contig pick : 68
+random contig pick : 60
+random contig pick : 17
+random contig pick : 49
+random contig pick : 16
+random contig pick : 5
+random contig pick : 71
+random contig pick : 14
+random contig pick : 34
+random contig pick : 18
+random contig pick : 59
+random contig pick : 57
+random contig pick : 9
+random contig pick : 74
+random contig pick : 47
+random contig pick : 55
+random contig pick : 7
+random contig pick : 48
+random contig pick : 59
+random contig pick : 68
+random contig pick : 45
+random contig pick : 28
+random contig pick : 26
+random contig pick : 69
+random contig pick : 38
+random contig pick : 19
+random contig pick : 35
+random contig pick : 42
+random contig pick : 36
+random contig pick : 7
+random contig pick : 63
+random contig pick : 2
+random contig pick : 31
+random contig pick : 11
+random contig pick : 52
+random contig pick : 58
+random contig pick : 50
+random contig pick : 46
+random contig pick : 42
+random contig pick : 60
+random contig pick : 54
+random contig pick : 19
+random contig pick : 25
+random contig pick : 21
+random contig pick : 42
+random contig pick : 24
+random contig pick : 30
+random contig pick : 5
+random contig pick : 16
+random contig pick : 8
+random contig pick : 11
+random contig pick : 15
+random contig pick : 34
+random contig pick : 36
+random contig pick : 9
+random contig pick : 53
+random contig pick : 23
+random contig pick : 38
+random contig pick : 46
+random contig pick : 45
+random contig pick : 58
+random contig pick : 8
+random contig pick : 17
+random contig pick : 41
+random contig pick : 56
+random contig pick : 29
+random contig pick : 22
+random contig pick : 24
+random contig pick : 50
+random contig pick : 38
+random contig pick : 39
+random contig pick : 75
+random contig pick : 2
+random contig pick : 2
+random contig pick : 31
+random contig pick : 34
+random contig pick : 30
+random contig pick : 69
+random contig pick : 43
+random contig pick : 75
+random contig pick : 2
+random contig pick : 43
+random contig pick : 72
+random contig pick : 48
+random contig pick : 38
+random contig pick : 42
+random contig pick : 72
+random contig pick : 58
+random contig pick : 48
+random contig pick : 9
+random contig pick : 27
+random contig pick : 2
+random contig pick : 69
+random contig pick : 34
+random contig pick : 72
+random contig pick : 44
+random contig pick : 34
+random contig pick : 64
+random contig pick : 44
+random contig pick : 4
+random contig pick : 48
+random contig pick : 67
+random contig pick : 6
+random contig pick : 23
+random contig pick : 65
+random contig pick : 7
+random contig pick : 26
+random contig pick : 38
+random contig pick : 9
+random contig pick : 72
+random contig pick : 8
+random contig pick : 5
+random contig pick : 6
+random contig pick : 76
+random contig pick : 34
+random contig pick : 48
+random contig pick : 31
+random contig pick : 27
+random contig pick : 31
+random contig pick : 7
+random contig pick : 73
+random contig pick : 17
+random contig pick : 57
+random contig pick : 31
+random contig pick : 32
+random contig pick : 14
+random contig pick : 16
+random contig pick : 40
+random contig pick : 72
+random contig pick : 37
+random contig pick : 49
+random contig pick : 38
+random contig pick : 24
+random contig pick : 68
+random contig pick : 29
+random contig pick : 6
+random contig pick : 65
+random contig pick : 5
+random contig pick : 71
+random contig pick : 38
+random contig pick : 14
+random contig pick : 16
+random contig pick : 43
+random contig pick : 45
+random contig pick : 24
+random contig pick : 72
+random contig pick : 56
+random contig pick : 39
+random contig pick : 23
+random contig pick : 76
+random contig pick : 45
+random contig pick : 2
+random contig pick : 51
+random contig pick : 46
+random contig pick : 64
+random contig pick : 32
+random contig pick : 9
+random contig pick : 11
+random contig pick : 74
+random contig pick : 24
+random contig pick : 2
+random contig pick : 59
+random contig pick : 7
+random contig pick : 32
+random contig pick : 43
+random contig pick : 70
+random contig pick : 59
+random contig pick : 17
+random contig pick : 14
+random contig pick : 60
+random contig pick : 64
+random contig pick : 33
+random contig pick : 15
+random contig pick : 18
+random contig pick : 73
+random contig pick : 53
+random contig pick : 28
+random contig pick : 22
+random contig pick : 9
+random contig pick : 60
+random contig pick : 56
+random contig pick : 70
+random contig pick : 17
+random contig pick : 59
+random contig pick : 24
+random contig pick : 46
+random contig pick : 20
+random contig pick : 16
+random contig pick : 31
+random contig pick : 31
+random contig pick : 26
+random contig pick : 53
+random contig pick : 1
+random contig pick : 74
+random contig pick : 75
+random contig pick : 56
+random contig pick : 52
+random contig pick : 47
+random contig pick : 3
+random contig pick : 20
+random contig pick : 68
+random contig pick : 40
+random contig pick : 22
+random contig pick : 28
+random contig pick : 39
+random contig pick : 51
+random contig pick : 58
+random contig pick : 19
+random contig pick : 74
+random contig pick : 48
+random contig pick : 51
+random contig pick : 25
+random contig pick : 28
+random contig pick : 41
+random contig pick : 14
+random contig pick : 44
+random contig pick : 10
+random contig pick : 14
+random contig pick : 5
+random contig pick : 4
+random contig pick : 34
+random contig pick : 23
+random contig pick : 28
+random contig pick : 38
+random contig pick : 40
+random contig pick : 27
+random contig pick : 17
+random contig pick : 28
+random contig pick : 36
+############checking hash##############
+Contig n°40 --> 27 reads to generates
+Contig n°51 --> 26 reads to generates
+Contig n°53 --> 31 reads to generates
+Contig n°43 --> 24 reads to generates
+Contig n°20 --> 39 reads to generates
+Contig n°66 --> 22 reads to generates
+Contig n°19 --> 27 reads to generates
+Contig n°23 --> 30 reads to generates
+Contig n°52 --> 30 reads to generates
+Contig n°57 --> 26 reads to generates
+Contig n°34 --> 31 reads to generates
+Contig n°39 --> 32 reads to generates
+Contig n°14 --> 32 reads to generates
+Contig n°31 --> 27 reads to generates
+Contig n°35 --> 33 reads to generates
+Contig n°32 --> 35 reads to generates
+Contig n°73 --> 21 reads to generates
+Contig n°1 --> 25 reads to generates
+Contig n°21 --> 22 reads to generates
+Contig n°61 --> 26 reads to generates
+Contig n°67 --> 28 reads to generates
+Contig n°38 --> 27 reads to generates
+Contig n°70 --> 29 reads to generates
+Contig n°54 --> 29 reads to generates
+Contig n°69 --> 21 reads to generates
+Contig n°37 --> 29 reads to generates
+Contig n°29 --> 22 reads to generates
+Contig n°44 --> 19 reads to generates
+Contig n°12 --> 28 reads to generates
+Contig n°16 --> 31 reads to generates
+Contig n°15 --> 26 reads to generates
+Contig n°68 --> 31 reads to generates
+Contig n°45 --> 25 reads to generates
+Contig n°18 --> 21 reads to generates
+Contig n°42 --> 28 reads to generates
+Contig n°10 --> 27 reads to generates
+Contig n°6 --> 26 reads to generates
+Contig n°56 --> 32 reads to generates
+Contig n°24 --> 32 reads to generates
+Contig n°22 --> 31 reads to generates
+Contig n°62 --> 19 reads to generates
+Contig n°5 --> 32 reads to generates
+Contig n°71 --> 32 reads to generates
+Contig n°50 --> 27 reads to generates
+Contig n°30 --> 26 reads to generates
+Contig n°13 --> 24 reads to generates
+Contig n°47 --> 25 reads to generates
+Contig n°49 --> 31 reads to generates
+Contig n°41 --> 26 reads to generates
+Contig n°60 --> 18 reads to generates
+Contig n°33 --> 28 reads to generates
+Contig n°26 --> 32 reads to generates
+Contig n°25 --> 23 reads to generates
+Contig n°74 --> 35 reads to generates
+Contig n°8 --> 25 reads to generates
+Contig n°27 --> 20 reads to generates
+Contig n°64 --> 13 reads to generates
+Contig n°17 --> 34 reads to generates
+Contig n°28 --> 39 reads to generates
+Contig n°59 --> 32 reads to generates
+Contig n°72 --> 40 reads to generates
+Contig n°4 --> 32 reads to generates
+Contig n°65 --> 23 reads to generates
+Contig n°46 --> 27 reads to generates
+Contig n°3 --> 25 reads to generates
+Contig n°11 --> 29 reads to generates
+Contig n°9 --> 31 reads to generates
+Contig n°63 --> 32 reads to generates
+Contig n°48 --> 30 reads to generates
+Contig n°7 --> 22 reads to generates
+Contig n°75 --> 31 reads to generates
+Contig n°36 --> 25 reads to generates
+Contig n°58 --> 14 reads to generates
+Contig n°55 --> 20 reads to generates
+Contig n°2 --> 32 reads to generates
+Contig n°76 --> 30 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 25 reads in that contig (size = 353642 )
+this is record n°2
+I need 32 reads in that contig (size = 330766 )
+this is record n°3
+I need 25 reads in that contig (size = 312385 )
+this is record n°4
+I need 32 reads in that contig (size = 14403 )
+this is record n°5
+I need 32 reads in that contig (size = 242613 )
+this is record n°6
+I need 26 reads in that contig (size = 252095 )
+this is record n°7
+I need 22 reads in that contig (size = 238402 )
+this is record n°8
+I need 25 reads in that contig (size = 73526 )
+this is record n°9
+I need 31 reads in that contig (size = 158936 )
+this is record n°10
+I need 27 reads in that contig (size = 197335 )
+this is record n°11
+I need 29 reads in that contig (size = 29178 )
+this is record n°12
+I need 28 reads in that contig (size = 218159 )
+this is record n°13
+I need 24 reads in that contig (size = 204513 )
+this is record n°14
+I need 32 reads in that contig (size = 190094 )
+this is record n°15
+I need 26 reads in that contig (size = 176368 )
+this is record n°16
+I need 31 reads in that contig (size = 171738 )
+this is record n°17
+I need 34 reads in that contig (size = 147322 )
+this is record n°18
+I need 21 reads in that contig (size = 132733 )
+this is record n°19
+I need 27 reads in that contig (size = 117397 )
+this is record n°20
+I need 39 reads in that contig (size = 104263 )
+this is record n°21
+I need 22 reads in that contig (size = 12904 )
+this is record n°22
+I need 31 reads in that contig (size = 87609 )
+this is record n°23
+I need 30 reads in that contig (size = 99629 )
+this is record n°24
+I need 32 reads in that contig (size = 96569 )
+this is record n°25
+I need 23 reads in that contig (size = 94046 )
+this is record n°26
+I need 32 reads in that contig (size = 89353 )
+this is record n°27
+I need 20 reads in that contig (size = 89045 )
+this is record n°28
+I need 39 reads in that contig (size = 81652 )
+this is record n°29
+I need 22 reads in that contig (size = 73168 )
+this is record n°30
+I need 26 reads in that contig (size = 63984 )
+this is record n°31
+I need 27 reads in that contig (size = 61610 )
+this is record n°32
+I need 35 reads in that contig (size = 61031 )
+this is record n°33
+I need 28 reads in that contig (size = 58785 )
+this is record n°34
+I need 31 reads in that contig (size = 53753 )
+this is record n°35
+I need 33 reads in that contig (size = 51231 )
+this is record n°36
+I need 25 reads in that contig (size = 50909 )
+this is record n°37
+I need 29 reads in that contig (size = 42787 )
+this is record n°38
+I need 27 reads in that contig (size = 40263 )
+this is record n°39
+I need 32 reads in that contig (size = 39431 )
+this is record n°40
+I need 27 reads in that contig (size = 38911 )
+this is record n°41
+I need 26 reads in that contig (size = 38218 )
+this is record n°42
+I need 28 reads in that contig (size = 34257 )
+this is record n°43
+I need 24 reads in that contig (size = 32538 )
+this is record n°44
+I need 19 reads in that contig (size = 29525 )
+this is record n°45
+I need 25 reads in that contig (size = 29488 )
+this is record n°46
+I need 27 reads in that contig (size = 29590 )
+this is record n°47
+I need 25 reads in that contig (size = 26389 )
+this is record n°48
+I need 30 reads in that contig (size = 25849 )
+this is record n°49
+I need 31 reads in that contig (size = 24865 )
+this is record n°50
+I need 27 reads in that contig (size = 17998 )
+this is record n°51
+I need 26 reads in that contig (size = 16345 )
+this is record n°52
+I need 30 reads in that contig (size = 14947 )
+this is record n°53
+I need 31 reads in that contig (size = 10477 )
+this is record n°54
+I need 29 reads in that contig (size = 10222 )
+this is record n°55
+I need 20 reads in that contig (size = 9796 )
+this is record n°56
+I need 32 reads in that contig (size = 9720 )
+this is record n°57
+I need 26 reads in that contig (size = 9122 )
+this is record n°58
+I need 14 reads in that contig (size = 8513 )
+this is record n°59
+I need 32 reads in that contig (size = 7175 )
+this is record n°60
+I need 18 reads in that contig (size = 6748 )
+this is record n°61
+I need 26 reads in that contig (size = 6663 )
+this is record n°62
+I need 19 reads in that contig (size = 5042 )
+this is record n°63
+I need 32 reads in that contig (size = 4562 )
+this is record n°64
+I need 13 reads in that contig (size = 4492 )
+this is record n°65
+I need 23 reads in that contig (size = 2645 )
+this is record n°66
+I need 22 reads in that contig (size = 1860 )
+this is record n°67
+I need 28 reads in that contig (size = 1834 )
+this is record n°68
+I need 31 reads in that contig (size = 1807 )
+this is record n°69
+I need 21 reads in that contig (size = 1551 )
+this is record n°70
+I need 29 reads in that contig (size = 1338 )
+this is record n°71
+I need 32 reads in that contig (size = 1263 )
+this is record n°72
+I need 40 reads in that contig (size = 1297 )
+this is record n°73
+I need 21 reads in that contig (size = 1237 )
+this is record n°74
+I need 35 reads in that contig (size = 1221 )
+this is record n°75
+I need 31 reads in that contig (size = 1218 )
+this is record n°76
+I need 30 reads in that contig (size = 1175 )
+#####################error report#################
+nb of pb generated : 733560 
+nb of pb mutated : 43269 
+nb of pb inserted : 2083 
+nb of pb deleted : 1882 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:03 for 1 cpus.
+You previously had 27112:31:05.  You now have 27112:31:02 remaining for the queue oc_standard

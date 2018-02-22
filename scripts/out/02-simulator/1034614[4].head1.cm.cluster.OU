@@ -1,0 +1,32 @@
+Array launch nb 4
+nb of sequences in the file = 2
+name = def.fna
+nb_reads= 2
+nb_seq= 2
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 16
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/def.fna contains 2 and I want to generate 2
+random contig pick : 2
+random contig pick : 1
+############checking hash##############
+Contig n°1 --> 1 reads to generates
+Contig n°2 --> 1 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 1 reads in that contig (size = 2364981 )
+this is record n°2
+I need 1 reads in that contig (size = 4308966 )
+#####################error report#################
+nb of pb generated : 683 
+nb of pb mutated : 53 
+nb of pb inserted : 2 
+nb of pb deleted : 5 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:01 for 1 cpus.
+You previously had 27112:31:43.  You now have 27112:31:42 remaining for the queue oc_standard

@@ -33,9 +33,10 @@ my $offset=0;
 foreach my $key (keys %profile){
    my $value = ($profile{$key}/$total)*$nbReads;
    my $rounded = int($value + 0.5);
-   
+   if($rounded ne 0){
    print $fhe "$key.fna;$value;$rounded;$offset\n";
    $offset=$offset+$rounded;
+   }
 }
 print "In total, the simulator will produce Real_total=$offset reads\n";
 

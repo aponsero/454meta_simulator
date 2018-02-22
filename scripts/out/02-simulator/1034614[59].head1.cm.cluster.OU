@@ -1,0 +1,61 @@
+Array launch nb 59
+nb of sequences in the file = 11
+name = 1165841.3.fna
+nb_reads= 9
+nb_seq= 11
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 5248
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1165841.3.fna contains 11 and I want to generate 9
+random contig pick : 10
+random contig pick : 1
+random contig pick : 10
+random contig pick : 1
+random contig pick : 4
+random contig pick : 2
+random contig pick : 7
+random contig pick : 3
+random contig pick : 10
+############checking hash##############
+Contig n°1 --> 2 reads to generates
+Contig n°2 --> 1 reads to generates
+Contig n°10 --> 3 reads to generates
+Contig n°7 --> 1 reads to generates
+Contig n°4 --> 1 reads to generates
+Contig n°3 --> 1 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 2 reads in that contig (size = 307537 )
+this is record n°2
+I need 1 reads in that contig (size = 322562 )
+this is record n°3
+I need 1 reads in that contig (size = 294585 )
+this is record n°4
+I need 1 reads in that contig (size = 86520 )
+this is record n°5
+this contig won't be use for read generation
+this is record n°6
+this contig won't be use for read generation
+this is record n°7
+I need 1 reads in that contig (size = 112814 )
+this is record n°8
+this contig won't be use for read generation
+this is record n°9
+this contig won't be use for read generation
+this is record n°10
+I need 3 reads in that contig (size = 281840 )
+this is record n°11
+this contig won't be use for read generation
+#####################error report#################
+nb of pb generated : 3415 
+nb of pb mutated : 197 
+nb of pb inserted : 7 
+nb of pb deleted : 7 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:01 for 1 cpus.
+You previously had 27112:31:13.  You now have 27112:31:12 remaining for the queue oc_standard

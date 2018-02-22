@@ -1,0 +1,168 @@
+Array launch nb 27
+nb of sequences in the file = 70
+name = 1030157.3.fna
+nb_reads= 2
+nb_seq= 70
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 2830
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1030157.3.fna contains 70 and I want to generate 2
+random contig pick : 21
+random contig pick : 46
+############checking hash##############
+Contig n°46 --> 1 reads to generates
+Contig n°21 --> 1 reads to generates
+###########random reads generation##############
+this is record n°1
+this contig won't be use for read generation
+this is record n°2
+this contig won't be use for read generation
+this is record n°3
+this contig won't be use for read generation
+this is record n°4
+this contig won't be use for read generation
+this is record n°5
+this contig won't be use for read generation
+this is record n°6
+this contig won't be use for read generation
+this is record n°7
+this contig won't be use for read generation
+this is record n°8
+this contig won't be use for read generation
+this is record n°9
+this contig won't be use for read generation
+this is record n°10
+this contig won't be use for read generation
+this is record n°11
+this contig won't be use for read generation
+this is record n°12
+this contig won't be use for read generation
+this is record n°13
+this contig won't be use for read generation
+this is record n°14
+this contig won't be use for read generation
+this is record n°15
+this contig won't be use for read generation
+this is record n°16
+this contig won't be use for read generation
+this is record n°17
+this contig won't be use for read generation
+this is record n°18
+this contig won't be use for read generation
+this is record n°19
+this contig won't be use for read generation
+this is record n°20
+this contig won't be use for read generation
+this is record n°21
+I need 1 reads in that contig (size = 35949 )
+this is record n°22
+this contig won't be use for read generation
+this is record n°23
+this contig won't be use for read generation
+this is record n°24
+this contig won't be use for read generation
+this is record n°25
+this contig won't be use for read generation
+this is record n°26
+this contig won't be use for read generation
+this is record n°27
+this contig won't be use for read generation
+this is record n°28
+this contig won't be use for read generation
+this is record n°29
+this contig won't be use for read generation
+this is record n°30
+this contig won't be use for read generation
+this is record n°31
+this contig won't be use for read generation
+this is record n°32
+this contig won't be use for read generation
+this is record n°33
+this contig won't be use for read generation
+this is record n°34
+this contig won't be use for read generation
+this is record n°35
+this contig won't be use for read generation
+this is record n°36
+this contig won't be use for read generation
+this is record n°37
+this contig won't be use for read generation
+this is record n°38
+this contig won't be use for read generation
+this is record n°39
+this contig won't be use for read generation
+this is record n°40
+this contig won't be use for read generation
+this is record n°41
+this contig won't be use for read generation
+this is record n°42
+this contig won't be use for read generation
+this is record n°43
+this contig won't be use for read generation
+this is record n°44
+this contig won't be use for read generation
+this is record n°45
+this contig won't be use for read generation
+this is record n°46
+I need 1 reads in that contig (size = 5937 )
+this is record n°47
+this contig won't be use for read generation
+this is record n°48
+this contig won't be use for read generation
+this is record n°49
+this contig won't be use for read generation
+this is record n°50
+this contig won't be use for read generation
+this is record n°51
+this contig won't be use for read generation
+this is record n°52
+this contig won't be use for read generation
+this is record n°53
+this contig won't be use for read generation
+this is record n°54
+this contig won't be use for read generation
+this is record n°55
+this contig won't be use for read generation
+this is record n°56
+this contig won't be use for read generation
+this is record n°57
+this contig won't be use for read generation
+this is record n°58
+this contig won't be use for read generation
+this is record n°59
+this contig won't be use for read generation
+this is record n°60
+this contig won't be use for read generation
+this is record n°61
+this contig won't be use for read generation
+this is record n°62
+this contig won't be use for read generation
+this is record n°63
+this contig won't be use for read generation
+this is record n°64
+this contig won't be use for read generation
+this is record n°65
+this contig won't be use for read generation
+this is record n°66
+this contig won't be use for read generation
+this is record n°67
+this contig won't be use for read generation
+this is record n°68
+this contig won't be use for read generation
+this is record n°69
+this contig won't be use for read generation
+this is record n°70
+this contig won't be use for read generation
+#####################error report#################
+nb of pb generated : 747 
+nb of pb mutated : 46 
+nb of pb inserted : 1 
+nb of pb deleted : 1 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:03 for 1 cpus.
+You previously had 27112:31:12.  You now have 27112:31:09 remaining for the queue oc_standard

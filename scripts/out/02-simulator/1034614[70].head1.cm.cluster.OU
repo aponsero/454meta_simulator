@@ -1,0 +1,27 @@
+Array launch nb 70
+nb of sequences in the file = 1
+name = 1095955.3.fna
+nb_reads= 20
+nb_seq= 1
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 5514
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1095955.3.fna contains 1 and I want to generate 20
+############checking hash##############
+Contig n°1 --> 20 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 20 reads in that contig (size = 1139203 )
+#####################error report#################
+nb of pb generated : 7257 
+nb of pb mutated : 495 
+nb of pb inserted : 13 
+nb of pb deleted : 22 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=0b
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:00 for 1 cpus.
+You previously had 0.  You now have 0 remaining for the queue oc_standard

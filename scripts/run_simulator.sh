@@ -7,11 +7,9 @@
 module load perl
 
 cd $OUT_DIR
-echo "test array launch nb ${PBS_ARRAY_INDEX}"
+echo "Array launch nb ${PBS_ARRAY_INDEX}"
 
 LINE=`head -n +${PBS_ARRAY_INDEX} $REPORT | tail -n 1`
-
-echo $LINE
 
 arrIN=(${LINE//;/ })
 export NAME=${arrIN[0]}
@@ -21,13 +19,9 @@ export FILE="$DB_DIR/$NAME"
 export GAUSS_LINE=${arrIN[3]}
 export NB_CONTIG=$(grep -c ">" $FILE)
 
-echo "nb of sequences found = $NB_CONTIG"
+echo "nb of sequences in the file = $NB_CONTIG"
 
-if [[ $MODEL_CHOICE -eq 1 ]]
-then 
- RUN="$WORKER_DIR/model1_simulator.pl"
-else
- RUN="$WORKER_DIR/model2_simulator.pl"
-fi
+RUN="$WORKER_DIR/model${MODEL_CHOICE}_simulator.pl"
+
 
 perl $RUN $NAME $NB_READ $NB_CONTIG $DB_DIR $GAUSS_LINE

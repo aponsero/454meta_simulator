@@ -1,0 +1,374 @@
+Array launch nb 36
+nb of sequences in the file = 11
+name = 1121948.3.fna
+nb_reads= 317
+nb_seq= 11
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 2908
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1121948.3.fna contains 11 and I want to generate 317
+random contig pick : 9
+random contig pick : 8
+random contig pick : 3
+random contig pick : 5
+random contig pick : 11
+random contig pick : 9
+random contig pick : 10
+random contig pick : 5
+random contig pick : 8
+random contig pick : 8
+random contig pick : 11
+random contig pick : 10
+random contig pick : 8
+random contig pick : 7
+random contig pick : 3
+random contig pick : 4
+random contig pick : 3
+random contig pick : 5
+random contig pick : 7
+random contig pick : 9
+random contig pick : 4
+random contig pick : 1
+random contig pick : 4
+random contig pick : 1
+random contig pick : 7
+random contig pick : 1
+random contig pick : 1
+random contig pick : 9
+random contig pick : 9
+random contig pick : 7
+random contig pick : 11
+random contig pick : 9
+random contig pick : 3
+random contig pick : 7
+random contig pick : 4
+random contig pick : 4
+random contig pick : 5
+random contig pick : 10
+random contig pick : 6
+random contig pick : 9
+random contig pick : 6
+random contig pick : 7
+random contig pick : 1
+random contig pick : 11
+random contig pick : 8
+random contig pick : 6
+random contig pick : 3
+random contig pick : 10
+random contig pick : 10
+random contig pick : 9
+random contig pick : 6
+random contig pick : 10
+random contig pick : 10
+random contig pick : 5
+random contig pick : 6
+random contig pick : 4
+random contig pick : 8
+random contig pick : 2
+random contig pick : 8
+random contig pick : 4
+random contig pick : 3
+random contig pick : 9
+random contig pick : 4
+random contig pick : 8
+random contig pick : 1
+random contig pick : 9
+random contig pick : 6
+random contig pick : 5
+random contig pick : 1
+random contig pick : 2
+random contig pick : 2
+random contig pick : 6
+random contig pick : 7
+random contig pick : 2
+random contig pick : 3
+random contig pick : 7
+random contig pick : 1
+random contig pick : 9
+random contig pick : 11
+random contig pick : 4
+random contig pick : 4
+random contig pick : 3
+random contig pick : 3
+random contig pick : 4
+random contig pick : 6
+random contig pick : 8
+random contig pick : 4
+random contig pick : 7
+random contig pick : 4
+random contig pick : 4
+random contig pick : 4
+random contig pick : 9
+random contig pick : 4
+random contig pick : 9
+random contig pick : 4
+random contig pick : 1
+random contig pick : 8
+random contig pick : 9
+random contig pick : 1
+random contig pick : 10
+random contig pick : 7
+random contig pick : 7
+random contig pick : 7
+random contig pick : 9
+random contig pick : 8
+random contig pick : 5
+random contig pick : 9
+random contig pick : 8
+random contig pick : 10
+random contig pick : 8
+random contig pick : 3
+random contig pick : 7
+random contig pick : 7
+random contig pick : 2
+random contig pick : 8
+random contig pick : 2
+random contig pick : 3
+random contig pick : 3
+random contig pick : 3
+random contig pick : 9
+random contig pick : 6
+random contig pick : 7
+random contig pick : 3
+random contig pick : 5
+random contig pick : 3
+random contig pick : 6
+random contig pick : 6
+random contig pick : 2
+random contig pick : 10
+random contig pick : 9
+random contig pick : 10
+random contig pick : 8
+random contig pick : 11
+random contig pick : 6
+random contig pick : 5
+random contig pick : 11
+random contig pick : 5
+random contig pick : 5
+random contig pick : 9
+random contig pick : 7
+random contig pick : 9
+random contig pick : 2
+random contig pick : 5
+random contig pick : 7
+random contig pick : 11
+random contig pick : 11
+random contig pick : 3
+random contig pick : 6
+random contig pick : 3
+random contig pick : 1
+random contig pick : 2
+random contig pick : 4
+random contig pick : 8
+random contig pick : 8
+random contig pick : 6
+random contig pick : 8
+random contig pick : 6
+random contig pick : 5
+random contig pick : 6
+random contig pick : 7
+random contig pick : 7
+random contig pick : 2
+random contig pick : 1
+random contig pick : 7
+random contig pick : 1
+random contig pick : 8
+random contig pick : 8
+random contig pick : 4
+random contig pick : 7
+random contig pick : 8
+random contig pick : 2
+random contig pick : 4
+random contig pick : 3
+random contig pick : 4
+random contig pick : 7
+random contig pick : 2
+random contig pick : 4
+random contig pick : 3
+random contig pick : 5
+random contig pick : 4
+random contig pick : 6
+random contig pick : 1
+random contig pick : 6
+random contig pick : 3
+random contig pick : 2
+random contig pick : 1
+random contig pick : 9
+random contig pick : 2
+random contig pick : 6
+random contig pick : 11
+random contig pick : 6
+random contig pick : 10
+random contig pick : 6
+random contig pick : 6
+random contig pick : 4
+random contig pick : 9
+random contig pick : 6
+random contig pick : 1
+random contig pick : 4
+random contig pick : 11
+random contig pick : 6
+random contig pick : 3
+random contig pick : 6
+random contig pick : 1
+random contig pick : 4
+random contig pick : 11
+random contig pick : 6
+random contig pick : 2
+random contig pick : 11
+random contig pick : 8
+random contig pick : 5
+random contig pick : 6
+random contig pick : 3
+random contig pick : 7
+random contig pick : 7
+random contig pick : 7
+random contig pick : 1
+random contig pick : 7
+random contig pick : 3
+random contig pick : 4
+random contig pick : 11
+random contig pick : 1
+random contig pick : 5
+random contig pick : 9
+random contig pick : 5
+random contig pick : 8
+random contig pick : 6
+random contig pick : 2
+random contig pick : 10
+random contig pick : 10
+random contig pick : 10
+random contig pick : 2
+random contig pick : 2
+random contig pick : 8
+random contig pick : 3
+random contig pick : 7
+random contig pick : 3
+random contig pick : 8
+random contig pick : 9
+random contig pick : 6
+random contig pick : 5
+random contig pick : 2
+random contig pick : 8
+random contig pick : 1
+random contig pick : 8
+random contig pick : 1
+random contig pick : 11
+random contig pick : 1
+random contig pick : 4
+random contig pick : 2
+random contig pick : 4
+random contig pick : 1
+random contig pick : 9
+random contig pick : 10
+random contig pick : 7
+random contig pick : 1
+random contig pick : 5
+random contig pick : 8
+random contig pick : 2
+random contig pick : 10
+random contig pick : 11
+random contig pick : 1
+random contig pick : 10
+random contig pick : 10
+random contig pick : 1
+random contig pick : 1
+random contig pick : 9
+random contig pick : 9
+random contig pick : 7
+random contig pick : 10
+random contig pick : 11
+random contig pick : 1
+random contig pick : 10
+random contig pick : 3
+random contig pick : 1
+random contig pick : 8
+random contig pick : 5
+random contig pick : 11
+random contig pick : 6
+random contig pick : 11
+random contig pick : 3
+random contig pick : 1
+random contig pick : 3
+random contig pick : 8
+random contig pick : 9
+random contig pick : 3
+random contig pick : 1
+random contig pick : 2
+random contig pick : 6
+random contig pick : 9
+random contig pick : 2
+random contig pick : 4
+random contig pick : 2
+random contig pick : 6
+random contig pick : 9
+random contig pick : 6
+random contig pick : 8
+random contig pick : 5
+random contig pick : 2
+random contig pick : 8
+random contig pick : 5
+random contig pick : 2
+random contig pick : 3
+random contig pick : 1
+random contig pick : 2
+random contig pick : 3
+random contig pick : 4
+random contig pick : 10
+random contig pick : 10
+random contig pick : 4
+random contig pick : 2
+random contig pick : 9
+random contig pick : 5
+random contig pick : 8
+random contig pick : 10
+random contig pick : 2
+random contig pick : 6
+############checking hash##############
+Contig n°9 --> 31 reads to generates
+Contig n°8 --> 33 reads to generates
+Contig n°11 --> 19 reads to generates
+Contig n°4 --> 32 reads to generates
+Contig n°1 --> 32 reads to generates
+Contig n°6 --> 34 reads to generates
+Contig n°10 --> 24 reads to generates
+Contig n°7 --> 29 reads to generates
+Contig n°5 --> 23 reads to generates
+Contig n°2 --> 29 reads to generates
+Contig n°3 --> 31 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 32 reads in that contig (size = 17047 )
+this is record n°2
+I need 29 reads in that contig (size = 1236178 )
+this is record n°3
+I need 31 reads in that contig (size = 892857 )
+this is record n°4
+I need 32 reads in that contig (size = 258093 )
+this is record n°5
+I need 23 reads in that contig (size = 85446 )
+this is record n°6
+I need 34 reads in that contig (size = 149141 )
+this is record n°7
+I need 29 reads in that contig (size = 186901 )
+this is record n°8
+I need 33 reads in that contig (size = 167447 )
+this is record n°9
+I need 31 reads in that contig (size = 96720 )
+this is record n°10
+I need 24 reads in that contig (size = 66104 )
+this is record n°11
+I need 19 reads in that contig (size = 52504 )
+#####################error report#################
+nb of pb generated : 110069 
+nb of pb mutated : 6577 
+nb of pb inserted : 310 
+nb of pb deleted : 272 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:01 for 1 cpus.
+You previously had 27112:31:28.  You now have 27112:31:27 remaining for the queue oc_standard

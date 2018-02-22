@@ -1,0 +1,54 @@
+Array launch nb 31
+nb of sequences in the file = 3
+name = 1191459.5.fna
+nb_reads= 21
+nb_seq= 3
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 2880
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/1191459.5.fna contains 3 and I want to generate 21
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 3
+random contig pick : 3
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 3
+random contig pick : 2
+random contig pick : 3
+random contig pick : 2
+random contig pick : 1
+random contig pick : 2
+random contig pick : 1
+random contig pick : 3
+random contig pick : 2
+random contig pick : 3
+random contig pick : 3
+random contig pick : 2
+random contig pick : 3
+############checking hash##############
+Contig n°2 --> 9 reads to generates
+Contig n°1 --> 4 reads to generates
+Contig n°3 --> 8 reads to generates
+###########random reads generation##############
+this is record n°1
+I need 4 reads in that contig (size = 5056210 )
+this is record n°2
+I need 9 reads in that contig (size = 2188491 )
+this is record n°3
+I need 8 reads in that contig (size = 82913 )
+#####################error report#################
+nb of pb generated : 7283 
+nb of pb mutated : 459 
+nb of pb inserted : 20 
+nb of pb deleted : 18 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:01 for 1 cpus.
+You previously had 27112:31:27.  You now have 27112:31:26 remaining for the queue oc_standard

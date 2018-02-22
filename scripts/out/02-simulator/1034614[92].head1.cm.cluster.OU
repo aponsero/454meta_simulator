@@ -1,0 +1,184 @@
+Array launch nb 92
+nb of sequences in the file = 61
+name = klm.fna
+nb_reads= 20
+nb_seq= 61
+db=/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref
+GaussFile offset : 9705
+/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref/klm.fna contains 61 and I want to generate 20
+random contig pick : 4
+random contig pick : 56
+random contig pick : 41
+random contig pick : 32
+random contig pick : 2
+random contig pick : 27
+random contig pick : 8
+random contig pick : 16
+random contig pick : 49
+random contig pick : 2
+random contig pick : 52
+random contig pick : 53
+random contig pick : 60
+random contig pick : 20
+random contig pick : 23
+random contig pick : 17
+random contig pick : 28
+random contig pick : 28
+random contig pick : 10
+random contig pick : 54
+############checking hash##############
+Contig n°23 --> 1 reads to generates
+Contig n°41 --> 1 reads to generates
+Contig n°52 --> 1 reads to generates
+Contig n°32 --> 1 reads to generates
+Contig n°16 --> 1 reads to generates
+Contig n°27 --> 1 reads to generates
+Contig n°10 --> 1 reads to generates
+Contig n°2 --> 2 reads to generates
+Contig n°8 --> 1 reads to generates
+Contig n°53 --> 1 reads to generates
+Contig n°60 --> 1 reads to generates
+Contig n°4 --> 1 reads to generates
+Contig n°54 --> 1 reads to generates
+Contig n°56 --> 1 reads to generates
+Contig n°49 --> 1 reads to generates
+Contig n°20 --> 1 reads to generates
+Contig n°28 --> 2 reads to generates
+Contig n°17 --> 1 reads to generates
+###########random reads generation##############
+this is record n°1
+this contig won't be use for read generation
+this is record n°2
+I need 2 reads in that contig (size = 6948 )
+this is record n°3
+this contig won't be use for read generation
+this is record n°4
+I need 1 reads in that contig (size = 233625 )
+this is record n°5
+this contig won't be use for read generation
+this is record n°6
+this contig won't be use for read generation
+this is record n°7
+this contig won't be use for read generation
+this is record n°8
+I need 1 reads in that contig (size = 759 )
+this is record n°9
+this contig won't be use for read generation
+this is record n°10
+I need 1 reads in that contig (size = 52781 )
+this is record n°11
+this contig won't be use for read generation
+this is record n°12
+this contig won't be use for read generation
+this is record n°13
+this contig won't be use for read generation
+this is record n°14
+this contig won't be use for read generation
+this is record n°15
+this contig won't be use for read generation
+this is record n°16
+I need 1 reads in that contig (size = 33342 )
+this is record n°17
+I need 1 reads in that contig (size = 72279 )
+this is record n°18
+this contig won't be use for read generation
+this is record n°19
+this contig won't be use for read generation
+this is record n°20
+I need 1 reads in that contig (size = 143185 )
+this is record n°21
+this contig won't be use for read generation
+this is record n°22
+this contig won't be use for read generation
+this is record n°23
+I need 1 reads in that contig (size = 2720 )
+this is record n°24
+this contig won't be use for read generation
+this is record n°25
+this contig won't be use for read generation
+this is record n°26
+this contig won't be use for read generation
+this is record n°27
+I need 1 reads in that contig (size = 27716 )
+this is record n°28
+I need 2 reads in that contig (size = 124112 )
+this is record n°29
+this contig won't be use for read generation
+this is record n°30
+this contig won't be use for read generation
+this is record n°31
+this contig won't be use for read generation
+this is record n°32
+I need 1 reads in that contig (size = 92627 )
+this is record n°33
+this contig won't be use for read generation
+this is record n°34
+this contig won't be use for read generation
+this is record n°35
+this contig won't be use for read generation
+this is record n°36
+this contig won't be use for read generation
+this is record n°37
+this contig won't be use for read generation
+this is record n°38
+this contig won't be use for read generation
+this is record n°39
+this contig won't be use for read generation
+this is record n°40
+this contig won't be use for read generation
+this is record n°41
+I need 1 reads in that contig (size = 96796 )
+this is record n°42
+this contig won't be use for read generation
+this is record n°43
+this contig won't be use for read generation
+this is record n°44
+this contig won't be use for read generation
+this is record n°45
+this contig won't be use for read generation
+this is record n°46
+this contig won't be use for read generation
+this is record n°47
+this contig won't be use for read generation
+this is record n°48
+this contig won't be use for read generation
+this is record n°49
+I need 1 reads in that contig (size = 131549 )
+this is record n°50
+this contig won't be use for read generation
+this is record n°51
+this contig won't be use for read generation
+this is record n°52
+I need 1 reads in that contig (size = 93069 )
+this is record n°53
+I need 1 reads in that contig (size = 8145 )
+this is record n°54
+I need 1 reads in that contig (size = 555 )
+this is record n°55
+this contig won't be use for read generation
+this is record n°56
+I need 1 reads in that contig (size = 242 )
+this is record n°57
+this contig won't be use for read generation
+this is record n°58
+this contig won't be use for read generation
+this is record n°59
+this contig won't be use for read generation
+this is record n°60
+I need 1 reads in that contig (size = 887 )
+this is record n°61
+this contig won't be use for read generation
+#####################error report#################
+nb of pb generated : 7537 
+nb of pb mutated : 481 
+nb of pb inserted : 22 
+nb of pb deleted : 21 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:05:00
+
+Your group bhurwitz has been charged 00:00:00 for 1 cpus.
+You previously had 0.  You now have 0 remaining for the queue oc_standard
