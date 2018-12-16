@@ -1,7 +1,6 @@
 # 454meta_simulator
 
-edit script/config.log, user config section
-run ./submit
+This pipeline is a basic 454 metagenome simulator. This is intended to be run on an HPC with a PBS scheduler.
 
 ## Calculator
 takes the given profile and calculates how many reads are needed for each genome
