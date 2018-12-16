@@ -39,6 +39,7 @@ export STDOUT_DIR2="$SCRIPT_DIR/out/$PROG2"
 init_dir "$STDERR_DIR2" "$STDOUT_DIR2"
 
 export REPORT="$OUT_DIR/report.log"
+echo "report : $REPORT"
 export NUM_JOBS=$(lc $REPORT)
     echo "Error model choice : $MODEL_CHOICE"
 
@@ -59,7 +60,7 @@ if [ $NUM_JOBS -gt 1 ]; then
 else
         echo "launching $SCRIPT_DIR/run_simulator.sh as unique job."
 
-        JOB_ID=`qsub $ARGS -v MODEL_CHOICE,WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" $SCRIPT_DIR/run_simulator.sh`
+        JOB_ID=`qsub $ARGS -v MODEL_CHOICE,OUT_DIR,WORKER_DIR,DB_DIR,REPORT,STDERR_DIR2,STDOUT_DIR2 -N run_simulation -e "$STDERR_DIR2" -o "$STDOUT_DIR2" $SCRIPT_DIR/run_uniq_simulator.sh`
 
         if [ "${JOB_ID}x" != "x" ]; then
              echo Job: \"$JOB_ID\"

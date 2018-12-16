@@ -3,7 +3,7 @@ export CWD=$PWD
 export BIN_DIR="/rsgrps/bhurwitz/hurwitzlab/bin"
 # user configs
 export OUT_DIR="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline"
-export NB_READ=10000
+export NB_READ=100000
 export PROFILE="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/test_uniq.txt"
 export DB_DIR="/rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/test_pipeline/ref"
 export MODEL_CHOICE=3 #Choose error model 1, 2 or 3
