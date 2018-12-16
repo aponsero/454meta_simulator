@@ -1,6 +1,0 @@
-Use of uninitialized value $row in scalar chomp at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/simulator.pl line 37, <$gf> line 1000.
-Use of uninitialized value $_ in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/simulator.pl line 47, <$gf> line 1000.
-Use of uninitialized value $readSize in subtraction (-) at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/simulator.pl line 102, <GEN0> line 2468.
-Use of uninitialized value $readSize in addition (+) at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/simulator.pl line 105, <GEN0> line 2468.
-Use of uninitialized value $readSize in concatenation (.) or string at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/simulator.pl line 107, <GEN0> line 2468.
-Use of uninitialized value $readSize in substr at /rsgrps/bhurwitz/alise/my_scripts/454meta_simulator/scripts/workers/simulator.pl line 110, <GEN0> line 2468.
