@@ -1,9 +1,0 @@
-
-You may want to consider changing your batch submission script as follows to speed up your job run next time:
-
-#PBS -l select=1:ncpus=1:mem=0b
-#PBS -l place=free:shared
-#PBS -l walltime=00:05:00
-
-Your group bhurwitz has been charged 00:00:02 for 1 cpus.
-You previously had 27112:30:30.  You now have 27112:30:28 remaining for the queue oc_standard
